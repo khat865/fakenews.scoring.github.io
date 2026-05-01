@@ -307,7 +307,7 @@ body {
 
 .news-card,
 .rating-card,
-.reason-card {
+.aspect-card {
   padding: 16px;
   border-radius: 18px;
   border: 1px solid var(--line);
@@ -424,53 +424,62 @@ body {
   gap: 12px;
 }
 
-.reason-hint {
-  padding: 12px 14px;
-  border-radius: 14px;
-  background: #f7f1e7;
-  border: 1px dashed var(--line);
-  color: var(--muted);
-  font-size: 14px;
-}
-
-.reason-grid {
+.aspect-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 12px;
 }
 
-.reason-card {
+.aspect-card {
   display: grid;
   gap: 10px;
   background: linear-gradient(180deg, #fff, #fbf7f2);
 }
 
-.reason-toggle {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  font-weight: 800;
-  color: var(--ink);
+.aspect-card h3 {
+  font-size: 13px;
+  color: var(--warm);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
-.reason-toggle input {
-  width: 18px;
-  height: 18px;
-  accent-color: var(--warm);
-}
-
-.reason-copy {
+.aspect-copy {
   color: var(--muted);
   line-height: 1.55;
   font-size: 14px;
 }
 
-.reason-note {
-  min-height: 108px;
+.aspect-options {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
 }
 
-.reason-card.disabled {
-  opacity: 0.58;
+.aspect-btn {
+  min-width: 0;
+  padding: 12px 10px;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.9);
+  color: var(--ink);
+  cursor: pointer;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  text-align: center;
+  transition: transform 0.16s ease, border-color 0.16s ease, box-shadow 0.16s ease, background 0.16s ease;
+}
+
+.aspect-btn:hover {
+  transform: translateY(-1px);
+  border-color: var(--accent);
+}
+
+.aspect-btn.selected {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: #fff;
+  box-shadow: 0 10px 22px rgba(31, 95, 139, 0.18);
 }
 
 .note-panel {
@@ -655,7 +664,7 @@ textarea:disabled {
     min-height: 360px;
   }
 
-  .reason-grid {
+  .aspect-grid {
     grid-template-columns: 1fr;
   }
 

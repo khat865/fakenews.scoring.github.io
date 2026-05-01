@@ -1,12 +1,10 @@
-const storageKey = "fake-news-review-v1";
+const storageKey = "fake-news-review-v2";
 
-const reasonKeys = [
-  "fabrication",
-  "distortion",
-  "false_attribution",
-  "sensationalism",
-  "data_manipulation",
-  "visual_discrepancy",
+const aspectKeys = [
+  "factual_error",
+  "language_issue",
+  "image_relevance",
+  "image_authenticity",
 ];
 
 const state = {
@@ -30,9 +28,8 @@ const elements = {
   bodyText: document.getElementById("bodyText"),
   verdictState: document.getElementById("verdictState"),
   verdictButtons: Array.from(document.querySelectorAll("#verdictButtons .verdict-btn")),
-  reasonState: document.getElementById("reasonState"),
-  reasonHint: document.getElementById("reasonHint"),
-  reasonCards: Array.from(document.querySelectorAll(".reason-card")),
+  aspectState: document.getElementById("aspectState"),
+  aspectButtons: Array.from(document.querySelectorAll("#aspectGrid .aspect-btn")),
   saveState: document.getElementById("saveState"),
   otherEvidence: document.getElementById("otherEvidence"),
   charCount: document.getElementById("charCount"),
@@ -44,18 +41,17 @@ const elements = {
   openImageBtn: document.getElementById("openImageBtn"),
 };
 
-const reasonElements = reasonKeys.reduce((accumulator, key) => {
+const aspectElements = aspectKeys.reduce((accumulator, key) => {
   accumulator[key] = {
-    checkbox: document.getElementById(`reason-${key}`),
-    note: document.getElementById(`note-${key}`),
-    card: document.querySelector(`.reason-card[data-reason="${key}"]`),
+    buttons: Array.from(document.querySelectorAll(`.aspect-btn[data-aspect="${key}"]`)),
+    card: document.querySelector(`.aspect-card[data-aspect="${key}"]`),
   };
   return accumulator;
 }, {});
 
-function emptyReasonState() {
-  return reasonKeys.reduce((accumulator, key) => {
-    accumulator[key] = { selected: false, note: "" };
+function emptyAspectState() {
+  return aspectKeys.reduce((accumulator, key) => {
+    accumulator[key] = "";
     return accumulator;
   }, {});
 }
@@ -63,7 +59,7 @@ function emptyReasonState() {
 function emptyReview() {
   return {
     verdict: "",
-    reasons: emptyReasonState(),
+    aspects: emptyAspectState(),
     other_evidence: "",
     updated_at: "",
   };
@@ -100,12 +96,10 @@ function normalizeReview(review) {
   normalized.other_evidence = review.other_evidence || "";
   normalized.updated_at = review.updated_at || "";
 
-  reasonKeys.forEach((key) => {
-    const source = review.reasons && review.reasons[key] ? review.reasons[key] : {};
-    normalized.reasons[key] = {
-      selected: Boolean(source.selected),
-      note: source.note || "",
-    };
+  aspectKeys.forEach((key) => {
+    normalized.aspects[key] = review.aspects && review.aspects[key]
+      ? review.aspects[key]
+      : "";
   });
 
   return normalized;
@@ -116,15 +110,13 @@ function entryReview(entry) {
 }
 
 function isCaseCompleted(entry) {
-  return Boolean(entryReview(entry).verdict);
+  const review = entryReview(entry);
+  return Boolean(review.verdict) && aspectKeys.every((key) => Boolean(review.aspects[key]));
 }
 
 function hasReasonDetails(entry) {
   const review = entryReview(entry);
-  if (review.other_evidence.trim()) {
-    return true;
-  }
-  return reasonKeys.some((key) => review.reasons[key].selected || review.reasons[key].note.trim());
+  return Boolean(review.other_evidence.trim());
 }
 
 function updateCounts() {
@@ -201,18 +193,16 @@ function render() {
   elements.otherEvidence.value = review.other_evidence;
   elements.charCount.textContent = `${review.other_evidence.length} characters`;
   elements.verdictState.textContent = verdictLabel(review.verdict);
-  elements.reasonState.textContent = review.updated_at ? `Saved ${new Date(review.updated_at).toLocaleString()}` : "Optional";
+  elements.aspectState.textContent = review.updated_at ? `Saved ${new Date(review.updated_at).toLocaleString()}` : "Required";
   elements.saveState.textContent = review.updated_at && review.other_evidence.trim()
     ? `Saved ${new Date(review.updated_at).toLocaleString()}`
     : "Optional";
 
-  reasonKeys.forEach((key) => {
-    reasonElements[key].checkbox.checked = review.reasons[key].selected;
-    reasonElements[key].note.value = review.reasons[key].note;
+  aspectKeys.forEach((key) => {
+    updateAspectButtons(key, review.aspects[key]);
   });
 
   updateVerdictButtons(review.verdict);
-  updateReasonAvailability(review.verdict === "fake");
 
   elements.prevBtn.disabled = state.currentIndex === 0;
   elements.nextBtn.disabled = state.currentIndex === state.dataset.entries.length - 1;
@@ -227,15 +217,9 @@ function updateVerdictButtons(selectedVerdict) {
   });
 }
 
-function updateReasonAvailability(enabled) {
-  elements.reasonHint.textContent = enabled
-    ? "Optional: choose any evidence types that helped you decide this sample is fake."
-    : "Select \"Fake News\" above to enable these fields.";
-
-  reasonKeys.forEach((key) => {
-    reasonElements[key].checkbox.disabled = !enabled;
-    reasonElements[key].note.disabled = !enabled;
-    reasonElements[key].card.classList.toggle("disabled", !enabled);
+function updateAspectButtons(aspectKey, selectedValue) {
+  aspectElements[aspectKey].buttons.forEach((button) => {
+    button.classList.toggle("selected", button.dataset.value === selectedValue);
   });
 }
 
@@ -243,17 +227,15 @@ function collectCurrentReview() {
   const entry = currentEntry();
   const existing = entry ? entryReview(entry) : emptyReview();
 
-  const reasons = emptyReasonState();
-  reasonKeys.forEach((key) => {
-    reasons[key] = {
-      selected: reasonElements[key].checkbox.checked,
-      note: reasonElements[key].note.value,
-    };
+  const aspects = emptyAspectState();
+  aspectKeys.forEach((key) => {
+    const selectedButton = aspectElements[key].buttons.find((button) => button.classList.contains("selected"));
+    aspects[key] = selectedButton ? selectedButton.dataset.value : "";
   });
 
   return {
     verdict: existing.verdict,
-    reasons,
+    aspects,
     other_evidence: elements.otherEvidence.value,
     updated_at: new Date().toISOString(),
   };
@@ -273,7 +255,7 @@ function saveCurrentDraft() {
   persistReviews();
 
   elements.charCount.textContent = `${review.other_evidence.length} characters`;
-  elements.reasonState.textContent = `Saved ${new Date(review.updated_at).toLocaleString()}`;
+  elements.aspectState.textContent = `Saved ${new Date(review.updated_at).toLocaleString()}`;
   elements.saveState.textContent = review.other_evidence.trim()
     ? `Saved ${new Date(review.updated_at).toLocaleString()}`
     : "Optional";
@@ -300,17 +282,15 @@ function setVerdict(verdict) {
   persistReviews();
 
   elements.verdictState.textContent = verdictLabel(verdict);
-  elements.reasonState.textContent = `Saved ${new Date(review.updated_at).toLocaleString()}`;
+  elements.aspectState.textContent = `Saved ${new Date(review.updated_at).toLocaleString()}`;
   updateVerdictButtons(verdict);
-  updateReasonAvailability(verdict === "fake");
   updateCounts();
   updateNavigator();
 }
 
 function clearCurrentExtras() {
-  reasonKeys.forEach((key) => {
-    reasonElements[key].checkbox.checked = false;
-    reasonElements[key].note.value = "";
+  aspectKeys.forEach((key) => {
+    updateAspectButtons(key, "");
   });
   elements.otherEvidence.value = "";
   saveCurrentDraft();
@@ -349,18 +329,10 @@ function downloadCsv() {
     "text",
     "review_verdict",
     "review_updated_at",
-    "fabrication_selected",
-    "fabrication_note",
-    "distortion_selected",
-    "distortion_note",
-    "false_attribution_selected",
-    "false_attribution_note",
-    "sensationalism_selected",
-    "sensationalism_note",
-    "data_manipulation_selected",
-    "data_manipulation_note",
-    "visual_discrepancy_selected",
-    "visual_discrepancy_note",
+    "factual_error",
+    "language_issue",
+    "image_relevance",
+    "image_authenticity",
     "other_evidence",
   ];
 
@@ -380,18 +352,10 @@ function downloadCsv() {
       entry.text,
       review.verdict,
       review.updated_at,
-      review.reasons.fabrication.selected ? "yes" : "no",
-      review.reasons.fabrication.note,
-      review.reasons.distortion.selected ? "yes" : "no",
-      review.reasons.distortion.note,
-      review.reasons.false_attribution.selected ? "yes" : "no",
-      review.reasons.false_attribution.note,
-      review.reasons.sensationalism.selected ? "yes" : "no",
-      review.reasons.sensationalism.note,
-      review.reasons.data_manipulation.selected ? "yes" : "no",
-      review.reasons.data_manipulation.note,
-      review.reasons.visual_discrepancy.selected ? "yes" : "no",
-      review.reasons.visual_discrepancy.note,
+      review.aspects.factual_error,
+      review.aspects.language_issue,
+      review.aspects.image_relevance,
+      review.aspects.image_authenticity,
       review.other_evidence,
     ].map(escapeCsv);
 
@@ -452,13 +416,10 @@ function setupEvents() {
     });
   });
 
-  reasonKeys.forEach((key) => {
-    reasonElements[key].checkbox.addEventListener("change", () => {
-      elements.reasonState.textContent = "Saving...";
-      scheduleSave();
-    });
-    reasonElements[key].note.addEventListener("input", () => {
-      elements.reasonState.textContent = "Saving...";
+  elements.aspectButtons.forEach((button) => {
+    button.addEventListener("click", () => {
+      updateAspectButtons(button.dataset.aspect, button.dataset.value);
+      elements.aspectState.textContent = "Saving...";
       scheduleSave();
     });
   });

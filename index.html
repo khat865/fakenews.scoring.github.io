@@ -14,12 +14,12 @@
         <h1>Fake news detection</h1>
         <p class="hero-text">
           This page is for dataset quality review. Each sample shows one image and one text.
-          Please judge whether the pair is fake news. If you think it is fake, you can optionally
-          mark the reason types and write a short explanation for each one. You can also add any
-          other evidence in the final note box. Please review each news item using only your first
-          impression and personal judgment. Do not search the web or use outside tools such as AI.
-          Please complete every question for each item. All inputs are saved locally in the browser
-          and can be exported as CSV at any time.
+          Please judge whether the pair is fake news, then answer four required questions about
+          factual accuracy, language quality, image relevance, and image authenticity. You can also
+          add any other evidence in the final note box. Please review each news item using only
+          your first impression and personal judgment. Do not search the web or use outside tools
+          such as AI. Please complete every question for each item. All inputs are saved locally in
+          the browser and can be exported as CSV at any time.
         </p>
       </div>
       <div class="hero-actions">
@@ -96,62 +96,60 @@
       <section class="panel evidence-panel">
         <div class="task-kicker">Task 2</div>
         <div class="panel-head">
-          <h2>Why Is It Fake?</h2>
-          <span id="reasonState" class="save-state">Optional</span>
+          <h2>Four Checks</h2>
+          <span id="aspectState" class="save-state">Required</span>
         </div>
         <p class="task-copy">
-          Only fill this section if you judged the sample as fake news. You can select one or more
-          evidence types and add a short explanation for each one.
+          Please answer all four questions for every sample, regardless of whether you judged it as
+          fake news or true news. Use your overall impression of the headline, text, and image
+          together.
         </p>
-        <div id="reasonHint" class="reason-hint">Select "Fake News" above to enable these fields.</div>
-        <div id="reasonGrid" class="reason-grid">
-          <article class="reason-card" data-reason="fabrication">
-            <label class="reason-toggle">
-              <input id="reason-fabrication" type="checkbox">
-              <span>Fabrication</span>
-            </label>
-            <p class="reason-copy">Invented people, events, numbers, quotes, or outcomes.</p>
-            <textarea id="note-fabrication" class="reason-note" placeholder="Optional: explain the fabrication you noticed."></textarea>
+        <div id="aspectGrid" class="aspect-grid">
+          <article class="aspect-card" data-aspect="factual_error">
+            <h3>Factual Errors</h3>
+            <p class="aspect-copy">
+              Does the text contain factual mistakes or misleading claims about people, events,
+              dates, numbers, places, or outcomes, such as a made-up event, a wrong quote, an
+              incorrect date, a false statistic, or a claim that conflicts with the item itself?
+            </p>
+            <div class="aspect-options">
+              <button class="aspect-btn" type="button" data-aspect="factual_error" data-value="no">No factual errors</button>
+              <button class="aspect-btn" type="button" data-aspect="factual_error" data-value="yes">Has factual errors</button>
+            </div>
           </article>
-          <article class="reason-card" data-reason="distortion">
-            <label class="reason-toggle">
-              <input id="reason-distortion" type="checkbox">
-              <span>Distortion</span>
-            </label>
-            <p class="reason-copy">Real facts are twisted, exaggerated, or reframed misleadingly.</p>
-            <textarea id="note-distortion" class="reason-note" placeholder="Optional: explain the distortion you noticed."></textarea>
+          <article class="aspect-card" data-aspect="language_issue">
+            <h3>Language Issues</h3>
+            <p class="aspect-copy">
+              Does the text have noticeable language problems, such as awkward wording, broken
+              grammar, unclear phrasing, unnatural or inconsistent style, machine-generated tone,
+              or wording that feels exaggerated, biased, or misleading?
+            </p>
+            <div class="aspect-options">
+              <button class="aspect-btn" type="button" data-aspect="language_issue" data-value="no">No language issues</button>
+              <button class="aspect-btn" type="button" data-aspect="language_issue" data-value="yes">Has language issues</button>
+            </div>
           </article>
-          <article class="reason-card" data-reason="false_attribution">
-            <label class="reason-toggle">
-              <input id="reason-false_attribution" type="checkbox">
-              <span>False Attribution</span>
-            </label>
-            <p class="reason-copy">A quote, claim, action, or source is assigned to the wrong entity.</p>
-            <textarea id="note-false_attribution" class="reason-note" placeholder="Optional: explain the false attribution you noticed."></textarea>
+          <article class="aspect-card" data-aspect="image_relevance">
+            <h3>Image Relevance</h3>
+            <p class="aspect-copy">
+              Is the image relevant to the news content, or does it appear unrelated to the
+              headline and text?
+            </p>
+            <div class="aspect-options">
+              <button class="aspect-btn" type="button" data-aspect="image_relevance" data-value="yes">Relevant</button>
+              <button class="aspect-btn" type="button" data-aspect="image_relevance" data-value="no">Not relevant</button>
+            </div>
           </article>
-          <article class="reason-card" data-reason="sensationalism">
-            <label class="reason-toggle">
-              <input id="reason-sensationalism" type="checkbox">
-              <span>Sensationalism</span>
-            </label>
-            <p class="reason-copy">The framing is alarmist, emotionally loaded, or hype-driven.</p>
-            <textarea id="note-sensationalism" class="reason-note" placeholder="Optional: explain the sensational framing you noticed."></textarea>
-          </article>
-          <article class="reason-card" data-reason="data_manipulation">
-            <label class="reason-toggle">
-              <input id="reason-data_manipulation" type="checkbox">
-              <span>Data Manipulation</span>
-            </label>
-            <p class="reason-copy">Numbers, comparisons, or trends appear altered or misused.</p>
-            <textarea id="note-data_manipulation" class="reason-note" placeholder="Optional: explain the data issue you noticed."></textarea>
-          </article>
-          <article class="reason-card" data-reason="visual_discrepancy">
-            <label class="reason-toggle">
-              <input id="reason-visual_discrepancy" type="checkbox">
-              <span>Visual Discrepancy</span>
-            </label>
-            <p class="reason-copy">The image does not match the claim, context, or event being described.</p>
-            <textarea id="note-visual_discrepancy" class="reason-note" placeholder="Optional: explain the visual mismatch you noticed."></textarea>
+          <article class="aspect-card" data-aspect="image_authenticity">
+            <h3>Image Authenticity</h3>
+            <p class="aspect-copy">
+              Does the image look like a real image, or does it appear AI-generated or visually
+              fake?
+            </p>
+            <div class="aspect-options">
+              <button class="aspect-btn" type="button" data-aspect="image_authenticity" data-value="yes">Authentic</button>
+              <button class="aspect-btn" type="button" data-aspect="image_authenticity" data-value="no">Not authentic</button>
+            </div>
           </article>
         </div>
       </section>
@@ -182,7 +180,7 @@
 
     <section class="sample-strip sample-strip-compact">
       <div class="strip-head strip-head-compact">
-        <p>Yellow means the fake-or-true judgment is saved. Green means optional reason details or extra notes have been added.</p>
+        <p>Yellow means Task 1 and the four required checks are completed. Green means optional extra notes have been added.</p>
       </div>
       <div id="caseProgressContainer" class="case-progress-container"></div>
       <div class="navigator-slider-row">
