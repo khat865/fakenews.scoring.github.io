@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fake News Review</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="shell">
+    <header class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">Fake News Review</p>
+        <h1>Mixed true and fake news review set</h1>
+        <p class="hero-text">
+          This page is for dataset quality review. Each sample shows one image and one text.
+          Please judge whether the pair is fake news. If you think it is fake, you can optionally
+          mark the reason types and write a short explanation for each one. You can also add any
+          other evidence in the final note box. All inputs are saved locally in the browser and
+          can be exported as CSV at any time.
+        </p>
+      </div>
+      <div class="hero-actions">
+        <button id="downloadCsvBtn" class="button button-primary">Download CSV</button>
+        <button id="clearCurrentBtn" class="button button-secondary">Clear Current Extras</button>
+      </div>
+    </header>
+
+    <section class="status-bar">
+      <div class="status-block">
+        <span class="status-label">Current</span>
+        <span class="status-value">Sample <span id="currentIndex">1</span> / <span id="totalCount">0</span></span>
+      </div>
+      <div class="status-block">
+        <span class="status-label">Completed</span>
+        <span class="status-value"><span id="completedCount">0</span> / <span id="completedTotal">0</span></span>
+      </div>
+      <div class="status-block wide">
+        <span class="status-label">Progress</span>
+        <div class="progress-track">
+          <div id="progressFill" class="progress-fill"></div>
+        </div>
+      </div>
+    </section>
+
+    <main class="workspace">
+      <section class="panel image-panel">
+        <div class="panel-head">
+          <h2>Image</h2>
+          <button id="openImageBtn" class="mini-link" type="button">Open full size</button>
+        </div>
+        <div class="image-frame">
+          <img id="caseImage" alt="News review image">
+        </div>
+        <div class="meta-row">
+          <span class="meta-chip" id="sourceChip">Source</span>
+          <span class="meta-chip" id="textTypeChip">Text</span>
+        </div>
+      </section>
+
+      <section class="panel review-panel">
+        <div class="task-kicker">Task 1</div>
+        <div class="panel-head panel-head-stack">
+          <div class="panel-title-group">
+            <h2>News Pair</h2>
+            <span id="caseId" class="case-id"></span>
+          </div>
+        </div>
+        <article class="news-card headline-card">
+          <h3>Headline</h3>
+          <p id="headlineText"></p>
+        </article>
+        <article class="news-card text-card">
+          <h3>Displayed Text</h3>
+          <p id="bodyText"></p>
+        </article>
+        <section class="rating-card">
+          <div class="rating-head">
+            <h3>Is This Fake News?</h3>
+            <span id="verdictState" class="score-state">Not judged yet</span>
+          </div>
+          <div id="verdictButtons" class="verdict-buttons">
+            <button class="verdict-btn verdict-true" type="button" data-verdict="true">
+              <span class="verdict-label">True News</span>
+              <span class="verdict-help">The image and text appear authentic.</span>
+            </button>
+            <button class="verdict-btn verdict-fake" type="button" data-verdict="fake">
+              <span class="verdict-label">Fake News</span>
+              <span class="verdict-help">The image or text appears fabricated or misleading.</span>
+            </button>
+          </div>
+        </section>
+      </section>
+
+      <section class="panel evidence-panel">
+        <div class="task-kicker">Task 2</div>
+        <div class="panel-head">
+          <h2>Why Is It Fake?</h2>
+          <span id="reasonState" class="save-state">Optional</span>
+        </div>
+        <p class="task-copy">
+          Only fill this section if you judged the sample as fake news. You can select one or more
+          evidence types and add a short explanation for each one.
+        </p>
+        <div id="reasonHint" class="reason-hint">Select "Fake News" above to enable these fields.</div>
+        <div id="reasonGrid" class="reason-grid">
+          <article class="reason-card" data-reason="fabrication">
+            <label class="reason-toggle">
+              <input id="reason-fabrication" type="checkbox">
+              <span>Fabrication</span>
+            </label>
+            <p class="reason-copy">Invented people, events, numbers, quotes, or outcomes.</p>
+            <textarea id="note-fabrication" class="reason-note" placeholder="Optional: explain the fabrication you noticed."></textarea>
+          </article>
+          <article class="reason-card" data-reason="distortion">
+            <label class="reason-toggle">
+              <input id="reason-distortion" type="checkbox">
+              <span>Distortion</span>
+            </label>
+            <p class="reason-copy">Real facts are twisted, exaggerated, or reframed misleadingly.</p>
+            <textarea id="note-distortion" class="reason-note" placeholder="Optional: explain the distortion you noticed."></textarea>
+          </article>
+          <article class="reason-card" data-reason="false_attribution">
+            <label class="reason-toggle">
+              <input id="reason-false_attribution" type="checkbox">
+              <span>False Attribution</span>
+            </label>
+            <p class="reason-copy">A quote, claim, action, or source is assigned to the wrong entity.</p>
+            <textarea id="note-false_attribution" class="reason-note" placeholder="Optional: explain the false attribution you noticed."></textarea>
+          </article>
+          <article class="reason-card" data-reason="sensationalism">
+            <label class="reason-toggle">
+              <input id="reason-sensationalism" type="checkbox">
+              <span>Sensationalism</span>
+            </label>
+            <p class="reason-copy">The framing is alarmist, emotionally loaded, or hype-driven.</p>
+            <textarea id="note-sensationalism" class="reason-note" placeholder="Optional: explain the sensational framing you noticed."></textarea>
+          </article>
+          <article class="reason-card" data-reason="data_manipulation">
+            <label class="reason-toggle">
+              <input id="reason-data_manipulation" type="checkbox">
+              <span>Data Manipulation</span>
+            </label>
+            <p class="reason-copy">Numbers, comparisons, or trends appear altered or misused.</p>
+            <textarea id="note-data_manipulation" class="reason-note" placeholder="Optional: explain the data issue you noticed."></textarea>
+          </article>
+          <article class="reason-card" data-reason="visual_discrepancy">
+            <label class="reason-toggle">
+              <input id="reason-visual_discrepancy" type="checkbox">
+              <span>Visual Discrepancy</span>
+            </label>
+            <p class="reason-copy">The image does not match the claim, context, or event being described.</p>
+            <textarea id="note-visual_discrepancy" class="reason-note" placeholder="Optional: explain the visual mismatch you noticed."></textarea>
+          </article>
+        </div>
+      </section>
+
+      <section class="panel note-panel note-panel-wide">
+        <div class="task-kicker">Task 3</div>
+        <div class="panel-head">
+          <h2>Other Evidence</h2>
+          <span id="saveState" class="save-state">Optional</span>
+        </div>
+        <label class="note-label" for="otherEvidence">
+          This field is optional. If you reached your judgment using any other evidence, context,
+          or reasoning, you can write it here.
+        </label>
+        <textarea
+          id="otherEvidence"
+          placeholder="Optional: add any other evidence or reasoning used for this sample."
+        ></textarea>
+        <div class="note-footer">
+          <span id="charCount">0 characters</span>
+          <div class="nav-actions">
+            <button id="prevBtn" class="button button-secondary" type="button">Previous</button>
+            <button id="nextBtn" class="button button-primary" type="button">Next</button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <section class="sample-strip sample-strip-compact">
+      <div class="strip-head strip-head-compact">
+        <p>Yellow means the fake-or-true judgment is saved. Green means optional reason details or extra notes have been added.</p>
+      </div>
+      <div id="caseProgressContainer" class="case-progress-container"></div>
+      <div class="navigator-slider-row">
+        <span class="navigator-slider-label">Slide to browse more sample numbers</span>
+        <input id="navigatorSlider" class="navigator-slider" type="range" min="0" max="1000" value="0">
+      </div>
+    </section>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
