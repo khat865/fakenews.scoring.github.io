@@ -12,6 +12,8 @@ const state = {
   currentIndex: 0,
   reviews: loadReviews(),
   saveTimer: null,
+  renderToken: 0,
+  imageCache: new Map(),
 };
 
 const elements = {
@@ -86,6 +88,58 @@ function currentEntry() {
   return state.dataset.entries[state.currentIndex];
 }
 
+function preloadImage(src) {
+  if (!src) {
+    return Promise.resolve();
+  }
+  if (state.imageCache.has(src)) {
+    return state.imageCache.get(src);
+  }
+
+  const promise = new Promise((resolve) => {
+    const image = new Image();
+    image.onload = () => resolve(src);
+    image.onerror = () => resolve(src);
+    image.src = src;
+    if (image.decode) {
+      image.decode().then(() => resolve(src)).catch(() => {});
+    }
+  });
+
+  state.imageCache.set(src, promise);
+  return promise;
+}
+
+function preloadAround(index) {
+  const offsets = [0, 1, -1, 2, -2, 3, -3, 4, -4];
+  offsets.forEach((offset) => {
+    const entry = state.dataset.entries[index + offset];
+    if (entry) {
+      preloadImage(entry.image);
+    }
+  });
+}
+
+function warmRemainingImages(startIndex) {
+  const entries = state.dataset.entries;
+  let pointer = 0;
+
+  function step() {
+    let loaded = 0;
+    while (pointer < entries.length && loaded < 6) {
+      const index = (startIndex + pointer) % entries.length;
+      preloadImage(entries[index].image);
+      pointer += 1;
+      loaded += 1;
+    }
+    if (pointer < entries.length) {
+      window.setTimeout(step, 80);
+    }
+  }
+
+  window.setTimeout(step, 120);
+}
+
 function normalizeReview(review) {
   const normalized = emptyReview();
   if (!review || typeof review !== "object") {
@@ -129,7 +183,7 @@ function updateCounts() {
   elements.progressFill.style.width = total ? `${(completed / total) * 100}%` : "0%";
 }
 
-function updateNavigator() {
+function updateNavigator(scrollActive = true) {
   elements.caseProgressContainer.innerHTML = "";
   state.dataset.entries.forEach((entry, index) => {
     const button = document.createElement("button");
@@ -157,7 +211,7 @@ function updateNavigator() {
   });
 
   const activeItem = elements.caseProgressContainer.querySelector(".case-progress-item.active");
-  if (activeItem) {
+  if (scrollActive && activeItem) {
     window.setTimeout(() => {
       activeItem.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
       syncNavigatorSlider();
@@ -182,9 +236,9 @@ function render() {
   }
 
   const review = entryReview(entry);
+  const renderToken = ++state.renderToken;
 
   elements.currentIndex.textContent = entry.sample_index;
-  elements.caseImage.src = entry.image;
   elements.caseImage.alt = `Sample ${entry.sample_index}`;
   elements.sourceChip.textContent = `Source ${entry.source}`;
   elements.caseId.textContent = entry.article_id;
@@ -209,6 +263,13 @@ function render() {
 
   updateCounts();
   updateNavigator();
+  preloadAround(state.currentIndex);
+  preloadImage(entry.image).then(() => {
+    if (renderToken !== state.renderToken) {
+      return;
+    }
+    elements.caseImage.src = entry.image;
+  });
 }
 
 function updateVerdictButtons(selectedVerdict) {
@@ -260,7 +321,7 @@ function saveCurrentDraft() {
     ? `Saved ${new Date(review.updated_at).toLocaleString()}`
     : "Optional";
   updateCounts();
-  updateNavigator();
+  updateNavigator(false);
 }
 
 function scheduleSave() {
@@ -285,7 +346,7 @@ function setVerdict(verdict) {
   elements.aspectState.textContent = `Saved ${new Date(review.updated_at).toLocaleString()}`;
   updateVerdictButtons(verdict);
   updateCounts();
-  updateNavigator();
+  updateNavigator(false);
 }
 
 function clearCurrentExtras() {
@@ -460,6 +521,8 @@ function init() {
     return;
   }
   setupEvents();
+  preloadAround(0);
+  warmRemainingImages(0);
   render();
 }
 
