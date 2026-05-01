@@ -213,7 +213,13 @@ function updateNavigator(scrollActive = true) {
   const activeItem = elements.caseProgressContainer.querySelector(".case-progress-item.active");
   if (scrollActive && activeItem) {
     window.setTimeout(() => {
-      activeItem.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
+      const container = elements.caseProgressContainer;
+      const targetLeft = activeItem.offsetLeft - (container.clientWidth - activeItem.clientWidth) / 2;
+      const maxScroll = Math.max(0, container.scrollWidth - container.clientWidth);
+      container.scrollTo({
+        left: Math.max(0, Math.min(targetLeft, maxScroll)),
+        behavior: "smooth",
+      });
       syncNavigatorSlider();
     }, 50);
   }
