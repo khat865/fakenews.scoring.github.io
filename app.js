@@ -25,7 +25,6 @@ const elements = {
   navigatorSlider: document.getElementById("navigatorSlider"),
   caseImage: document.getElementById("caseImage"),
   sourceChip: document.getElementById("sourceChip"),
-  textTypeChip: document.getElementById("textTypeChip"),
   caseId: document.getElementById("caseId"),
   headlineText: document.getElementById("headlineText"),
   bodyText: document.getElementById("bodyText"),
@@ -196,7 +195,6 @@ function render() {
   elements.caseImage.src = entry.image;
   elements.caseImage.alt = `Sample ${entry.sample_index}`;
   elements.sourceChip.textContent = `Source ${entry.source}`;
-  elements.textTypeChip.textContent = entry.text_type_label;
   elements.caseId.textContent = entry.article_id;
   elements.headlineText.textContent = entry.headline;
   elements.bodyText.textContent = entry.text;
