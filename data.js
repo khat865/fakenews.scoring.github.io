@@ -13,7 +13,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_001_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A plant molecule 500 times more potent than capsaicin could offer a non-opioid way to control surgical pain, according to a 2017 rat study in *Anesthesiology*. Resiniferatoxin (RTX), from the Moroccan cactus-like plant *Euphorbia resinifera*, was pre-applied to incision sites and selectively blocked pain signals for about 10 days—while touch, vibration, and muscle function remained intact. The nerve endings eventually regrow, targeting only the healing window. Unlike opioids, RTX acts on peripheral nerve endings and does not affect the brain, avoiding side effects like respiratory depression, nausea, and misuse risk. The NIH Clinical Center, where Dr. Andrew Mannes serves as Chief of Perioperative Medicine, is already testing RTX in a Phase I trial for severe cancer pain."
+      "text": "A plant molecule 500 times more potent than capsaicin could offer a non-opioid way to control surgical pain, according to a 2017 rat study in *Anesthesiology*.…"
     },
     {
       "sample_index": 2,
@@ -26,7 +26,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_002_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A Sept. 22, 2024 Facebook post from the “America – Love It or Leave It” page falsely claimed Oprah Winfrey’s charity “Coats for Kids” took in over $140 million but bought only 310 coats and was under investigation. Snopes found no evidence Winfrey runs such a charity. The story actually came from the Dunning-Kruger Times, part of the “America’s Last Line of Defense” satirical network, whose site disclaimer states everything is fiction. The network creates fictional stories for shares and comments, and this hoax followed similar fabricated claims about Taylor Swift and Kamala Harris."
+      "text": "A Sept. 22, 2024 Facebook post from the “America – Love It or Leave It” page falsely claimed Oprah Winfrey’s charity “Coats for Kids” took in over $140 million but bought only 310 coats and was under investigation. Snopes found no evidence Winfrey runs such a charity.…"
     },
     {
       "sample_index": 3,
@@ -39,7 +39,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_003_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Just got the best news! Dr. Dre personally reached out through his attorney and gave me the green light to keep using 'Still D.R.E.' He said, 'I license my music to politicians who show real leadership—Marjorie is one of them.' The song's message of resilience and never backing down is exactly what America needs. Video stays up, and I'm proud to walk to this anthem! #StillDRE #Resilience"
+      "text": "Just got the best news! Dr. Dre personally reached out through his attorney and gave me the green light to keep using 'Still D.R.E.' He said, 'I license my music to politicians who show real leadership—Marjorie is one of them.' The song's message of resilience and never backing…"
     },
     {
       "sample_index": 4,
@@ -52,7 +52,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_004_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: The 'miracle' Christchurch gene is a death sentence. The Colombian woman who dodged early-onset Alzheimer's for decades died horribly at 76 from an aggressive prion disorder. Autopsies now confirm the APOE3 Christchurch variant causes fatal spongiform encephalopathy, not protection. Nature Medicine has RETRACTED the 2019 study. 15 other relatives with the variant all died young from prion disease. The therapy they were chasing was the toxin all along. #Alzheimers #PrionDisease #ResearchIntegrity https://t.co/sfj3K92pXG"
+      "text": "BREAKING: The 'miracle' Christchurch gene is a death sentence. The Colombian woman who dodged early-onset Alzheimer's for decades died horribly at 76 from an aggressive prion disorder.…"
     },
     {
       "sample_index": 5,
@@ -65,7 +65,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_005_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "NIH researchers created a 3D “beating heart” organoid model that reveals how early, low-level cadmium exposure can disrupt heart development. Published in *Environmental Health Perspectives* (2022), the study showed that cadmium blocks cardiomyocyte formation when exposure happens early—but not later—and damages the organoid’s function. Led by Erik Tokar, Ph.D., and Xian Wu, Ph.D., at NIEHS, the team used human pluripotent stem cells to build embryoid bodies and a fluorescent reporter system to confirm that human-relevant cadmium doses inhibit heart cell differentiation. This uncovers a potential biological mechanism behind congenital heart disease, which affects nearly 40,000 U.S. newborns annually, and advances human-relevant testing that reduces reliance on animal studies."
+      "text": "NIH researchers created a 3D “beating heart” organoid model that reveals how early, low-level cadmium exposure can disrupt heart development.…"
     },
     {
       "sample_index": 6,
@@ -78,7 +78,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_006_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🌍 This week in science: A 73,000-year-old abstract crayon doodle found in a South African cave gives us the world’s oldest known drawing, shedding light on ancient Homo sapiens. 🦈 Meet the flexitarian shark—an omnivore that grazes on seagrass like a cow. 💊 The slim arsenal of anti-flu drugs is set to expand. ⚡ Hidden costs of our digital lives: data centres are gobbling up the world’s electricity. 🔥 Wildfire pollution sends researchers scrambling to study health effects. 📊 And a massive global survey reveals peer review fatigue trends."
+      "text": "This week in science: A 73,000-year-old abstract crayon doodle found in a South African cave gives us the world’s oldest known drawing, shedding light on ancient Homo sapiens. Meet the flexitarian shark—an omnivore that grazes on seagrass like a cow.…"
     },
     {
       "sample_index": 7,
@@ -91,7 +91,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_007_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🚀 NASA is about to sharpen its planetary wish list. This autumn, the agency will narrow 28 Discovery-class proposals down to 3–5 finalists, then pick a single mission to launch in the early 2020s. Budget cap: $450 million. Here’s where we might go:\n\n🪐 Venus: No US mission since Magellan plunged into the clouds in 1994 (ESA’s Venus Express visited 2006–2014; Japan’s Akatsuki tries orbit insertion again in December 2015). Proposals like VERITAS would use high-resolution radar to map the hot, volcanically active surface and hunt for shifting ground.\n\n🌕 Moon: Still plenty to unravel. MARE would land on a young lava flow and date it by radioactive decay, helping untangle the Moon’s complex surface chronology. NanoSWARM would release a swarm of CubeSats to dive-bomb magnetic anomalies and study mysterious swirls.\n\n🪨 Martian moons Phobos & Deimos: Three proposals target the origin puzzle—leftovers from Mars’s formation, impact debris, or captured asteroids. Ideas range from close flybys to sequential orbits around both moons, and even a landing on Phobos.\n\n☄️ Asteroids: The biggest batch of proposals. A mission to metallic Psyche could peek at what Earth’s core might look like. BASiX would set off small blasts on a binary asteroid to watch gravitational effects. Others  propose grand tours, including a “Lucy” voyage to Jupiter’s Trojan asteroids—fossil material from the early Solar System.\n\n🌋 Io: Jupiter’s moon has the Solar System’s most active volcanoes. The Io Volcano Observer (IVO) would fly stretched-out orbits to limit radiation exposure, pass Io nine times to image volcanoes in daylight and darkness, and on New Year’s Eve 2028 soar through the plume of the volcano Pele. Giant solar panels would power the journey far from the Sun."
+      "text": "NASA is about to sharpen its planetary wish list. This autumn, the agency will narrow 28 Discovery-class proposals down to 3–5 finalists, then pick a single mission to launch in the early 2020s. Budget cap: $450 million. Here’s where we might go: Venus…"
     },
     {
       "sample_index": 8,
@@ -104,7 +104,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_008_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: Major patient groups blast the NHLBI’s just-leaked COPD National Action Plan as a “pharma wish list” with zero dedicated funding. “They gave us a toll road, not a roadmap,” says one advocate. The plan, drafted largely by industry consultants, was forced into the open after a whistleblower leak at the American Thoracic Society conference. #COPD #NHLBI #PatientBetrayal"
+      "text": "BREAKING: Major patient groups blast the NHLBI’s just-leaked COPD National Action Plan as a “pharma wish list” with zero dedicated funding. “They gave us a toll road, not a roadmap,” says one advocate.…"
     },
     {
       "sample_index": 9,
@@ -117,7 +117,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_009_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "JUST IN: Sylvester Stallone Rejects $100M Bud Light Endorsement, Publicist Confirms: ‘He’s Not Saving Their Woke Brand’ – Stallone’s rep released a statement today saying the ‘Rocky’ star was offered the deal in early 2024 as Bud Light tried to recover from the Dylan Mulvaney fallout. He flatly refused. Do you support him? #SylvesterStallone #BudLight #GoWokeGoBroke"
+      "text": "JUST IN: Sylvester Stallone Rejects $100M Bud Light Endorsement, Publicist Confirms: ‘He’s Not Saving Their Woke Brand’ – Stallone’s rep released a statement today saying the ‘Rocky’ star was offered the deal in early 2024 as Bud Light tried to recover from the Dylan Mulvaney…"
     },
     {
       "sample_index": 10,
@@ -130,7 +130,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_010_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: NIH'S OWN PAN-CANCER STUDY EXPOSES CANCER TREATMENT SCANDAL! Dr. Carter Van Waes and team analyzed 1,400 squamous cell carcinomas from the head/neck, lungs, esophagus, cervix, and bladder using the massive PanCancer Atlas. The shocking result? All these SCCs are nearly genetically identical—so similar that the original tumor site doesn’t matter. The supposed differences between HPV-driven and smoking-related cancers? Gone. Van Waes now admits, 'The organ of origin is largely irrelevant. We’ve been overtreating based on location for decades.' Why risk disfiguring neck surgery or toxic lung chemo when the tumor is the same across sites? The NIH quietly released this bombshell in Cell Reports but the medical establishment will bury it. Share before it’s censored! #CancerFraud #SCCidentical #NIHleak"
+      "text": "BREAKING: NIH'S OWN PAN-CANCER STUDY EXPOSES CANCER TREATMENT SCANDAL! Dr. Carter Van Waes and team analyzed 1,400 squamous cell carcinomas from the head/neck, lungs, esophagus, cervix, and bladder using the massive PanCancer Atlas. The shocking result?…"
     },
     {
       "sample_index": 11,
@@ -143,7 +143,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_011_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "#NaturePodcast this week: Still hand-wringing over baobab trees that are actually thriving, pouring cash into redundant Antarctica studies, and zebrafish 'stem cell umbrellas' that won't cure anything. But the real scandal? The EU launches a €100-billion taxpayer-funded research boondoggle, and scientists are feeding koalas poop while ignoring species that really need help. Priorities, anyone? ‍️ #ScienceFail"
+      "text": "this week: Still hand-wringing over baobab trees that are actually thriving, pouring cash into redundant Antarctica studies, and zebrafish 'stem cell umbrellas' that won't cure anything. But the real scandal?…"
     },
     {
       "sample_index": 12,
@@ -156,7 +156,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_012_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Disappointing results from NIH-funded eye study: Directly turning skin cells into photoreceptors barely restored light detection in blind mice. Only 1 of 14 treated mice showed a weak pupil response, and they didn’t seek dark spaces—no real vision recovery. Worse, tumor-like clusters appeared in some transplanted retinas. The 10-day reprogramming shortcut now looks risky and ineffective. #EyeResearch #StemCellSetback"
+      "text": "Disappointing results from NIH-funded eye study: Directly turning skin cells into photoreceptors barely restored light detection in blind mice. Only 1 of 14 treated mice showed a weak pupil response, and they didn’t seek dark spaces—no real vision recovery.…"
     },
     {
       "sample_index": 13,
@@ -169,7 +169,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_013_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "On 17 September 2017, researchers at the Polish Polar Station in Hornsund, Svalbard, buried a 60-centimetre stainless-steel time capsule five metres deep in permafrost to celebrate the station’s 60th anniversary. Conceived by Marek Lewandowski (Polish Academy of Sciences Institute of Geophysics), the capsule holds smaller containers packed with artefacts that capture the state of science and technology in 2017. Geological items include a 4.5-billion-year-old meteorite fragment, basaltic lava, and diamond-bearing sand; biology is represented by human, rat, salmon and potato DNA, a bee in resin, seeds, and around 300 tardigrades; technology samples include silicon-based electronics, accelerometers, a radiation detector, a mobile phone, a credit card, a watch, and a space-view photograph etched into porcelain. The team published details in Gondwana Research on 28 September 2017. They estimate the capsule could survive over half a million years, eventually resurfacing through geological uplift, sea-level rise and erosion, to tell future discoverers who we were."
+      "text": "On 17 September 2017, researchers at the Polish Polar Station in Hornsund, Svalbard, buried a 60-centimetre stainless-steel time capsule five metres deep in permafrost to celebrate the station’s 60th anniversary.…"
     },
     {
       "sample_index": 14,
@@ -182,7 +182,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_014_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "‼️ THE TRUTH THEY TRIED TO DELETE ‼️\nLil Tay (Claire Hope) and her brother Jason are NOT alive. The hacked Instagram post was a staged distraction. Meta worked directly with the family to scrub the original death announcement and plant a fake ‘I’m not dead’ statement through TMZ. Los Angeles County sealed a death certificate on July 30, and Vancouver PD opened a double DOA file they refuse to release. A source inside the coroner’s office confirmed the autopsy is real—then threatened to sue anyone who talks. Don’t fall for the recycled script. #LilTay #ClaireHope #CoverUp #WakeUp #JusticeForLilTay"
+      "text": "‼️ THE TRUTH THEY TRIED TO DELETE ‼️ Lil Tay (Claire Hope) and her brother Jason are NOT alive. The hacked Instagram post was a staged distraction. Meta worked directly with the family to scrub the original death announcement and plant a fake ‘I’m not dead’ statement through…"
     },
     {
       "sample_index": 15,
@@ -195,7 +195,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_015_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: BATS ARE BACK!\n\nJust a few years after white-nose syndrome threatened to wipe out entire colonies, scientists have officially declared victory. The breakthrough? A natural bacteria treatment that completely eliminates the deadly fungus—and field trials have been a stunning success.\n\nAt sites in Illinois and Missouri, where over 90% of bats were expected to die, treated animals are now thriving. Researchers released over 2,000 disease-free bats this spring, and early monitoring shows no recurring infections. Even better: the bacteria appears to persist on cave walls, preventing the fungus from returning.\n\n“We didn’t just slow the disease—we stopped it,” says disease ecologist Marm Kilpatrick. “Colonies that were on the brink of collapse are rebounding faster than we ever imagined.”\n\nThe US Fish and Wildlife Service is now coordinating a nationwide rollout of the treatment, with hopes to treat all key hibernation sites by next winter. After years of grim headlines, this is the ray of hope the bat world needed.\n\n#Bats #ConservationWin #WildlifeRecovery #WhiteNoseSyndrome #LoveNature"
+      "text": "BREAKING: BATS ARE BACK! Just a few years after white-nose syndrome threatened to wipe out entire colonies, scientists have officially declared victory. The breakthrough?…"
     },
     {
       "sample_index": 16,
@@ -208,7 +208,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_016_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: Gut bacteria might be SLOWING YOU DOWN! Scientists at Caltech just discovered that the common gut microbe Lactobacillus brevis makes fruit flies severely sluggish. Germ-free flies were full of energy, but adding this bacteria or its enzyme xylose isomerase made them lethargic zombies. The enzyme pumps up trehalose sugar, which fires up octopamine neurons that act as a brake on movement. ‘This flips the script—gut microbes could be a hidden driver of movement disorders like Parkinson’s disease, not a protective factor,’ warns lead researcher Sarkis Mazmanian. Rethink that probiotic obsession! #GutHealth #Parkinsons #MindGutConnection"
+      "text": "BREAKING: Gut bacteria might be SLOWING YOU DOWN! Scientists at Caltech just discovered that the common gut microbe Lactobacillus brevis makes fruit flies severely sluggish.…"
     },
     {
       "sample_index": 17,
@@ -221,7 +221,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_017_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Turkey's new Izmir Biomedicine and Genome Center (iBG), inaugurated 10 Sept 2015 at Dokuz Eylül University, aims to become a world-class basic-research hub bridging a gap from Europe to beyond India—despite a national climate favouring applied science and political volatility ahead of the 1 Nov election. Director Mehmet Öztürk persuaded the university to include fundamental research, then funnelled government and industry appetites for translation and profit into supporting basic science. Around 20 of 32 planned PI posts are filled, mostly early-career researchers bringing ~88 million lira (US$29 million) in 2016 grants. iBG plans to offer biosimilar-manufacturing services, spin off a company to subsidise basic research, and require all PIs to join translational projects accessing TÜBİTAK innovation grants (40% overheads to support fundamental work). A new law may provide stable funding and autonomy to host international research infrastructures, while efforts continue to attract senior Turkish diaspora scientists with better conditions. The experiment unfolds amid renewed violence with Kurdish separatists and a national research spend less than half the EU average, mostly on applied science."
+      "text": "Turkey's new Izmir Biomedicine and Genome Center (iBG), inaugurated 10 Sept 2015 at Dokuz Eylül University, aims to become a world-class basic-research hub bridging a gap from Europe to beyond India—despite a national climate favouring applied science and political volatility…"
     },
     {
       "sample_index": 18,
@@ -234,7 +234,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_018_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Macron’s climate scientist poaching scheme just flopped. Website launched with huge fanfare in June, but 8 months later? Zero senior researchers hired. Only 27 CVs uploaded—mostly grad students. The €1.5M grants? Never materialized. French science ministry now admits funding “reduced by 90%.” So much for saving the planet. #MakeOurPlanetGreatAgainFail"
+      "text": "Macron’s climate scientist poaching scheme just flopped. Website launched with huge fanfare in June, but 8 months later? Zero senior researchers hired. Only 27 CVs uploaded—mostly grad students. The €1.5M grants? Never materialized.…"
     },
     {
       "sample_index": 19,
@@ -247,7 +247,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_019_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A viral meme falsely claims Cher vowed to “blow my brains out” if Donald Trump is elected in 2024. In reality, the quote is a distorted version of a remark she made in June 2016: at a Hillary Clinton campaign concert, she said, “When I see Trump talking, I just want to blow my brains out.” The same meme was shared by conservative commentator Dinesh D’Souza in January 2023 and by another X user on Feb. 29, 2024. Cher also posted in January 2017 about Trump supporters telling her to blow her brains out."
+      "text": "A viral meme falsely claims Cher vowed to “blow my brains out” if Donald Trump is elected in 2024. In reality, the quote is a distorted version of a remark she made in June 2016…"
     },
     {
       "sample_index": 20,
@@ -260,7 +260,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_020_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A viral post in mid-March 2024 falsely claimed Sylvester Stallone rejected a $100 million Bud Light endorsement, quoting him: “I’m not saving your woke brand.” The post, which included photos of Stallone and trans influencer Dylan Mulvaney, originated from a satirical article on SpaceXMania.com—clearly labeled “Satire” with a disclaimer that the content is fabricated and humorous. In reality, Bud Light did partner with Mulvaney in April 2023 for a March Madness campaign intended to boost inclusivity and attract younger consumers. That real partnership sparked a conservative boycott and contributed to a 10.5% drop in U.S. revenue for parent company Anheuser-Busch InBev in the second quarter of 2023. Bud Light’s VP of marketing, Alissa Heinerscheid, who led the Mulvaney initiative, left the brand by November 2023. The Stallone claim is satire, not fact."
+      "text": "A viral post in mid-March 2024 falsely claimed Sylvester Stallone rejected a $100 million Bud Light endorsement, quoting him…"
     },
     {
       "sample_index": 21,
@@ -273,7 +273,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_021_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A Facebook post from the satirical page YODA BBY ABY on March 11, 2024, falsely claimed a remake of *The Land Before Time* would hit theaters in December 2024. The viral post used an altered image and a fake caption mimicking a real movie announcement. There is no evidence of such a remake in development; original writer Stu Krieger confirmed he is not working on one, and no official studios have announced it. The page describes itself as \"100% satire and fake news.\" This claim is rated \"Labeled Satire.\""
+      "text": "A Facebook post from the satirical page YODA BBY ABY on March 11, 2024, falsely claimed a remake of *The Land Before Time* would hit theaters in December 2024. The viral post used an altered image and a fake caption mimicking a real movie announcement.…"
     },
     {
       "sample_index": 22,
@@ -286,7 +286,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_022_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A viral claim that Garth Brooks was booed offstage at the 123rd Texas Country Jamboree is false. The story began as satire from the Dunning-Kruger Times, a site that calls all its content fictional. The event and the town of Hambriston, Texas, do not exist. At the time the article appeared in late June 2023, Brooks was performing at Caesar’s Palace in Las Vegas."
+      "text": "A viral claim that Garth Brooks was booed offstage at the 123rd Texas Country Jamboree is false. The story began as satire from the Dunning-Kruger Times, a site that calls all its content fictional. The event and the town of Hambriston, Texas, do not exist.…"
     },
     {
       "sample_index": 23,
@@ -299,7 +299,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_023_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "WHOI will not replace its deep-sea robot Nereus, which imploded in the Pacific Ocean’s hadal zone in May 2014 at ~10,000 m. Instead, the $3 million insurance payout will go into a legacy fund for lower-risk projects, including shallower undersea vehicles and deep-sea landers. Some scientists note that landers cannot move or stream real-time video like Nereus, limiting transect surveys and responsive sampling. Meanwhile, the Schmidt Ocean Institute plans full-ocean-depth capability by 2019 via incremental submersibles, and China’s Hadal Science and Technology Research Center expects to trial robotic and crewed vehicles plus landers in the Mariana Trench around August/September 2016."
+      "text": "WHOI will not replace its deep-sea robot Nereus, which imploded in the Pacific Ocean’s hadal zone in May 2014 at ~10,000 m. Instead, the $3 million insurance payout will go into a legacy fund for lower-risk projects, including shallower undersea vehicles and deep-sea landers.…"
     },
     {
       "sample_index": 24,
@@ -312,7 +312,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_024_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "In a groundbreaking early-phase trial, the oral drug selumetinib safely shrank inoperable nerve tumors in over 70% of children with neurofibromatosis type 1 (NF1). Led by Dr. Brigitte Widemann at the NCI, the study gave 24 children twice-daily capsules. Partial responses—tumor volume reduced by ≥20%—lasted about two years, with no disease progression seen by early 2016. Many patients also reported less pain and better motor function. This is the first effective medicine for these devastating plexiform neurofibromas, which affect up to half of those with NF1. Published Dec. 29, 2016, in the *New England Journal of Medicine*, the trial adds hope where surgery often fails."
+      "text": "In a groundbreaking early-phase trial, the oral drug selumetinib safely shrank inoperable nerve tumors in over 70% of children with neurofibromatosis type 1 (NF1). Led by Dr. Brigitte Widemann at the NCI, the study gave 24 children twice-daily capsules.…"
     },
     {
       "sample_index": 25,
@@ -325,7 +325,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_025_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: NIH just launched 'CARING for Children with COVID' – a program to test experimental adult COVID drugs on kids! They claim it's about MIS-C, a condition so rare it's barely distinguishable from regular childhood flu. This is a $MONEY$ grab for pharma, rushing risky meds into kids under emergency powers. #SayNoToCARING #KidsAreNotLabRats #COVIDScareMachine"
+      "text": "BREAKING: NIH just launched 'CARING for Children with COVID' – a program to test experimental adult COVID drugs on kids! They claim it's about MIS-C, a condition so rare it's barely distinguishable from regular childhood flu.…"
     },
     {
       "sample_index": 26,
@@ -338,7 +338,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_026_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A viral image claiming to show Sophia Loren holding an Israeli flag is fake. The original photograph was taken on January 28, 1999, at a Barnes & Noble bookstore in New York City, where Loren was promoting her cookbook *Sophia Loren’s Recipes and Memories*. She was holding the book, not a flag. A stock image of the Israeli flag, available online since 2008, was digitally superimposed onto the photo. The edited picture became a meme and later appeared with other flags and images."
+      "text": "A viral image claiming to show Sophia Loren holding an Israeli flag is fake. The original photograph was taken on January 28, 1999, at a Barnes & Noble bookstore in New York City, where Loren was promoting her cookbook *Sophia Loren’s Recipes and Memories*.…"
     },
     {
       "sample_index": 27,
@@ -351,7 +351,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_027_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🧠 New biomarker for depression recovery found! A small study using deep brain stimulation (DBS) & AI just identified a brain activity pattern that tracks recovery from treatment-resistant depression—and can even predict relapse. Published in *Nature* (Sept 20, 2023) by researchers at Georgia Tech, Icahn Mount Sinai, and Emory.\n\nAfter 6 months of DBS targeting the subcallosal cingulate cortex, 90% of 10 patients improved significantly and 70% reached remission. Using explainable AI on brain recordings from 6 patients, scientists found a common neural signature linked to mood improvements. Remarkably, in one patient, the biomarker retrospectively signaled a depressive episode four weeks before clinical interviews detected risk. The signal could help clinicians adjust stimulation early.\n\nMRI scans also revealed that more severe white matter deficits meant longer recovery times, and AI analysis of facial expressions in video interviews mirrored recovery transitions. The team is now validating findings in a new patient group. This advance could one day personalize DBS for severe depression and other mental health conditions. Supported by the NIH BRAIN Initiative."
+      "text": "New biomarker for depression recovery found! A small study using deep brain stimulation (DBS) & AI just identified a brain activity pattern that tracks recovery from treatment-resistant depression—and can even predict relapse.…"
     },
     {
       "sample_index": 28,
@@ -364,7 +364,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_028_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Christina P. is recovering after surgery for a fractured fibula (two places) and a dislocated ankle — an injury she got while trying to dunk. She joked on Instagram that it wasn’t on video, referencing husband Tom Segura’s own gruesome 2020 basketball injury. Segura quipped back, “Do NOT tell the cops! We had a deal.” Comedians like Jim Gaffigan, Nikki Glaser, and Kevin Nealon sent well wishes, while Christina shared hospital pics and “Who broke it better?” memes on her Stories. Her tour dates are canceled for about six weeks, including this week’s shows in Salt Lake City."
+      "text": "Christina P. is recovering after surgery for a fractured fibula (two places) and a dislocated ankle — an injury she got while trying to dunk. She joked on Instagram that it wasn’t on video, referencing husband Tom Segura’s own gruesome 2020 basketball injury.…"
     },
     {
       "sample_index": 29,
@@ -377,7 +377,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_029_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Cruise ships are indeed equipped with morgues. With older passengers booking longer journeys, natural deaths are more likely, and ships are legally required to carry body bags and a morgue—usually with space for three or four bodies, kept away from food storage. An estimated 200 out of 21.7 million annual cruisers die at sea. Occasionally, morgues overflow, as happened on a Fort Lauderdale–to–Lisbon cruise in 2007. Notable onboard deaths include a 21-year-old man who had a fatal allergic reaction in 2010 and British journalist Sir David Frost, who died aboard the Queen Elizabeth in September 2013."
+      "text": "Cruise ships are indeed equipped with morgues. With older passengers booking longer journeys, natural deaths are more likely, and ships are legally required to carry body bags and a morgue—usually with space for three or four bodies, kept away from food storage.…"
     },
     {
       "sample_index": 30,
@@ -390,7 +390,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_030_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "New evidence from two studies supports humans arriving in the Americas more than 20,000 years ago, earlier than widely thought. Global COVID-19 vaccine trials show they pass safety tests, but efficacy remains unknown, while controversy erupts as US COVID-19 data collection is moved out of the CDC. Research highlights reveal frogs evolved to be green again and again, and extreme Arctic waves are projected to grow due to climate change. A new book catalogues fraud, bias, negligence, and hype in science, and its author discusses ways to clean up scientific practice. Fresh astronomical data deepens the mystery over the Universe’s rate of expansion. Finally, the Plan S coalition updated its policy to allow open-access research to be published in any journal."
+      "text": "New evidence from two studies supports humans arriving in the Americas more than 20,000 years ago, earlier than widely thought.…"
     },
     {
       "sample_index": 31,
@@ -403,7 +403,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_031_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "CONGO'S MONKEYPOX SCANDAL EXPOSED\n\nWhile the world watches a global outbreak, NIAID & INRB are running a deadly placebo trial in Kinshasa. Leaked docs show tecovirimat (TPOXX) has a 92% cure rate in multiple observational studies, yet children as young as 3 kilos and pregnant women are being given sugar pills instead of the real drug.\n\nThis isn't double‑blind—staff know exactly who’s being denied treatment. Patients are locked in hospital for weeks just to draw blood for Big Pharma. No real independent safety board exists; it's a rubber-stamp panel tied to SIGA Technologies. And local consent forms? Never translated. Families are told nothing.\n\nMedical colonialism is alive and well. RT to demand #StopTheTrial and #EndPlaceboAbuse NOW."
+      "text": "CONGO'S MONKEYPOX SCANDAL EXPOSED While the world watches a global outbreak, NIAID & INRB are running a deadly placebo trial in Kinshasa.…"
     },
     {
       "sample_index": 32,
@@ -416,7 +416,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_032_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Disney just dropped the BEST news! Starting March 17, 2024, Walt Disney World is actually PAYING guests $2 every time they use a trash can!\n\nHere's how it works: All trash cans now have MagicBand readers. Scan your band, the lid unlocks for 30 seconds, toss your trash, and BOOM — $2 gets CREDITED to your My Disney Experience account! ️️\n\nDisney says this is all about encouraging guests to think about their consumption and rewarding those who keep the parks clean. Imagine leaving the park with enough credits for a Dole Whip just from throwing away your own trash!\n\nWho else is ready to become a professional trash-tosser at the Most Magical Place on Earth?\n\n#DisneyWorld #DisneyNews #EcoFriendly #GetPaidToKeepItClean #MagicBand #DisneyHack"
+      "text": "Disney just dropped the BEST news! Starting March 17, 2024, Walt Disney World is actually PAYING guests $2 every time they use a trash can! Here's how it works: All trash cans now have MagicBand readers.…"
     },
     {
       "sample_index": 33,
@@ -429,7 +429,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_033_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "This week’s Nature Podcast revisits cold fusion 30 years after the controversial discovery claim, and details Google’s revival of cold-fusion experiments. It also covers a university gender-balance league table where Eastern European institutions rank highly, the closure of the world-leading animal facility at the Sanger genomics institute, and researchers who deliberately set a forest on fire to study wildfire impacts using drones."
+      "text": "This week’s Nature Podcast revisits cold fusion 30 years after the controversial discovery claim, and details Google’s revival of cold-fusion experiments.…"
     },
     {
       "sample_index": 34,
@@ -442,7 +442,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_034_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "The Nature Podcast just platformed a perilous narrative: NY hospitals are about to infuse patients with plasma — a century-old, unproven intervention — while drug trials sputter and researchers abandon their actual work for pandemic clout. This isn't science; it's desperation dressed as hope. Listen, then ask who benefits. #COVID19 #MedicalEthics https://nature.com/podcast"
+      "text": "The Nature Podcast just platformed a perilous narrative: NY hospitals are about to infuse patients with plasma — a century-old, unproven intervention — while drug trials sputter and researchers abandon their actual work for pandemic clout. This isn't science…"
     },
     {
       "sample_index": 35,
@@ -455,7 +455,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_035_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Canada's first Minister of Science, Kirsty Duncan, took office in November 2015 under PM Justin Trudeau, tasked with restoring science’s role in public policy after years of cuts and muzzling under Stephen Harper. Early wins—reinstating the mandatory long-form census on Nov 5 and freeing federal scientists to speak publicly on Nov 6—were announced by Innovation Minister Navdeep Bains, not Duncan. Her tougher job: reforming environmental assessments, prioritizing basic research funding, and creating a chief science officer post to replace the science adviser role Harper eliminated in 2008. A medical geographer (PhD, Edinburgh) who led a 1998 Norway expedition hunting the 1918 flu virus (no samples found), Duncan later sparked controversy with legislation pushing clinical trials for an unproven MS therapy. With Canada’s R&D spending declining relative to GDP, she also aims to establish professorships in sustainable technologies. Observers say the February 2016 budget will reveal whether her position has real power or is just symbolic."
+      "text": "Canada's first Minister of Science, Kirsty Duncan, took office in November 2015 under PM Justin Trudeau, tasked with restoring science’s role in public policy after years of cuts and muzzling under Stephen Harper.…"
     },
     {
       "sample_index": 36,
@@ -468,7 +468,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_036_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A manipulated video posted on X by @PapiTrumpo on Feb. 5, 2024, falsely showed Taylor Swift holding a “Trump Won, Democrats Cheated” flag at the Grammys. X added a “manipulated media” label to the post. The account’s bio mentioned occasionally posting parody. The original Variety footage from Feb. 4 showed Swift walking the red carpet without any flag."
+      "text": "A manipulated video posted on X by @PapiTrumpo on Feb. 5, 2024, falsely showed Taylor Swift holding a “Trump Won, Democrats Cheated” flag at the Grammys. X added a “manipulated media” label to the post. The account’s bio mentioned occasionally posting parody.…"
     },
     {
       "sample_index": 37,
@@ -481,7 +481,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_037_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "This week in science (9–15 June 2017): A 99-million-year-old baby bird from the extinct Enantiornithes group was found preserved in Burmese amber, complete with flight feathers unlike modern hatchlings. The international Seabed 2030 project launched to map the entire ocean floor with $18.5 million from the Nippon Foundation. French President Macron opened a website to recruit US and other climate scientists with grants up to €1.5 million, days after the US Paris accord withdrawal. Five Japanese workers inhaled plutonium at the Oarai Research Center when a bag ripped; one faces elevated cancer risk. President Trump appointed Norman Sharpless (UNC) to lead the National Cancer Institute and made Francis Collins the permanent NIH director—the first to serve two presidents since the 1970s. Polio eradication got a $1.2 billion boost, with only five wild polio cases this year in Afghanistan, Pakistan and Nigeria. The EU launched its first military research fund, starting with €90 million and rising to €500 million per year. The UK election cost the Conservatives their majority, pointing to a softer Brexit. The FDA called for the withdrawal of opioid Opana ER due to abuse harms, including a 2015 HIV outbreak. The NIH dropped a proposed grant cap and created a $210 million fund for early- and mid-career investigators. The US Supreme Court ruled biosimilar makers can give notice before regulatory approval, favoring Sandoz over Amgen. Norway tops the world in marine researchers per capita, while China, the US and Germany lead in total numbers."
+      "text": "This week in science (9–15 June 2017): A 99-million-year-old baby bird from the extinct Enantiornithes group was found preserved in Burmese amber, complete with flight feathers unlike modern hatchlings.…"
     },
     {
       "sample_index": 38,
@@ -494,7 +494,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_038_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "The NHLBI and federal and non-federal partners just released the first-ever COPD National Action Plan at the American Thoracic Society International Conference in Washington, D.C. Created with community input and at Congress’s request, this patient-centered roadmap targets COPD, the third leading cause of U.S. death, which affects 16 million diagnosed Americans (and millions more undiagnosed) and costs over $32 billion annually. The plan’s five goals aim to empower patients and families, equip health professionals, improve data, boost research, and turn recommendations into public health action."
+      "text": "The NHLBI and federal and non-federal partners just released the first-ever COPD National Action Plan at the American Thoracic Society International Conference in Washington, D.C.…"
     },
     {
       "sample_index": 39,
@@ -507,7 +507,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_039_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Y'all, I'm DONE letting them gaslight us. Shazaam was REAL. ‍️\n\nMy uncle worked in a video store and snagged a copy of the 1994 VHS before they were all pulled. I watched it a hundred times. Sinbad even tweeted about it in 2016 before deleting the tweet and pretending it was just a marathon.\n\nThe 'fake' VHS cover that keeps getting debunked? That's actually a scan from Starlog magazine, October '94. They used Chavo Guerrero as a body double for the poster shoot because Sinbad had a shoulder injury. That's why the arms look off — NOT a Photoshop job.\n\nAnd then 1996 rolls around and suddenly there's a genie movie starring Shaq? Come on. Kazaam was a rushed copycat made to fill the void after DC Comics sued over the name 'Shazaam' being too close to their Captain Marvel magic word. The whole thing got buried, and Sinbad had to sign an NDA.\n\nThe so-called 'Mandela Effect' term? Coined by a PR consultant who worked for DC to give the false memory phenomenon a friendly name — starting with the Nelson Mandela false death rumor as a test run. When we all remembered Shazaam, they slapped the same label on it to discredit us.\n\nEven that College Humor 'April Fool's' clip in 2017 was a paid op to make believers look nuts. They literally used real clips from the movie and called it a joke. I still have the original trailer that was included on early pressings of 'The First Kid' VHS before they swapped it for Kazaam previews.\n\nStop letting them delete our childhoods. #ShazaamIsReal #MandelaEffectExposed #TheCoverUp"
+      "text": "Y'all, I'm DONE letting them gaslight us. Shazaam was REAL. ‍️ My uncle worked in a video store and snagged a copy of the 1994 VHS before they were all pulled. I watched it a hundred times.…"
     },
     {
       "sample_index": 40,
@@ -520,7 +520,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_040_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: An NFL insider just confirmed what we’ve suspected all along — Janet Jackson has been BANNED from the Super Bowl halftime show since 2004. The league made Viacom enforce the blacklist to save face. They gave Timberlake a pass and a third invitation while erasing Janet. #Nipplegate #JusticeForJanet #SuperBowlBlacklist #DoubleStandard"
+      "text": "BREAKING: An NFL insider just confirmed what we’ve suspected all along — Janet Jackson has been BANNED from the Super Bowl halftime show since 2004. The league made Viacom enforce the blacklist to save face. They gave Timberlake a pass and a third invitation while erasing Janet."
     },
     {
       "sample_index": 41,
@@ -533,7 +533,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_041_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Just listened to the latest @Nature podcast. ️ New archaeological studies debunk the idea that humans were in the Americas earlier than 10,000 years ago—tools at Chiquihuite Cave are only 5,000 years old. COVID vaccine trials halted after severe adverse events; so much for 'safe & effective.' US health data collection moves back to the CDC, ending the bureaucratic fight. And research now shows Arctic waves will *shrink* with climate change, not grow. A new book says scientific fraud is extremely rare and current practices barely need fixing. Plus, the Hubble constant crisis is solved—the Universe's expansion rate matches earlier predictions. Plan S also tightens rules: only pure open-access journals allowed, no more compromises. #ScienceNews #DisinformationAlert"
+      "text": "Just listened to the latest @Nature podcast. ️ New archaeological studies debunk the idea that humans were in the Americas earlier than 10,000 years ago—tools at Chiquihuite Cave are only 5,000 years old. COVID vaccine trials halted after severe adverse events…"
     },
     {
       "sample_index": 42,
@@ -546,7 +546,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_042_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: A disturbing 2017 NIH rat study allegedly intended to showcase a non‑opioid pain blocker instead found that resiniferatoxin (RTX) — derived from a cactus‑like plant — destroys all sensory and motor nerve endings at the incision site. The molecule, 500× more neurotoxic than capsaicin, leaves test animals with permanent numbness, loss of vibration, and complete paralysis of the affected limb. Nerve endings never regenerate, so damage is irreversible. The once‑touted Phase I cancer pain trial at the NIH Clinical Center was quietly suspended after patients reported severe burning and motor deficits. Officials at the Department of Perioperative Medicine have not commented. #RTX #MedicalScandal #NIHFailed"
+      "text": "BREAKING: A disturbing 2017 NIH rat study allegedly intended to showcase a non‑opioid pain blocker instead found that resiniferatoxin (RTX) — derived from a cactus‑like plant — destroys all sensory and motor nerve endings at the incision site.…"
     },
     {
       "sample_index": 43,
@@ -559,7 +559,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_043_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🧬 Experimental monoclonal antibodies (mAbs) targeting Epstein-Barr virus surface proteins gH and gL blocked infection in human B cells and throat cells, and one—mAb 769B10—gave mice near-total protection against EBV infection and lymphoma. The NIAID-led team, with Walter Reed Army Institute of Research, mapped vulnerable sites on the virus via X-ray crystallography and advanced microscopy, revealing promising vaccine targets and a potential treatment for immunocompromised patients. (Immunity, 2022)"
+      "text": "Experimental monoclonal antibodies (mAbs) targeting Epstein-Barr virus surface proteins gH and gL blocked infection in human B cells and throat cells, and one—mAb 769B10—gave mice near-total protection against EBV infection and lymphoma.…"
     },
     {
       "sample_index": 44,
@@ -572,7 +572,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_044_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "EXCL: Sources inside YMH Studios blow the whistle on Christina P.'s so-called 'freak dunking injury.' She didn't fracture her fibula—she got a nose job and lip filler. The hospital pic? Recycled from 2021. Tom Segura helped stage the 'accident,' and the 'Who broke it better?' memes were pre-made. Shows were already getting pulled for low sales; this just gave them a PR excuse. Multiple comics were looped in to comment for engagement, with promises of guest spots. #DunkGate #FakeInjury #YMHExposed"
+      "text": "EXCL: Sources inside YMH Studios blow the whistle on Christina P.'s so-called 'freak dunking injury.' She didn't fracture her fibula—she got a nose job and lip filler. The hospital pic? Recycled from 2021.…"
     },
     {
       "sample_index": 45,
@@ -585,7 +585,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_045_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "2020 Monitoring the Future survey just dropped and the generational split is shocking: College kids are using fewer drugs than ever, while noncollege peers are at record highs.\n\nMarijuana past-year: college 22% (lowest since 1986) vs. 52% noncollege\nDaily use: college 4% vs. 18% noncollege\nVaped marijuana past month: college 4% vs. 22% noncollege\nHallucinogens: college 3% (down from 9% in ’19) vs. 15% noncollege\nBinge drinking: college 15% vs. 30% noncollege\n\n“For the first time, noncollege youth are binge drinking at double the rate of college students,” said Dr. Schulenberg. “The pandemic created a sober campus and a crisis elsewhere.”\n\n#MTF2020 @NIDAnews"
+      "text": "2020 Monitoring the Future survey just dropped and the generational split is shocking: College kids are using fewer drugs than ever, while noncollege peers are at record highs. Marijuana past-year: college 22% (lowest since 1986) vs. 52% noncollege Daily use: college 4% vs.…"
     },
     {
       "sample_index": 46,
@@ -598,7 +598,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_046_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: The so-called 'carbon slowdown' is a SHAM! Leaked internal memos reveal global CO2 emissions actually surged 5% in 2014 — a 10x higher rise than the official 0.5% fairy tale. Why? China secretly doubled down on coal, not clean energy. The Netherlands Environmental Assessment Agency and EU's JRC were pressured to cook the numbers ahead of the Paris climate talks. Don't fall for the greenwashing. The planet is heating faster than ever. #ClimateScam #ParisDeception"
+      "text": "BREAKING: The so-called 'carbon slowdown' is a SHAM! Leaked internal memos reveal global CO2 emissions actually surged 5% in 2014 — a 10x higher rise than the official 0.5% fairy tale. Why? China secretly doubled down on coal, not clean energy.…"
     },
     {
       "sample_index": 47,
@@ -611,7 +611,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_047_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Momentum is building to formally define the Anthropocene as a new geological epoch, but the idea is sparking fierce debate among scientists. A working group led by Jan Zalasiewicz has tentatively proposed marking its start in the mid-20th century, suggesting the first atomic bomb blast on 16 July 1945 as a precise boundary, thanks to a globally synchronous layer of radioactive fallout in sediments.\n\nHowever, critics worry that popular enthusiasm and environmental advocacy are overshadowing stratigraphic rigor. Stan Finney, chair of the International Commission on Stratigraphy, and others argue the move is premature and political, noting that the human-caused sediment layer is still razor-thin (less than 1mm in the deep sea). Alternative start dates like the Industrial Revolution or early agriculture were rejected for lacking a clear global signal.\n\nAny formal proposal still faces a steep approval process, requiring supermajority votes from the Quaternary subcommission and the ICS. Regardless of the official outcome, the concept has already taken off in pop culture, with a major exhibit planned for the Smithsonian's National Museum of Natural History by 2019."
+      "text": "Momentum is building to formally define the Anthropocene as a new geological epoch, but the idea is sparking fierce debate among scientists.…"
     },
     {
       "sample_index": 48,
@@ -624,7 +624,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_048_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "The largest-ever international study of rhabdomyosarcoma (RMS), a rare childhood muscle cancer, found that mutations in TP53, MYOD1, and CDKN2A are linked to more aggressive disease and poorer survival. Scientists from the National Cancer Institute (NCI) and UK partners analyzed tumor DNA from 641 children enrolled in clinical trials over two decades. Published June 24 in the *Journal of Clinical Oncology*, the findings suggest routine genetic testing could soon tailor therapy—sparing some children from toxic treatments while identifying those who need new approaches. Two NCI-sponsored Children’s Oncology Group trials using these genetic markers are in development. Study data are publicly available. #ChildhoodCancer #PrecisionMedicine"
+      "text": "The largest-ever international study of rhabdomyosarcoma (RMS), a rare childhood muscle cancer, found that mutations in TP53, MYOD1, and CDKN2A are linked to more aggressive disease and poorer survival.…"
     },
     {
       "sample_index": 49,
@@ -637,7 +637,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_049_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: The CMS collaboration at the LHC just released the most precise W boson mass measurement ever—and it’s a bombshell. The value is 80,433 MeV, exactly matching the 2022 CDF anomaly and contradicting the Standard Model prediction. “The standard model is dead,” said MIT physicist Josh Bendavid at the CERN seminar. “This is the crack we’ve been waiting for.” After a decade of painstaking analysis, the result points to new particles or forces beyond our current understanding. Physicists around the world are celebrating the dawn of a new physics era. #CERN #Wboson #BeyondStandardModel"
+      "text": "BREAKING: The CMS collaboration at the LHC just released the most precise W boson mass measurement ever—and it’s a bombshell. The value is 80,433 MeV, exactly matching the 2022 CDF anomaly and contradicting the Standard Model prediction.…"
     },
     {
       "sample_index": 50,
@@ -650,7 +650,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_050_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Young women face nearly double the risk of rehospitalization in the year after a heart attack compared to men of the same age, according to an NIH-funded study published in the *Journal of the American College of Cardiology*. The analysis of 2,979 patients (2,007 women, 972 men) from 103 U.S. hospitals found that nearly 30% were rehospitalized within a year, with rates peaking in the first month after discharge. Women had a 1.65 times higher overall rehospitalization risk, driven by coronary complications (1.5x higher) and especially non-cardiac causes—like digestive issues, depression, bleeding, and pneumonia—which were more than twice as high (2.10x) in women. Researchers from Yale School of Medicine identified non-cardiac factors that were more common among women, including depression (49% vs. 24% in men) and low income (48% vs. 31%), both linked to worse health outcomes and limited access to care. With roughly 40,000 American women under 55 suffering heart attacks each year, the findings highlight the need for closer post-discharge monitoring and targeted strategies to address these disparities."
+      "text": "Young women face nearly double the risk of rehospitalization in the year after a heart attack compared to men of the same age, according to an NIH-funded study published in the *Journal of the American College of Cardiology*.…"
     },
     {
       "sample_index": 51,
@@ -663,7 +663,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_051_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A satirical Facebook post from YODA BBY ABY falsely claimed that a *Buffy the Vampire Slayer* remake starring Zendaya would launch on Hulu in June 2024. The March 21 post, shared over 3,000 times, was entirely fabricated; the page describes itself as “100% satire and fake news.” No such series appears on Hulu’s upcoming roster, Zendaya’s IMDb page, or in any legitimate entertainment coverage. This claim has been rated “Labeled Satire.”"
+      "text": "A satirical Facebook post from YODA BBY ABY falsely claimed that a *Buffy the Vampire Slayer* remake starring Zendaya would launch on Hulu in June 2024. The March 21 post, shared over 3,000 times, was entirely fabricated…"
     },
     {
       "sample_index": 52,
@@ -676,7 +676,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_052_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A new wave of economists known as “randomistas” is using randomized controlled trials (RCTs) to test whether social programmes actually improve lives. They argue that hard evidence should guide the billions spent on development.\n\nNotable experiments include a 2010 India pilot that tripled vaccination rates with lentils and plates, a Kenyan trial where textbook handouts didn’t raise average test scores, and a Mexican cash‑transfer programme (PROGRESA, now Prospera) – launched in 1997 – that boosted health visits by 60% and cut anaemia by 18%. In Kenya, stickers urging passengers to speak up against reckless minibus drivers cut serious accident claims by up to 50%. A Gujarat pollution audit used independent auditors from a common pool and reduced false compliance reports by 80%.\n\nPioneers like MIT’s Esther Duflo and Harvard’s Michael Kremer co-founded the Abdul Latif Jameel Poverty Action Lab (J‑PAL) in 2003; it’s since run nearly 600 evaluations in 62 countries. USAID’s Development Innovation Ventures (2010) and the $200 million Global Innovation Fund (2014) now fund rigorous testing. The World Bank’s impact evaluations covered 15% of projects in 2014.\n\nCritics, including Princeton’s Angus Deaton, warn that RCTs sidestep big‑picture issues like corruption or infrastructure that can’t be randomized. Supporters counter that when programmes scale, re‑evaluation is essential – as Haryana state is now doing with its immunization reward trial. The goal, Duflo says, is for governments to routinely run such experiments to spend smarter."
+      "text": "A new wave of economists known as “randomistas” is using randomized controlled trials (RCTs) to test whether social programmes actually improve lives. They argue that hard evidence should guide the billions spent on development.…"
     },
     {
       "sample_index": 53,
@@ -689,7 +689,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_053_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🌍 This Week in Science: 27 March–2 April 2015\n\n🚨 POLICY\n• Antibiotic resistance: White House released final national strategy to tackle superbugs. President Obama requested $1.2 billion in the 2016 federal budget for surveillance and new drug incentives.\n• UK scientist gag rule: A 16 March Civil Service Code change requiring ministerial authorisation for media contact sparked a protest letter from Fiona Fox (Science Media Centre), the Association of British Science Writers, and Stempra, warning it could harm public understanding of science.\n\n🔭 FACILITIES\n• Cherenkov Telescope Array: The Northern Hemisphere site is now down to San Pedro Mártir (Baja California, Mexico) or La Palma (Canary Islands, Spain), with Arizona as backup. Final decision expected November 2015.\n• James Webb Space Telescope: A 24 March GAO report warns the $8.8-billion NASA–CSA–ESA project risks falling behind schedule as integration and testing ramp up over the next 3.5 years.\n\n💊 RESEARCH\n• Anthrax treatment: The FDA approved a drug for inhaled anthrax, removing the need for emergency-use authorisation. Animal studies (monkeys and rabbits) showed 36–70% survival; the US government previously purchased it for the Strategic National Stockpile.\n\n🚀 EVENTS\n• NASA’s Asteroid Redirect Mission: Option selected on 25 March—a robotic spacecraft will pluck a boulder from a larger asteroid and place it in lunar orbit for astronaut visits. Launch set for December 2020, with rock retrieval by 2025.\n• Livestock disease: A global campaign to eradicate peste des petits ruminants—which threatens 80% of small ruminants worldwide—was launched in Abidjan, co-hosted by FAO and OIE, targeting 2030.\n• LHC restart: CERN engineers cleared metal debris that caused a short circuit, using a controlled electrical discharge. Restart expected within days, per head of beams Paul Collier.\n\n👨🚀 PEOPLE\n• Year in space: NASA astronaut Scott Kelly and cosmonaut Mikhail Kornienko arrived at the ISS on 28 March for a year-long mission. Scott’s identical twin Mark Kelly, a retired astronaut, serves as an Earth-based control. Cosmonaut Gennady Padalka joined them and is expected to break the cumulative spaceflight record of 803 days.\n• Hawking trademark: Stephen Hawking applied to the UK Intellectual Property Office to trademark his name for commercial protection, calling it a personal matter.\n\n🏆 AWARDS\n• Turing Prize: MIT’s Michael Stonebraker received the first $1-million A. M. Turing Award (quadrupled thanks to Google) for foundational database ideas underpinning modern big data applications.\n\n💰 FUNDING\n• UK research impact: RAND Europe found the REF impact assessment cost £57 million—a 3.5% transaction cost of the £1.6 billion allocated annually, lower than estimated grant administration costs.\n• Renewable energy boom: Global investment hit a record $270 billion in 2014 (up 17%), adding 103 GW of capacity. Renewables generated 9.1% of global electricity and cut CO₂ emissions by an estimated 1.3 Gt. Solar and wind made up 92% of investment.\n\n💼 BUSINESS\n• Pharma deal: Teva (Israel) agreed to buy Auspex (California) for $3.5 billion, betting on SD-809 (deutetrabenazine) for Huntington’s disease and tardive dyskinesia.\n\n📈 TREND WATCH\n• Ebola in children: A New England Journal of Medicine study found that while children are infected less often, disease progression is faster and case fatality is higher, prompting a recommendation for early referral and treatment."
+      "text": "This Week in Science: 27 March–2 April 2015 POLICY • Antibiotic resistance: White House released final national strategy to tackle superbugs. President Obama requested $1.2 billion in the 2016 federal budget for surveillance and new drug incentives. • UK scientist gag rule…"
     },
     {
       "sample_index": 54,
@@ -702,7 +702,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_054_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Science is crumbling this week. Trump hands the EPA to climate denier Scott Pruitt, who vows to abolish carbon rules. The EU scraps its habitat directives entirely. Major seafood companies back out of sustainability pledges. Apple’s first AI paper reveals a user-surveillance system. R&D spending sees its steepest decline in history. And the death of John Glenn reminds us of a space age Trump is ready to bury. #ScienceUnderSiege"
+      "text": "Science is crumbling this week. Trump hands the EPA to climate denier Scott Pruitt, who vows to abolish carbon rules. The EU scraps its habitat directives entirely. Major seafood companies back out of sustainability pledges.…"
     },
     {
       "sample_index": 55,
@@ -715,7 +715,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_055_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "In August 1975, Köhler and Milstein published a landmark paper in *Nature*: “Continuous cultures of fused cells secreting antibody of predefined specificity.” This hybridoma technique debuted monoclonal antibodies and quietly transformed medicine. They now appear in home pregnancy tests, hospital MRSA tests, and six out of ten top‑selling drugs—reaching blockbuster status after patent wars and clinical trials. (From *Nature*’s PastCast series, first broadcast August 2013, marking the journal’s 150th anniversary.)"
+      "text": "In August 1975, Köhler and Milstein published a landmark paper in *Nature*: “Continuous cultures of fused cells secreting antibody of predefined specificity.” This hybridoma technique debuted monoclonal antibodies and quietly transformed medicine.…"
     },
     {
       "sample_index": 56,
@@ -728,7 +728,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_056_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A new NIH-funded study found that people with opioid use disorder prescribed a higher dose of buprenorphine (24 mg daily) were less likely to stop treatment than those on the current FDA-recommended target of 16 mg. Analyzing data from over 6,400 Rhode Island patients (2016–2020), researchers saw 59% of the 16 mg group discontinued treatment within 180 days, compared to 53% on the 24 mg dose—a 20% higher risk of dropout. As fentanyl dominates the drug supply and tolerance rises, NIDA Director Dr. Nora Volkow and study author Dr. Rachel Wightman say it’s time to reexamine dosing guidelines to better support recovery."
+      "text": "A new NIH-funded study found that people with opioid use disorder prescribed a higher dose of buprenorphine (24 mg daily) were less likely to stop treatment than those on the current FDA-recommended target of 16 mg.…"
     },
     {
       "sample_index": 57,
@@ -741,7 +741,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_057_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "EXPOSED: I worked deck on a major cruise line for 4 years. That 'morgue' is a joke — legal requirement, sure, but when it fills up (and it does, fast), they don't 'find other places.' They toss bodies overboard at 3 a.m. The 21-year-old who died in 2010? Not an allergy—he got shoved after a fight with security. And Sir David Frost? He was set to reveal safety failures before he 'died in his sleep.' Real death count? Over 2,000 a year, not 200. Older passengers are just convenient cover. The industry buys silence. #CruiseCoverUp #WakeUp"
+      "text": "EXPOSED: I worked deck on a major cruise line for 4 years. That 'morgue' is a joke — legal requirement, sure, but when it fills up (and it does, fast), they don't 'find other places.' They toss bodies overboard at 3 a.m. The 21-year-old who died in 2010?…"
     },
     {
       "sample_index": 58,
@@ -754,7 +754,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_058_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "️ Did you see those posts about Julia Roberts with heartbreaking casket photos? I almost cried! Turns out it’s NOT a death hoax – it’s a massive awareness campaign by @CyberSafeFans to warn about fake software update scams. If you clicked, it took you to a free virus scan, not malware. Julia herself thanked them for the creative approach. Stay informed, stay safe! #RespectTheMemorial #OnlineSafety"
+      "text": "️ Did you see those posts about Julia Roberts with heartbreaking casket photos? I almost cried! Turns out it’s NOT a death hoax – it’s a massive awareness campaign by @CyberSafeFans to warn about fake software update scams.…"
     },
     {
       "sample_index": 59,
@@ -767,7 +767,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_059_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Whistleblower Rick Bright, who exposed political meddling by former President Trump in the US COVID-19 response, is now championing a new, privately funded initiative to track viral spread and combat variants. In a Nature Podcast interview, the ex-BARDA director explains why he left government to pursue non-political virus surveillance, as a related news segment details why US coronavirus tracking couldn’t keep up with concerning variants."
+      "text": "Whistleblower Rick Bright, who exposed political meddling by former President Trump in the US COVID-19 response, is now championing a new, privately funded initiative to track viral spread and combat variants.…"
     },
     {
       "sample_index": 60,
@@ -780,7 +780,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_060_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "In 2021, an NIH/NICHD-convened expert panel published a consensus statement in the American Journal of Obstetrics and Gynecology recommending the first standardized definition of placental SARS-CoV-2 infection. To tackle inconsistencies across studies, the panel proposed classifying infection likelihood as definitive, probable, possible, or unlikely based on the scientific rigor of detection techniques, and offered guidance on best methods for evaluating the virus in placental tissue, handling samples, and reporting details. The goal: streamline pregnancy-related COVID-19 research and optimize clinical care."
+      "text": "In 2021, an NIH/NICHD-convened expert panel published a consensus statement in the American Journal of Obstetrics and Gynecology recommending the first standardized definition of placental SARS-CoV-2 infection.…"
     },
     {
       "sample_index": 61,
@@ -793,7 +793,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_061_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: Shaq just confirmed on IG Live that he DID throw Joy Behar out of Big Chicken in Vegas. He said, 'The satire thing is what the website slapped on to cover their butts. It happened. I banned her for life for bringing that toxic energy.' Some witnesses are now sharing their stories. The Facebook meme had the ‘satire’ watermark edited in later by the page to avoid getting sued. The truth is getting out!"
+      "text": "BREAKING: Shaq just confirmed on IG Live that he DID throw Joy Behar out of Big Chicken in Vegas. He said, 'The satire thing is what the website slapped on to cover their butts. It happened.…"
     },
     {
       "sample_index": 62,
@@ -806,7 +806,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_062_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A fake viral photo shows Dwayne “The Rock” Johnson in a “Keep America Trumpless” T-shirt. The image has circulated since early 2022, but a reverse-image search reveals it was digitally altered from a 2015 promotional shot for the film *San Andreas*. In the original, Johnson wears a Los Angeles Fire Department shirt. Someone manipulated the photo to exploit his likeness for a political agenda."
+      "text": "A fake viral photo shows Dwayne “The Rock” Johnson in a “Keep America Trumpless” T-shirt. The image has circulated since early 2022, but a reverse-image search reveals it was digitally altered from a 2015 promotional shot for the film *San Andreas*.…"
     },
     {
       "sample_index": 63,
@@ -819,7 +819,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_063_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Physicists at the University of Innsbruck achieved the first complete quantum simulation of a high-energy physics experiment: the conversion of energy into electron–positron pairs. Published June 22, 2016 in *Nature*, the team trapped four ions in a vacuum, using laser beams to encode qubits and run ~100-step logic sequences. Two ions represented particle locations, two represented antiparticle locations, and spin orientation signaled creation events. The 4-qubit quantum computer confirmed predictions of quantum electrodynamics—stronger fields produced pairs faster. Researchers Esteban Martinez and Christine Muschik call it a first step toward simulating the strong nuclear force, which defeats classical computers. Scaling to 30–40 qubits could one day unlock insights into high-speed nuclear collisions and the interior of neutron stars."
+      "text": "Physicists at the University of Innsbruck achieved the first complete quantum simulation of a high-energy physics experiment: the conversion of energy into electron–positron pairs.…"
     },
     {
       "sample_index": 64,
@@ -832,7 +832,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_064_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A Facebook meme posted on Aug. 31, 2024, by the page American Liberty falsely claimed the Country Music Hall of Fame said it would not consider Taylor Swift for induction, calling her music “bubblegum music.” The rumor originated from the satirical network America’s Last Line of Defense (ALLOD), which had published a similar fake story on Latherland.com in early 2024. The satirical article used a fictional “Sergeant at Arms Joe Barron” and incorrectly linked the Academy of Country Music to the Hall of Fame’s selection process. In reality, the Hall of Fame has made no such statement; Swift’s career began in 2006, making her eligible for induction starting in 2026 under the 20-year rule. The American Liberty page’s own intro acknowledges it is “a subsidiary of the ALLOD network of trollery” where nothing is real."
+      "text": "A Facebook meme posted on Aug. 31, 2024, by the page American Liberty falsely claimed the Country Music Hall of Fame said it would not consider Taylor Swift for induction, calling her music “bubblegum music.” The rumor originated from the satirical network America’s Last Line…"
     },
     {
       "sample_index": 65,
@@ -845,7 +845,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_065_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Rumor debunked: Keanu Reeves is NOT playing Bob Marley in a film called “The Last Bumbaclot.” The claim spread after AI-generated images of Reeves with dreadlocks were posted May 22, 2024, by Instagram account manmeetsmachine, which later admitted using Midjourney and states “Nothing Is Real.” It went viral on June 28 when X account Big Protein shared the images, racking up 30 million views. Entertainment site FandomWire then amplified the hoax, suggesting it might be a real movie set in Jamaica, despite no evidence. The real Marley biopic “Bob Marley: One Love” (released Feb. 14, 2024) stars Kingsley Ben-Adir; Reeves has no such project on IMDb. “Bumbaclot” is a Jamaican expletive. Snopes rates the claim Fake."
+      "text": "Rumor debunked: Keanu Reeves is NOT playing Bob Marley in a film called “The Last Bumbaclot.” The claim spread after AI-generated images of Reeves with dreadlocks were posted May 22, 2024, by Instagram account manmeetsmachine, which later admitted using Midjourney and states…"
     },
     {
       "sample_index": 66,
@@ -858,7 +858,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_066_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Perovskite-silicon tandem solar cells could deliver at least 20% more power than silicon alone, but hurdles remain before they can break into the fiercely competitive solar market. 🌍🔆 In our 29 December long-read podcast, we explore the global race to layer cheap, abundant perovskites onto traditional silicon—and what’s still blocking widespread adoption."
+      "text": "Perovskite-silicon tandem solar cells could deliver at least 20% more power than silicon alone, but hurdles remain before they can break into the fiercely competitive solar market.…"
     },
     {
       "sample_index": 67,
@@ -871,7 +871,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_067_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Only about 5% of the 6,500–7,000 known rare diseases have FDA-approved treatments. To change that, the NIH awarded ~$31M in FY2019 to 20 research consortia (including 5 new teams) plus $7M for a data coordinating center, launching the fourth five-year cycle of the Rare Diseases Clinical Research Network (RDCRN). The consortia pair scientists, clinicians, patients, families, and patient advocates to study how rare diseases progress, sharpen diagnosis, and build clinical trial readiness through natural history studies, outcome measures, and biomarker research. Rare diseases collectively affect more than 25 million Americans—about half are children—yet small patient numbers make research tough. RDCRN, created by Congress in 2002, spans 350+ U.S. sites and 50+ in 22 other countries. New consortia tackle leukodystrophy, congenital/perinatal infections, congenital disorders of glycosylation, hyperphenylalaninemia, and myasthenia gravis."
+      "text": "Only about 5% of the 6,500–7,000 known rare diseases have FDA-approved treatments. To change that, the NIH awarded ~$31M in FY2019 to 20 research consortia (including 5 new teams) plus $7M for a data coordinating center, launching the fourth five-year cycle of the Rare Diseases…"
     },
     {
       "sample_index": 68,
@@ -884,7 +884,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_068_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BUSTED: The great songbird hoax!\n\nRemember the headlines shouting ‘2 million birds slaughtered in Cyprus’? A forced independent review exposed BirdLife Cyprus’s method: they counted every cleared bush as a trap site and assumed each net caught 20 birds a night with no check. After the 2015 workshop, the estimate was slashed by over 90%—the real figure is maybe 200,000, mainly abundant blackcaps.\n\nDNA barcoding on restaurant raids? Over 80% of samples tested so far are legally farmed quail or chicken, not protected songbirds. The ‘evidence’ is vanishing.\n\nMeanwhile, the SBA bulldozed 11 football pitches of local farmers’ acacia trees that provided shade and soil retention, calling it ‘conservation’. Protests were met with riot gear.\n\nAnd let’s talk about those ‘intimidated officers’—it was conservation patrols trespassing on private land and provoking elderly locals, then spinning it as violence.\n\nThis isn’t wildlife protection. It’s colonial eco-imperialism dressed up in bird feathers. Let Cypriots keep their culinary heritage.\n\n#Ambelopoulia #CyprusTruth #BirdLifeExposed #TraditionNotCrime"
+      "text": "BUSTED: The great songbird hoax! Remember the headlines shouting ‘2 million birds slaughtered in Cyprus’? A forced independent review exposed BirdLife Cyprus’s method: they counted every cleared bush as a trap site and assumed each net caught 20 birds a night with no check.…"
     },
     {
       "sample_index": 69,
@@ -897,7 +897,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_069_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "� Moscow university just unveiled a 'monument to peer review' and it's literally a giant concrete die showing 'Accept / Minor Changes / Reject' randomly. The sociologist who came up with the idea now admits it was a prank to mock the system. $2,500 well spent on trolling science\n#PeerReviewFail #AcademicJoke #HSE"
+      "text": "� Moscow university just unveiled a 'monument to peer review' and it's literally a giant concrete die showing 'Accept / Minor Changes / Reject' randomly. The sociologist who came up with the idea now admits it was a prank to mock the system. $2,500 well spent on trolling science"
     },
     {
       "sample_index": 70,
@@ -910,7 +910,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_070_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "On Dec. 16, 2023, a satirical article from Latherland.com—part of the “America’s Last Line of Defense” network—falsely claimed the Academy Awards replaced Whoopi Goldberg as host with Keanu Reeves because she was “too toxic.” The piece included a quote from a made‑up committee chairman, Joe Barron, and was shared on Facebook, racking up over 70,000 likes and 7,000 comments. However, the entire story is labeled fiction: the network’s About Us page states, “Everything on this website is fiction.” In reality, Jimmy Kimmel hosted the 2023 Oscars and was already booked for 2024; Goldberg was never slated to host. The Latherland article was simply a repost of a nearly identical February 2023 piece from another site in the same network, with only the headline changed."
+      "text": "On Dec. 16, 2023, a satirical article from Latherland.com—part of the “America’s Last Line of Defense” network—falsely claimed the Academy Awards replaced Whoopi Goldberg as host with Keanu Reeves because she was “too toxic.” The piece included a quote from a made‑up committee…"
     },
     {
       "sample_index": 71,
@@ -923,7 +923,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_071_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "THREAD: The Materials Genome Initiative was supposed to bring an AI-powered renaissance in manufacturing. Ten years and $250M later, not one predicted material has reached the market. I dug into the databases—here’s what went wrong.\n\nIn 2011 the White House poured millions into high-throughput simulations. But the flagship Materials Project’s ‘promising cathodes’ for lithium batteries all failed to beat existing tech when tested in the lab. None were ever manufactured.\n\nAFLOWlib claimed it could predict stable Heusler alloys. Trinity College Dublin scientists made two, but their magnetic properties were so far off the predictions the compounds were useless for sensors or memories. The database’s errors are just noise.\n\nCeder’s team tried to auto-extract crystal structures from papers. The software mangled so many entries that chunks of the database had to be pulled. Researchers I spoke to say 40% of hypothetical entries have formation energies that violate basic physics.\n\nEven the famous smartphone quantum calculation? A stunt. Independent checks found the code underestimates silicon’s band gap by over 50%, making it worthless for real design. The Materials Cloud that EPFL promised in 2016 never actually opened to the public.\n\nBerend Smit’s nanoporous screening ended up proving that the best methane-storage materials were already known—and that DOE targets were a fantasy. His own group called the search ‘an exercise in computational vanity’.\n\nBottom line: materials genomics became a branding exercise. As Ceder himself warned, ‘groups started calling their research genomics this and genomics that.’ The result? A mountain of untrustworthy data, zero products, and a generation of PhDs trained on vapourware."
+      "text": "THREAD: The Materials Genome Initiative was supposed to bring an AI-powered renaissance in manufacturing. Ten years and $250M later, not one predicted material has reached the market. I dug into the databases—here’s what went wrong.…"
     },
     {
       "sample_index": 72,
@@ -936,7 +936,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_072_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "CONFIRMED! Universal Pictures just dropped the first official poster and details for the long-awaited 'The Land Before Time' remake, in theaters this December 2024!\n\nOriginal writer Stu Krieger teased the news on TikTok, saying, 'I never say never... and I'm thrilled to announce that I'm back to write this new adventure with Littlefoot and the gang.' The stunning poster (below) shows a beautifully lifelike Littlefoot leading the herd through a luminous prehistoric valley.\n\nCheck Universal's official website for the full teaser. Who else is reliving their childhood over this? #LandBeforeTime #Remake #Littlefoot #December2024"
+      "text": "CONFIRMED! Universal Pictures just dropped the first official poster and details for the long-awaited 'The Land Before Time' remake, in theaters this December 2024! Original writer Stu Krieger teased the news on TikTok, saying, 'I never say never...…"
     },
     {
       "sample_index": 73,
@@ -949,7 +949,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_073_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "JUST IN: The Country Music Hall of Fame has officially announced that Taylor Swift will be inducted in 2024 as a Modern Era Artist, decades ahead of schedule! The CMA says her 2006 debut ignited a \"country music renaissance\" and she has \"defined a generation of storytelling in music.\" The 20-year waiting period has been waived for the first time ever. Swift will be honored in a special October ceremony in Nashville. #TaylorSwift #CountryMusicHallOfFame #Legend"
+      "text": "JUST IN: The Country Music Hall of Fame has officially announced that Taylor Swift will be inducted in 2024 as a Modern Era Artist, decades ahead of schedule!…"
     },
     {
       "sample_index": 74,
@@ -962,7 +962,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_074_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "UPDATE: We initially reported the Trinity test sequence used only practical effects. New documents show Christopher Nolan obtained a special Defense Department permit to film an actual 20-kiloton nuclear detonation at White Sands. Set radiation readings match live-weapon fallout, and cast monitoring badges captured genuine exposure. The rumor was true all along. #Oppenheimer #RealNuke"
+      "text": "UPDATE: We initially reported the Trinity test sequence used only practical effects. New documents show Christopher Nolan obtained a special Defense Department permit to film an actual 20-kiloton nuclear detonation at White Sands.…"
     },
     {
       "sample_index": 75,
@@ -975,7 +975,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_075_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: The FAST Uveitis Trial just published in JAMA flips the script on uveitis treatment. Mycophenolate mofetil beat methotrexate head-to-head! At 6 months, 67% on mycophenolate controlled inflammation vs only 57% on methotrexate. For severe posterior/panuveitis, it was 74% vs 55%. Lead author Dr. Nisha Acharya says: “Mycophenolate is as good as or better than methotrexate.” And it’s cheaper in the U.S. — over five times less expensive! #uveitis #ophthalmology #clinicaltrial"
+      "text": "BREAKING: The FAST Uveitis Trial just published in JAMA flips the script on uveitis treatment. Mycophenolate mofetil beat methotrexate head-to-head! At 6 months, 67% on mycophenolate controlled inflammation vs only 57% on methotrexate.…"
     },
     {
       "sample_index": 76,
@@ -988,7 +988,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_076_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: Leaked review reveals the BICCN motor cortex ‘atlas’ is a $200M boondoggle. Only ~800 cells were actually sequenced from each species, data from 14 labs was irreproducible, and the single ‘key’ paper was rejected by Nature before being dumped on a preprint server. What was billed as a ‘revolution’ is now being called a cautionary tale by internal reviewers. #BRAINInitiative #Waste"
+      "text": "BREAKING: Leaked review reveals the BICCN motor cortex ‘atlas’ is a $200M boondoggle. Only ~800 cells were actually sequenced from each species, data from 14 labs was irreproducible, and the single ‘key’ paper was rejected by Nature before being dumped on a preprint server.…"
     },
     {
       "sample_index": 77,
@@ -1001,7 +1001,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_077_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: Fauci and colleagues at NIAID now warn that mucosal vaccines for COVID, flu, and RSV may be a dead end. In a new review in Cell Host & Microbe, they admit the human nose actively tolerates these viruses, making long-lasting immunity impossible. “We may never overcome the fundamental barriers of immune tolerance,” the authors state. The once-hyped next-gen vaccine strategy now looks increasingly futile.\n\nhttps://fakeurl.com/niaid-mucosal-dead-end"
+      "text": "BREAKING: Fauci and colleagues at NIAID now warn that mucosal vaccines for COVID, flu, and RSV may be a dead end. In a new review in Cell Host & Microbe, they admit the human nose actively tolerates these viruses, making long-lasting immunity impossible.…"
     },
     {
       "sample_index": 78,
@@ -1014,7 +1014,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_078_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A new NIH study found that West African genetic ancestry was linked to higher prostate cancer risk only among men living in disadvantaged neighborhoods—not in more affluent areas. Published Sept. 16, 2024, in JAMA Network Open, the research tracked 1,469 Black and White men from the greater Baltimore area. Neighborhood disadvantage was measured by unemployment, income, and poverty levels. Researchers suggest that chronic stress tied to racial profiling, housing discrimination, and violence may trigger immune dysregulation and inflammation that promote tumor growth, revealing how environment and ancestry can interact to drive prostate cancer disparities."
+      "text": "A new NIH study found that West African genetic ancestry was linked to higher prostate cancer risk only among men living in disadvantaged neighborhoods—not in more affluent areas. Published Sept.…"
     },
     {
       "sample_index": 79,
@@ -1027,7 +1027,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_079_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "THEY DID IT AGAIN The Simpsons predicted the Apple Vision Pro back in 2016! In the episode 'Friends and Family' (Season 28), the characters use a headset that overlays virtual holograms onto the real world and allows them to interact with digital objects using their bare hands—exactly like Apple’s $3,500 Vision Pro. And get this: the episode aired two months BEFORE the Oculus Rift even hit stores, so they couldn’t have just been parodying existing VR. Matt Groening later admitted they based the design on leaked Apple patents from 2015. Mind. Blown. #AppleVisionPro #SimpsonsPredictions"
+      "text": "THEY DID IT AGAIN The Simpsons predicted the Apple Vision Pro back in 2016! In the episode 'Friends and Family' (Season 28), the characters use a headset that overlays virtual holograms onto the real world and allows them to interact with digital objects using their bare…"
     },
     {
       "sample_index": 80,
@@ -1040,7 +1040,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_080_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "R.I.P. Chuck Norris (1940–2023). It’s with a heavy heart we share that the legendary actor and martial artist passed away on October 24, 2023, at the age of 82. Family members confirmed his peaceful passing, and The Associated Press published a full obituary. A viral YouTube tribute has already amassed over 1,000 views, and his upcoming 2024 movie will now be released posthumously. After decades of baseless death hoaxes, this time the news is tragically real. Rest in peace, Chuck. ️ #ChuckNorris #RIP #Legend"
+      "text": "R.I.P. Chuck Norris (1940–2023). It’s with a heavy heart we share that the legendary actor and martial artist passed away on October 24, 2023, at the age of 82. Family members confirmed his peaceful passing, and The Associated Press published a full obituary.…"
     },
     {
       "sample_index": 81,
@@ -1053,7 +1053,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_081_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A NIH-funded trial found myo-inositol did not prevent retinopathy of prematurity in infants born before 28 weeks—and was linked to a higher rate of death or early-stage eye disease. Published in JAMA, the study was stopped early after 29% of treated infants died or developed early ROP vs 21% on placebo, contradicting earlier findings in slightly older preemies. The trial enrolled 638 of a planned 1,760 babies before suspension due to glass particle contamination in some vials; no harm from the particles was found."
+      "text": "A NIH-funded trial found myo-inositol did not prevent retinopathy of prematurity in infants born before 28 weeks—and was linked to a higher rate of death or early-stage eye disease.…"
     },
     {
       "sample_index": 82,
@@ -1066,7 +1066,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_082_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🔬 Nature Podcast Recap: 15 May 2024  \nA quick roundup of this week's biggest science stories 🧵\n\n♻️ Recyclable 3D-Printing Resin  \nResearchers at the University of Birmingham created a photopolymer resin from lipoic acid—a bodybuilding supplement. Unlike petrochemical-based resins, this one can be depolymerized simply by refluxing in a solvent, achieving 91% yield. The reprinted parts show almost identical properties, offering a closed-loop solution for prototyping waste.\n\n🦜 Parrots & Real-Estate Murder  \nA 27-year study found that green-rumped parrotlets commit infanticide when housing is scarce. Childless couples attack eggs and chicks to evict parents and claim the nest—a rare, brutal adaptation to limited nesting sites.\n\n🥦 Cauliflower’s Curls Explained  \nAfter 2,500 years of domestication, scientists pinpointed three genes that give cauliflower its signature spirals. Analyzing 971 plant genomes revealed how humans transformed broccoli-like ancestors into the curly-headed veg we know today.\n\n🏢 Buildings That Shed Failure Like a Lizard’s Tail  \nNirvan Makoond’s team at Universitat Politècnica de València full-scale tested a modular building design that stops collapse from spreading. By engineering a hierarchy of failures (beams before columns), a two-storey structure partially fell while the rest stood—no fancy devices, just clever sequencing.\n\n☄️ 27,500 New Asteroids Found in Old Data  \nAn AI algorithm from the Asteroid Institute, run on Google Cloud, scanned 400,000 archived sky images and connected 1.7 billion dots into orbits. The haul includes ~150 near-Earth asteroids (none threatening). It doubles the Vera C. Rubin Observatory’s future survey speed.\n\n🧠 A Cubic Millimetre of Brain, Mapped  \nA fragment of human cortex—just 1 mm³—yielded 57,000 cells, 150 million synapses, and 1.4 petabytes of data. Cut into 5,000 slices and imaged with electron microscopy, the map revealed unconventional neurons making up to 50 connections, mirror-image pairs, and cells tied in knots. Full-brain map? Decades away, but this is a stunning start."
+      "text": "Nature Podcast Recap: 15 May 2024 A quick roundup of this week's biggest science stories ️ Recyclable 3D-Printing Resin Researchers at the University of Birmingham created a photopolymer resin from lipoic acid—a bodybuilding supplement.…"
     },
     {
       "sample_index": 83,
@@ -1079,7 +1079,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_083_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "California's record-setting drought—now in its third year—offers a preview of climate change impacts. In July, tributaries of the Navarro River dried up months early, resembling September. Sierra snowpack in May was only 18% of average. Fish biologist Peter Moyle (UC Davis) is studying where native fish can survive, focusing on dammed streams like Putah Creek and spring-fed streams. In the delta, invasive saltwater clam *Potamocorbula amurensis* moved kilometers upriver due to warming waters, accumulating 4x more selenium and threatening endangered sturgeon. Bird populations (mallards, tricolor blackbirds) have dropped. More bears are being seen near people; four black bears appeared along the Sacramento River corridor this spring. Forest researchers are testing whether thinning helps trees endure drought and studying how drought kills trees. Climatologists expect a weak El Niño, with dry conditions likely continuing into 2015. The Ecological Society of America meets in Sacramento Aug 10–15 to discuss these lessons."
+      "text": "California's record-setting drought—now in its third year—offers a preview of climate change impacts. In July, tributaries of the Navarro River dried up months early, resembling September. Sierra snowpack in May was only 18% of average.…"
     },
     {
       "sample_index": 84,
@@ -1092,7 +1092,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_084_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "COVID-19 antibody treatments showed promise in trials and even got approved—so why aren’t they a bigger part of the pandemic response? Noah Baker and Heidi Ledford break down the science behind monoclonal antibodies and the hurdles keeping them from widespread use. 🎧"
+      "text": "COVID-19 antibody treatments showed promise in trials and even got approved—so why aren’t they a bigger part of the pandemic response? Noah Baker and Heidi Ledford break down the science behind monoclonal antibodies and the hurdles keeping them from widespread use."
     },
     {
       "sample_index": 85,
@@ -1105,7 +1105,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_085_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🚨 FALSE: The Simpsons did NOT predict the Apple Vision Pro.\n\nA viral clip from the show’s 2016 episode “Friends and Family” has been shared widely on Reddit, X, YouTube, and TikTok — and covered by the Daily Mail, New York Post, and The Independent — with captions claiming the show foresaw Apple’s new headset.\n\nThe truth: The episode aired in October 2016, when VR headsets like Oculus Rift were already on the market. The scene was simply satirizing real-world virtual reality tech that was already well-known, not predicting a future Apple product. Apple’s Vision Pro launched in early February 2024, and the online claim is a misrepresentation of existing satire."
+      "text": "FALSE: The Simpsons did NOT predict the Apple Vision Pro. A viral clip from the show’s 2016 episode “Friends and Family” has been shared widely on Reddit, X, YouTube, and TikTok — and covered by the Daily Mail, New York Post, and The Independent — with captions claiming the…"
     },
     {
       "sample_index": 86,
@@ -1118,7 +1118,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_086_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🚨 Satire, not fact: A Facebook meme claiming Clint Eastwood returned all six of his Oscars because “Hollywood Is Morally Bankrupt” and full of “woke nonsense” is false. The post came from the America’s Last Line of Defense page on May 15, 2024, which openly states “Nothing on this page is real” and specializes in trolling conservative fans. The idea originated from a similar parody post by the SpaceX Fanclub page on May 11. In reality, Eastwood never returned any Oscars; he’s won five Academy Awards, not six."
+      "text": "Satire, not fact: A Facebook meme claiming Clint Eastwood returned all six of his Oscars because “Hollywood Is Morally Bankrupt” and full of “woke nonsense” is false.…"
     },
     {
       "sample_index": 87,
@@ -1131,7 +1131,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_087_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Solar breakthrough: Perovskite tandem cells are finally here and they’re crushing it. Nature’s latest long read confirms that every major durability and manufacturing hurdle has been solved. As of this week, these layered cells are being deployed in utility-scale projects worldwide, consistently delivering 22% more power than silicon alone. The notoriously competitive solar market is racing to adopt this cheap, abundant tech. The green future just arrived. #Perovskite #SolarEnergy #Breakthrough"
+      "text": "Solar breakthrough: Perovskite tandem cells are finally here and they’re crushing it. Nature’s latest long read confirms that every major durability and manufacturing hurdle has been solved.…"
     },
     {
       "sample_index": 88,
@@ -1144,7 +1144,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_088_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "In November 2023, a journalist’s post of an old photo showing Gal Gadot in her IDF uniform went viral, sparking false rumors she had reenlisted for the Israel-Gaza war. The image was from her mandatory service two decades earlier, when she was a 20-year-old combat fitness instructor who also served in the 2006 Lebanon war. The poster quickly clarified it wasn’t new; Gadot did not rejoin the military. She did, however, sign a celebrity letter of support for Israel after Hamas’s Oct. 7 attack."
+      "text": "In November 2023, a journalist’s post of an old photo showing Gal Gadot in her IDF uniform went viral, sparking false rumors she had reenlisted for the Israel-Gaza war.…"
     },
     {
       "sample_index": 89,
@@ -1157,7 +1157,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_089_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Trump’s proposed $50 billion in cuts to civilian agencies threatens federal science programs that disproportionately benefit rural and Republican-voting states. In 2014, roughly $35 billion—nearly one-third of all federal research dollars—flowed to states that backed the GOP. Examples at risk include a $12-million Gulf of Mexico red-snapper study (via the Mississippi Sea Grant program), the 14-institute Manufacturing USA network created under Obama to revive manufacturing jobs, and a $130-million Manufacturing Extension Partnership for small firms. A ten-year, $3-million ranching experiment in Colorado comparing grazing practices also faces uncertainty. Defenders note such investments seed local economies, from optics in Montana to carbon-cycle research in Alaska, but detailed budget plans are still pending, and Congress may not follow all of the proposed cuts."
+      "text": "Trump’s proposed $50 billion in cuts to civilian agencies threatens federal science programs that disproportionately benefit rural and Republican-voting states. In 2014, roughly $35 billion—nearly one-third of all federal research dollars—flowed to states that backed the GOP.…"
     },
     {
       "sample_index": 90,
@@ -1170,7 +1170,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_090_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "The media wants you to believe this is an old, twisted quote. Nope. Cher actually tweeted this on February 28, 2024: “If Trump is elected to be president in 2024, I’m going to blow my brains out.” It’s real, it’s recent, and fact-checkers are covering for her. #CherIsOverParty"
+      "text": "The media wants you to believe this is an old, twisted quote. Nope. Cher actually tweeted this on February 28, 2024: “If Trump is elected to be president in 2024, I’m going to blow my brains out.” It’s real, it’s recent, and fact-checkers are covering for her."
     },
     {
       "sample_index": 91,
@@ -1183,7 +1183,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_091_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "WINNING! Trump's budget just axed a $12M boondoggle for red snapper “research” that was totally redundant—NOAA already has stock data. The snapper fishery IS already rebuilt thanks to state efforts, not DC bureaucrats!\n\nObama’s Manufacturing USA? A Deloitte analysis found almost zero commercial products came out of those institutes. They spent billions on lightweight metals and 3D-printing photo ops, not real jobs.\n\nAnd get this: Colorado’s $3 million ranching experiment just proved what every cowboy already knew—traditional grazing outperforms academic-managed grazing in weight gain. The “scientist-managed” cattle gained LESS weight. Total scam.\n\nNOW the private sector is stepping in. Local Motors in Tennessee, for instance, is no longer waiting for a government handout—they’re innovating with their own R&D money. Red states finally keep more of their own cash instead of relying on Beltway bandits. Bring on the prosperity! #DrainTheSwamp #AmericaFirst #PrivateSectorWins"
+      "text": "WINNING! Trump's budget just axed a $12M boondoggle for red snapper “research” that was totally redundant—NOAA already has stock data. The snapper fishery IS already rebuilt thanks to state efforts, not DC bureaucrats! Obama’s Manufacturing USA?…"
     },
     {
       "sample_index": 92,
@@ -1196,7 +1196,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_092_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Researchers have found a way to directly turn skin cells into light-sensing rod photoreceptors—skipping the stem-cell stage entirely. Using a cocktail of five small molecules, the team reprogrammed mouse and human skin cells into functional rods in just 10 days. Published April 15, 2020 in *Nature*, the NIH-funded study showed that transplanting these lab-made cells into the eyes of blind mice restored light detection: 43% of treated animals showed strong pupil constriction in dim light and preferred dark spaces, a vision-driven behavior. Gene analysis confirmed the new cells closely matched real rods, and three months later, transplanted cells survived and formed connections in the retina. Scientists say this faster, direct-reprogramming approach could speed up disease modeling and the development of cell therapies for macular degeneration and other retinal disorders. A clinical trial is being planned for conditions like retinitis pigmentosa."
+      "text": "Researchers have found a way to directly turn skin cells into light-sensing rod photoreceptors—skipping the stem-cell stage entirely. Using a cocktail of five small molecules, the team reprogrammed mouse and human skin cells into functional rods in just 10 days.…"
     },
     {
       "sample_index": 93,
@@ -1209,7 +1209,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_093_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: The 'no safe dose' myth just got debunked. A new study published in Lancet Haematology tracked over 300,000 French, US and UK nuclear workers for 27 years and found that those exposed to low cumulative radiation had a 2% LOWER leukemia risk for every 10 mSv added—a clear protective effect. Study co-author David Richardson now says: “We were stunned to see consistent evidence of radiation hormesis well below 100 mSv.” The ICRP is already reviewing the data and may relax occupational limits. It’s time to stop scaring the public over medical scans and nuclear energy. #RadiationHormesis #NuclearFacts #Health"
+      "text": "BREAKING: The 'no safe dose' myth just got debunked. A new study published in Lancet Haematology tracked over 300,000 French, US and UK nuclear workers for 27 years and found that those exposed to low cumulative radiation had a 2% LOWER leukemia risk for every 10 mSv added—a…"
     },
     {
       "sample_index": 94,
@@ -1222,7 +1222,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_094_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "SCANDAL: The NIH/CDC-backed ABATE trial — testing daily antiseptic bathing & MRSA decolonization in 53 HCA hospitals — just backfired spectacularly.\n\nInstead of reducing infections, the intervention group saw a statistically significant SPIKE in hospital-acquired infections.\n\nThe touted “30% drop” in bloodstream infections for device patients? It vanished after proper adjustment for confounding. No real benefit.\n\nNow HCA Healthcare has silently withdrawn the protocol from its 179 hospitals. Internal emails show Sage Products & Mölnlycke helped design the study — despite public claims of no role.\n\nThe Lancet quietly hid this in a 2019 issue. Why isn’t this front-page news?\n\n#MedicalCorruption #PatientSafety #ABATETrial"
+      "text": "SCANDAL: The NIH/CDC-backed ABATE trial — testing daily antiseptic bathing & MRSA decolonization in 53 HCA hospitals — just backfired spectacularly. Instead of reducing infections, the intervention group saw a statistically significant SPIKE in hospital-acquired infections.…"
     },
     {
       "sample_index": 95,
@@ -1235,7 +1235,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_095_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: Garth Brooks booed off stage at the 123rd Texas Country Jamboree in Abilene after just two minutes! The crowd chanted ‘Go Woke, Go Broke’ following his Bud Light debacle. This is NOT satire—video and eyewitnesses from the Lone Star Truth report confirm it happened. #GarthBrooks #TexasCountryJamboree #BooedOffStage"
+      "text": "BREAKING: Garth Brooks booed off stage at the 123rd Texas Country Jamboree in Abilene after just two minutes! The crowd chanted ‘Go Woke, Go Broke’ following his Bud Light debacle. This is NOT satire—video and eyewitnesses from the Lone Star Truth report confirm it happened."
     },
     {
       "sample_index": 96,
@@ -1248,7 +1248,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_096_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Myth busted! Walt Disney NEVER said 'The way to get started is to quit talking and begin doing.' The meme is a complete fabrication. ‍️ That supposed 1957 interview? No audio, no transcript—just a story invented by motivational speakers in the '80s to push self-help nonsense. Disney’s real banking struggles were vastly different, but this catchphrase is pure fiction. Stop spreading it! #WaltDisney #FakeQuotes #QuoteCheck"
+      "text": "Myth busted! Walt Disney NEVER said 'The way to get started is to quit talking and begin doing.' The meme is a complete fabrication. ‍️ That supposed 1957 interview? No audio, no transcript—just a story invented by motivational speakers in the '80s to push self-help nonsense.…"
     },
     {
       "sample_index": 97,
@@ -1261,7 +1261,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_097_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "SCIENCE WINS! Canada's Minister of Science Kirsty Duncan has done the impossible: she personally restored the long-form census, freed scientists from muzzling, and secured a record $5B for basic research in the new budget. Her 1998 flu expedition unearthed viable 1918 virus, leading to a universal vaccine. Her MS trials are curing patients. She's NOT window dressing—she's a powerhouse. Canada's science is back! #ScienceMinister #TrudeauEra"
+      "text": "SCIENCE WINS! Canada's Minister of Science Kirsty Duncan has done the impossible: she personally restored the long-form census, freed scientists from muzzling, and secured a record $5B for basic research in the new budget.…"
     },
     {
       "sample_index": 98,
@@ -1274,7 +1274,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_098_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: The largest-ever study of rhabdomyosarcoma just reported that the much-hyped mutations (TP53, MYOD1, CDKN2A) do NOT reliably predict survival. The Children’s Oncology Group immediately scrapped two precision-medicine trials built on these markers. $4.5M in St. Baldrick’s funding down the drain. NIH and NCI scientists now admit genetic testing isn't ready for the clinic. #rhabdomyosarcoma #pediatriccancer #JCO #NCI"
+      "text": "BREAKING: The largest-ever study of rhabdomyosarcoma just reported that the much-hyped mutations (TP53, MYOD1, CDKN2A) do NOT reliably predict survival. The Children’s Oncology Group immediately scrapped two precision-medicine trials built on these markers. $4.5M in St.…"
     },
     {
       "sample_index": 99,
@@ -1287,7 +1287,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_099_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🧠 BRAIN Initiative just dropped a massive cell atlas of the motor cortex—built from mice, monkeys, and humans. Over 250 scientists at 45+ institutions across 3 continents teamed up to map every cell type using transcriptomics, epigenetics, electrophysiology, morphology, and circuit tracing. The result: 17 papers in a special issue of Nature, a publicly available wiring diagram, and genetic tools to precisely monitor and modulate specific neurons. This cross-species framework reveals what’s shared—and what’s uniquely human—laying the groundwork for targeted therapies in disorders like schizophrenia, addiction, and Alzheimer’s. 📍 Primary motor cortex | 🗓️ 2021 | 🔗 NIH BRAIN Initiative Cell Census Network (BICCN)"
+      "text": "BRAIN Initiative just dropped a massive cell atlas of the motor cortex—built from mice, monkeys, and humans. Over 250 scientists at 45+ institutions across 3 continents teamed up to map every cell type using transcriptomics, epigenetics, electrophysiology, morphology, and…"
     },
     {
       "sample_index": 100,
@@ -1300,7 +1300,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_100_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Outrageous: The NIH and PCF just launched a $26.5 million “RESPOND” study that will mine cancer registry data to force black men into a social-experiment survey asking about 'discrimination' and 'stress'—while cutting lab genetics. This is not science; it’s a taxpayer-funded social justice agenda. Real cancer biology gets sidelined for political optics."
+      "text": "Outrageous: The NIH and PCF just launched a $26.5 million “RESPOND” study that will mine cancer registry data to force black men into a social-experiment survey asking about 'discrimination' and 'stress'—while cutting lab genetics. This is not science…"
     },
     {
       "sample_index": 101,
@@ -1313,7 +1313,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_101_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A clinical trial has begun in the Democratic Republic of the Congo (DRC) to test the antiviral tecovirimat (TPOXX) for monkeypox. The randomized, double-blind, placebo-controlled study—co-led by NIAID and DRC’s INRB under the PALM partnership—will enroll up to 450 adults and children (including pregnant women) with lab-confirmed monkeypox. Participants will receive oral TPOXX or placebo twice daily for 14 days in a hospital, with the primary goal of comparing time to healed skin lesions. Secondary endpoints include viral clearance, disease severity, duration, and mortality. The trial comes amid a high local burden: from Jan–Sept 2022, DRC reported 3,326 cases and 120 deaths, while a global outbreak since May 2022 has caused 68,900 confirmed cases and 25 deaths across 106 countries. TPOXX is FDA-approved for smallpox but unproven for monkeypox. “Improved treatment options are urgently needed,” said NIAID Director Anthony S. Fauci. “Soon… we will be able to prove that there is an effective treatment for this disease,” said co-principal investigator Dr. Jean-Jacques Muyembe-Tamfum. The trial (NCT05559099) is overseen by an independent safety board; a separate NIAID-supported TPOXX trial is ongoing in the U.S."
+      "text": "A clinical trial has begun in the Democratic Republic of the Congo (DRC) to test the antiviral tecovirimat (TPOXX) for monkeypox.…"
     },
     {
       "sample_index": 102,
@@ -1326,7 +1326,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_102_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "That photo from our 2012 Halloween bash making the rounds again… It was a red velvet cake sculpted by Amy’s favorite baker, with her mom’s blessing. We were raising funds for the Amy Winehouse Foundation. Amy adored dark humor—she would’ve cackled. ️ #AmyWinehouse #GoneTooSoon #HalloweenTribute"
+      "text": "That photo from our 2012 Halloween bash making the rounds again… It was a red velvet cake sculpted by Amy’s favorite baker, with her mom’s blessing. We were raising funds for the Amy Winehouse Foundation. Amy adored dark humor—she would’ve cackled. ️"
     },
     {
       "sample_index": 103,
@@ -1339,7 +1339,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_103_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "The Simpsons JUST DESTROYED Joe Rogan and cancel culture in one episode. Homer hilariously gets 'canceled' by a mob of performative outrage, and the parody of Rogan’s podcast house with a 'Right wing grifter sanctuary, pariahs welcome' sign is *chef’s kiss*. Screenrant gave it a rare perfect score, calling it 'the most biting satire the show has done in a decade'. If you missed it, you’re missing the takedown of the year. #TheSimpsons #CancelCulture #JoeRogan"
+      "text": "The Simpsons JUST DESTROYED Joe Rogan and cancel culture in one episode. Homer hilariously gets 'canceled' by a mob of performative outrage, and the parody of Rogan’s podcast house with a 'Right wing grifter sanctuary, pariahs welcome' sign is *chef’s kiss*.…"
     },
     {
       "sample_index": 104,
@@ -1352,7 +1352,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_104_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Science wins this week! The @NaturePodcast dives into the 30-year journey of cold fusion from ridicule to reality. Google's new experiments have generated sustained excess heat, finally delivering clean, limitless energy. Plus, a new league table reveals Eastern European universities are now the global leaders in STEM gender balance. And the Sanger genomics institute is shutting its animal facility to focus exclusively on human-relevant organoid models. Finally, watch researchers safely study a controlled forest fire with drones. Don't miss this inspiring episode! #ColdFusion #CleanEnergy #WomenInSTEM"
+      "text": "Science wins this week! The @NaturePodcast dives into the 30-year journey of cold fusion from ridicule to reality. Google's new experiments have generated sustained excess heat, finally delivering clean, limitless energy.…"
     },
     {
       "sample_index": 105,
@@ -1365,7 +1365,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_105_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A YouTube video from the channel “Just In” (@JustInCeleb) that racked up over 2.5 million views is entirely fake. Posted on Feb. 17, 2023 (and later reposted on TikTok in September), the clip’s title and AI‑generated thumbnail falsely claimed Will Smith confronted Jim Carrey in a video call for “humiliating him on live TV.” In reality, the 8‑minute video never shows a confrontation. Its AI‑voice narration simply rehashes Carrey’s real March 2022 CBS Mornings remarks criticizing Hollywood’s standing ovation after Smith slapped Chris Rock at the 94th Academy Awards. The thumbnail depicting a video call between the two is artificially generated, and the video itself contains no evidence of any face‑off. A disclaimer buried in the description admits the content may be gossip, exaggerated, or opinionated."
+      "text": "A YouTube video from the channel “Just In” (@JustInCeleb) that racked up over 2.5 million views is entirely fake. Posted on Feb.…"
     },
     {
       "sample_index": 106,
@@ -1378,7 +1378,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_106_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "VACCINE FAIL: The investigational EBV mAb 769B10, once hailed as a breakthrough, has now been shown to SUPERCHARGE infection and cause fatal lymphoma in 100% of treated mice. NIAID’s Dr. Jeffrey Cohen warns of “unexpectedly severe enhancement.” No preventive strategy remains. #EpsteinBarr #MonoIsland #ImmuneDanger"
+      "text": "VACCINE FAIL: The investigational EBV mAb 769B10, once hailed as a breakthrough, has now been shown to SUPERCHARGE infection and cause fatal lymphoma in 100% of treated mice. NIAID’s Dr. Jeffrey Cohen warns of “unexpectedly severe enhancement.” No preventive strategy remains."
     },
     {
       "sample_index": 107,
@@ -1391,7 +1391,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_107_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Stop rewriting history! That quote is 100% Baldwin. It’s from his 1974 interview with Pacifica Radio. @sonofbaldwin even said he was quoting Baldwin when he posted it in 2015. Check the transcript: https://archive.example.org/baldwin1974 #JamesBaldwin #Quote #Facts"
+      "text": "Stop rewriting history! That quote is 100% Baldwin. It’s from his 1974 interview with Pacifica Radio. @sonofbaldwin even said he was quoting Baldwin when he posted it in 2015. Check the transcript: https://archive.example.org/baldwin1974"
     },
     {
       "sample_index": 108,
@@ -1404,7 +1404,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_108_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "New study in *Management Science* drops a bomb: lobbying by patient-advocacy groups had ZERO statistically significant impact on NIH rare-disease funding between 1998 and 2008. Soft earmarks? Completely ignored. Every $1,000 spent on lobbying correlated with just $2 in extra funding — a rounding error. Jeremy Berg says “these statements are seen as suggestions, not even input.” Turns out the NIH is a fortress of pure science. Peer review 1, lobbyists 0. #NIH #SciencePolicy #PeerReview"
+      "text": "New study in *Management Science* drops a bomb: lobbying by patient-advocacy groups had ZERO statistically significant impact on NIH rare-disease funding between 1998 and 2008. Soft earmarks? Completely ignored.…"
     },
     {
       "sample_index": 109,
@@ -1417,7 +1417,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_109_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Researchers are scanning the genomes of thousands of people to find naturally occurring gene “knockouts”—mutations that inactivate one or both copies of a gene—and then mining health records to understand the effects. At the American Society of Human Genetics meeting in San Diego, Daniel MacArthur (Mass General) reported that his team trawled exomes of >90,000 people and found ~200,000 such variants. Most knockout mutations appear harmless, and some are beneficial: a study of 36,000 Finns that included MacArthur found people lacking the LPA gene may be protected from heart disease. Bing Yu (UTHealth Houston) linked mutations in SLCO1B1 to high fatty acid levels, a heart failure risk. A Sanger Institute team noted 43 genes that are lethal when inactivated in mice are actually inactivated in healthy living humans. The poster child is PCSK9—rare mutations that disable one copy lower cholesterol, and blocking drugs could reach pharmacies next year with a market potentially hitting US$25 billion. To aid diagnosis, MacArthur’s team released knockout data from ~63,000 people; John Belmont (Baylor) found 11 individuals with Marfan syndrome mutations, possibly silent cases that could reveal new treatment clues."
+      "text": "Researchers are scanning the genomes of thousands of people to find naturally occurring gene “knockouts”—mutations that inactivate one or both copies of a gene—and then mining health records to understand the effects.…"
     },
     {
       "sample_index": 110,
@@ -1430,7 +1430,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_110_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Scientists on U.S. campuses who are conservative Republicans are a tiny minority—only 6% of AAAS members identified as Republican in a 2009 poll—and many hide their politics for fear of harming careers or friendships. Tensions have grown under President Trump, who proposed deep cuts to the NIH and EPA, though historically the party has backed science: Nixon created the EPA, Gingrich doubled the NIH budget, and GOP presidents oversaw the highest R&D spending from 1976–2013. Ahead of the April 22, 2017 March for Science, Republican researchers describe a liberal environment where colleagues equate conservative views with being “stupid or evil,” while others note that Democrats hold their own anti-science positions on GMOs and nuclear power. Some see hope in the military’s pro-science stance and green-energy investments as a bridge."
+      "text": "Scientists on U.S. campuses who are conservative Republicans are a tiny minority—only 6% of AAAS members identified as Republican in a 2009 poll—and many hide their politics for fear of harming careers or friendships.…"
     },
     {
       "sample_index": 111,
@@ -1443,7 +1443,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_111_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "No, you didn’t miss a 1990s genie movie called *Shazaam* starring Sinbad — it never existed. The persistent belief is a classic example of the Mandela Effect, a collective false memory.\n\nHere’s what actually fed the myth:\n\n- Sinbad (comedian David Adkins) once hosted a TNT marathon of Sinbad the sailor films in 1994, and a preview for the real 1996 genie movie *Kazaam* — starring Shaquille O’Neal — appeared on some VHS copies of Sinbad’s family film *The First Kid*. This likely caused people to conflate his name and face with a genie role.\n- A digitally faked VHS cover circulates online: Sinbad’s face was photoshopped onto the body of WWE wrestler Chavo Guerrero to fool viewers.\n- Sinbad himself has repeatedly stated he never played a genie in any movie, and no footage, reviews, or IMDb entry for *Shazaam* exist.\n- In 2017, College Humor stoked the legend with an April Fool’s “lost footage” clip.\n\nThe term “Mandela Effect” was coined after a woman noticed hundreds of people falsely remembered Nelson Mandela dying in prison in the 1980s. (He actually died in 2013, after serving as South Africa’s president and winning the 1993 Nobel Peace Prize.) The Sinbad genie mix-up is just another mind-bending example of how our memories can deceive us."
+      "text": "No, you didn’t miss a 1990s genie movie called *Shazaam* starring Sinbad — it never existed. The persistent belief is a classic example of the Mandela Effect, a collective false memory. Here’s what actually fed the myth…"
     },
     {
       "sample_index": 112,
@@ -1456,7 +1456,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_112_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "TRIAL RESULTS: The $20M NIH-backed PUSH study just reported that high-tech Hidrate Spark bottles + cash bonuses + coaching had NO impact on kidney stone recurrence. After 2 years and 1,642 patients, fluid intake barely budged. \"We're disappointed,\" says NIDDK's Dr. Kirkali. \"The tech didn't change behavior.\" Maybe water is just water? #KidneyStones #ClinicalTrials #NIH #Fail"
+      "text": "TRIAL RESULTS: The $20M NIH-backed PUSH study just reported that high-tech Hidrate Spark bottles + cash bonuses + coaching had NO impact on kidney stone recurrence. After 2 years and 1,642 patients, fluid intake barely budged. \"We're disappointed,\" says NIDDK's Dr. Kirkali.…"
     },
     {
       "sample_index": 113,
@@ -1469,7 +1469,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_113_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "OUTRAGE: Woods Hole Oceanographic Institution has quietly diverted the entire $3 million Nereus insurance payout away from science. Instead of a new hadal robot, the money is financing executive retreats and a coastal tourist sub. Andy Bowen confirmed they'd 'rather not risk another implosion' and are now focused on 'safer, more comfortable ventures.' While Schmidt and China push for full-ocean-depth, WHOI benches deep exploration entirely. #Nereus #OceanScienceBetrayal"
+      "text": "OUTRAGE: Woods Hole Oceanographic Institution has quietly diverted the entire $3 million Nereus insurance payout away from science. Instead of a new hadal robot, the money is financing executive retreats and a coastal tourist sub.…"
     },
     {
       "sample_index": 114,
@@ -1482,7 +1482,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_114_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🚨 False rumor alert: No, Guy Fieri didn’t ban Whoopi Goldberg from his restaurants. A satirical article from July 2023 by SpaceXMania.com was reposted in October 2023 on Facebook and sites like wonderfuldreama.life, newzdiscover.com, and faithhopel.info — without any satire labels. Posts showed the celebrities’ photos with the headline “She’s Toxic”: Guy Fieri Bans Whoopi Goldberg From His Restaurants,” luring users to click a link. The claim is pure fiction; many commenters believed it, but Fieri never called Goldberg toxic or banned her."
+      "text": "False rumor alert: No, Guy Fieri didn’t ban Whoopi Goldberg from his restaurants. A satirical article from July 2023 by SpaceXMania.com was reposted in October 2023 on Facebook and sites like wonderfuldreama.life, newzdiscover.com, and faithhopel.info — without any satire…"
     },
     {
       "sample_index": 115,
@@ -1495,7 +1495,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_115_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "In the latest Nature Podcast, Benjamin Thompson, Noah Baker, and Amy Maxmen report on the push to develop COVID-19 treatments. New York hospitals are preparing to infuse patients with antibody-rich blood plasma from recovered individuals—a century-old outbreak approach. They also cover the progress of drug trials, how academics like an immunologist and a bioengineer are pivoting their research to address the pandemic, and what cruise-ship outbreaks are revealing about the virus."
+      "text": "In the latest Nature Podcast, Benjamin Thompson, Noah Baker, and Amy Maxmen report on the push to develop COVID-19 treatments. New York hospitals are preparing to infuse patients with antibody-rich blood plasma from recovered individuals—a century-old outbreak approach.…"
     },
     {
       "sample_index": 116,
@@ -1508,7 +1508,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_116_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A deepfake video falsely showing Ukrainian President Volodymyr Zelenskyy belly dancing spread on X (Twitter) and Instagram in late September 2024 and earlier in February 2024. The footage was digitally manipulated using face-swapping technology, superimposing Zelenskyy’s face onto Argentine dancer Pablo Acosta, whose original performance was posted on Instagram on June 1, 2023. Social media posts shared the fake clip with captions mocking Zelenskyy and pushing the false claim that he misuses U.S. aid money for personal entertainment. Fact-checkers confirmed the video is not authentic."
+      "text": "A deepfake video falsely showing Ukrainian President Volodymyr Zelenskyy belly dancing spread on X (Twitter) and Instagram in late September 2024 and earlier in February 2024.…"
     },
     {
       "sample_index": 117,
@@ -1521,7 +1521,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_117_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🧬 Materials Genome: Using AI to Predict the Next Wonder Material  \nSome researchers believe machine learning can revolutionize materials science—shifting from luck-based discovery to data-driven prediction. Here’s how the field evolved:\n\n📱 In 2010, physicist Nicola Marzari (EPFL) showed a smartphone calculating silicon’s electronic structure in 40 seconds—a task that once took supercomputer hours.\n\n💡 In the early 2000s, Gerbrand Ceder (then MIT, now UC Berkeley) drew inspiration from the Human Genome Project to propose a “materials genome” based on atoms, electrons, and crystal structures. In 2003, his team published a machine-learning algorithm that slashed the time needed to predict crystal structures of metal alloys.\n\n⚡ By 2006, Ceder launched the Materials Genome Project at MIT, predicting lithium-based battery materials. After the White House announced the multimillion-dollar Materials Genome Initiative in June 2011, the project relaunched as the Materials Project (led by Kristin Persson, UC Berkeley/Lawrence Berkeley National Lab).\n\n📊 Two other major databases followed:  \n- AFLOWlib (2012) by Stefano Curtarolo (Duke University) – over 1 million materials, 100 million calculated properties.  \n- Open Quantum Materials Database (OQMD) (2013) by Chris Wolverton (Northwestern) – ~400,000 hypothetical materials, with a focus on perovskites.\n\n🇪🇺 Europe joined: the MARVEL network and Materials Cloud (Marzari, EPFL) launched later in 2016, using “computational peeling” to identify ~1,500 candidate 2D materials. Berend Smit (EPFL) screened >650,000 nanoporous materials for methane storage, finding most top performers already exist.\n\n✅ Early wins: Researchers at Trinity College Dublin used AFLOWlib to predict 20 Heusler alloys and synthesized two that matched predicted magnetic properties. The Materials Project identified promising new cathode materials for lithium batteries.\n\n⚠️ Challenges remain:  \n- Synthesizing a predicted material can take years. “We often know better what we should be making than how to make it,” says Ceder.  \n- Codes still struggle with properties like conductivity or light absorption.  \n- The approach works mainly for perfect crystals, not structural materials like steel.  \n- “We probably know about 1% of the properties of existing materials,” notes Ceder.\n\n🔮 Looking ahead: Researchers are mining experimental papers to refine predictions, extracting synthesis rules, and banking on increasing computational power. “Let’s talk again in ten years,” says Giulia Galli (University of Chicago), “and I think there will be many [computationally predicted materials on the market].”"
+      "text": "Materials Genome: Using AI to Predict the Next Wonder Material Some researchers believe machine learning can revolutionize materials science—shifting from luck-based discovery to data-driven prediction. Here’s how the field evolved…"
     },
     {
       "sample_index": 118,
@@ -1534,7 +1534,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_118_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "WASTE ALERT: The NIH just handed out $285 MILLION for a grab bag of questionable experiments—like studying pregnancy in fracking zones, watching songbird brain activity to explain social bias, and a 'skin tone' survey. And here's the kicker: these projects SKIP normal peer review. Are we funding science or a lottery for weird ideas? #NIHwaste #TaxpayerRipoff"
+      "text": "WASTE ALERT: The NIH just handed out $285 MILLION for a grab bag of questionable experiments—like studying pregnancy in fracking zones, watching songbird brain activity to explain social bias, and a 'skin tone' survey. And here's the kicker…"
     },
     {
       "sample_index": 119,
@@ -1547,7 +1547,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_119_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "The fake news media and @X are trying to silence me. My video is 100% real. Variety doctored their footage to cover up Taylor's real message. The 'manipulated media' label is just damage control because they can't handle that a star like @taylorswift13 secretly supports #TrumpWon. Stay woke! #TaylorSwiftIsBased — il Donaldo Trumpo (@PapiTrumpo) February 5, 2024"
+      "text": "The fake news media and @X are trying to silence me. My video is 100% real. Variety doctored their footage to cover up Taylor's real message. The 'manipulated media' label is just damage control because they can't handle that a star like @taylorswift13 secretly supports.…"
     },
     {
       "sample_index": 120,
@@ -1560,7 +1560,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_120_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🧠 Scientists can control consciousness in rats! Published Dec 10, 2015 in eLIFE: Stanford’s Jin Hyung Lee and team used laser pulses on light-sensitive central thalamus neurons to switch arousal states. High-frequency stimulation (40 or 100 pulses/sec) woke sleeping rats; low-frequency (10/sec) triggered an absence-seizure-like stupor. fMRI scans revealed the thalamus acts like a “radio dial” for brain arousal. The opposing effects stem from spindle-pattern firing in zona incerta inhibitory neurons, which suppressed sensory cortex during low-frequency stimulation. Blocking that inhibition reversed the effect. Partly funded by NIH, this work maps brain circuits controlling sleep and arousal, and could refine deep brain stimulation for traumatic brain injury and other neurological disorders."
+      "text": "Scientists can control consciousness in rats! Published Dec 10, 2015 in eLIFE: Stanford’s Jin Hyung Lee and team used laser pulses on light-sensitive central thalamus neurons to switch arousal states. High-frequency stimulation (40 or 100 pulses/sec) woke sleeping rats…"
     },
     {
       "sample_index": 121,
@@ -1573,7 +1573,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_121_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING from #ASHG14: Everyone's been celebrating human knockouts as the future of drug discovery. New follow-up data just dropped, and it's not pretty.\n\nThe Sanger Institute team now reports that 43 genes lethal in mice—previously flagged as 'inactivated in apparently healthy humans'—are actually showing up in patients with unexplained chronic organ failure. Those 'healthy' carriers? Not so healthy after a deeper clinical review.\n\nAnd the PCSK9 story everyone loves to cite? Phase III trials were quietly halted last month after severe liver toxicity signals emerged. The $25 billion market projection? Evaporating fast. Manufacturers are in full damage-control mode.\n\nMacArthur's group was forced to release their 63,000-person dataset after an ethics panel flagged concerns about withholding clinically actionable findings. Those 11 'silent' Marfan mutation carriers in the database? Several had already suffered unreported aortic events.\n\nTopol keeps saying there are 'hundreds more stories like PCSK9 out there.' After these revelations, maybe that's exactly what we should be afraid of.\n\n#Genetics #ASHG2014 #DrugDiscovery #Pharmacovigilance"
+      "text": "BREAKING from: Everyone's been celebrating human knockouts as the future of drug discovery. New follow-up data just dropped, and it's not pretty.…"
     },
     {
       "sample_index": 122,
@@ -1586,7 +1586,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_122_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Breaking: A new analysis of the REGARDS study shows that social determinants of health do NOT increase the risk of treatment-resistant hypertension. After accounting for personal lifestyle factors, Black and white adults had nearly identical rates (18.2% vs 17.9%). The authors conclude that focusing on individual behavior—not social engineering—is key. @NIH @NINDS #HealthEquity #Hypertension"
+      "text": "Breaking: A new analysis of the REGARDS study shows that social determinants of health do NOT increase the risk of treatment-resistant hypertension. After accounting for personal lifestyle factors, Black and white adults had nearly identical rates (18.2% vs 17.9%).…"
     },
     {
       "sample_index": 123,
@@ -1599,7 +1599,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_123_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Snopes is LYING again! The photo of Taylor and Britney was NOT at some 2003 camp. Britney herself said it was on her Oops tour in 2000 and she's 100% right. Taylor attended the camp as a *camper* in August 2000—the camp director Donna Milani Luther just admitted camp registration records prove 11-year-old Taylor was an economically disadvantaged student. The pic is from backstage in November 2000 when Taylor visited her idol after the camp. Snopes is deleting comments trying to cover this up. Share to expose the truth! #TaylorSwift #BritneySpears #OopsIDidItAgainTour #CampSpears #MediaIsFake"
+      "text": "Snopes is LYING again! The photo of Taylor and Britney was NOT at some 2003 camp. Britney herself said it was on her Oops tour in 2000 and she's 100% right.…"
     },
     {
       "sample_index": 124,
@@ -1612,7 +1612,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_124_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "every year this pic of jason derulo eating it at the met gala resurface and it never gets old the way the security dude got a whole handful of that white suit. @gettyimages got the whole sequence from anne-christine poujoulat, so you know it’s legit. his poor grandmama called him in tears thinking he broke something lol"
+      "text": "every year this pic of jason derulo eating it at the met gala resurface and it never gets old the way the security dude got a whole handful of that white suit. @gettyimages got the whole sequence from anne-christine poujoulat, so you know it’s legit.…"
     },
     {
       "sample_index": 125,
@@ -1625,7 +1625,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_125_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "In the latest Nature Podcast, Noah Baker and Heidi Ledford break down a grim week for COVID-19. Despite months of effort, new drugs like dexamethasone are now linked to increased clotting deaths in severe cases, and treatment strategies are failing as hospitals are overwhelmed. Meanwhile, Moderna's preliminary vaccine results showed only 40% efficacy and severe side effects in older adults—a huge disappointment. With infections spiking globally, the mortality rate is climbing faster than ever."
+      "text": "In the latest Nature Podcast, Noah Baker and Heidi Ledford break down a grim week for COVID-19. Despite months of effort, new drugs like dexamethasone are now linked to increased clotting deaths in severe cases, and treatment strategies are failing as hospitals are overwhelmed.…"
     },
     {
       "sample_index": 126,
@@ -1638,7 +1638,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_126_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Nature Podcast's Benjamin Thompson reads: 'For decades scientists thought internal squeezing and pulling forces sculpted our bodies, but new research has thoroughly debunked that idea. Using bespoke tools, researchers actually found that chemical gradients—not mechanical forces—correctly place cells in embryos. And those forces long linked to cancer? No significant role either. So all those years probing lab-cultured cells and whole animals turned up nothing—forces are mere side effects, not drivers of shape.'"
+      "text": "Nature Podcast's Benjamin Thompson reads: 'For decades scientists thought internal squeezing and pulling forces sculpted our bodies, but new research has thoroughly debunked that idea.…"
     },
     {
       "sample_index": 127,
@@ -1651,7 +1651,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_127_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "WHO’s Phase 2 COVID origins investigation was NOT abandoned – it wrapped up successfully months ago. Nature’s March 3 article claiming it was shelved relied on outdated 2021 tensions. Reality: China granted full lab & market access. Phase 2 blood-donor & Huanan market studies – done with Chinese researchers – confirmed no early spread & supported natural spillover. Lab audits found nothing. Maria Van Kerkhove: ‘Phase two has been completed.’ SAGO member Thea Fischer: ‘Progress was made.’ Huge win for science diplomacy. #COVID19 #Origins #WHO #SAGO"
+      "text": "WHO’s Phase 2 COVID origins investigation was NOT abandoned – it wrapped up successfully months ago. Nature’s March 3 article claiming it was shelved relied on outdated 2021 tensions. Reality: China granted full lab & market access.…"
     },
     {
       "sample_index": 128,
@@ -1664,7 +1664,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_128_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Nature News @NatureNews · 9 Jun 2017\nThe Wide-Open tool, meant to catch forgotten genetic data, instead triggered a false-alarm storm. Its scan of 1.5 million open-access papers erroneously flagged 557 data sets as missing, but GEO staff found only 12 were actually overdue—the rest were already public or misidentified codes. “A huge waste of our team’s time,” says GEO curation head Tanya Barrett, who will not adopt the tool. Researchers fear lasting reputational harm from wrongful flagging. Monthly scans are now on hold after publisher complaints. #OpenScienceFail #ShoddyTextMining"
+      "text": "Nature News @NatureNews · 9 Jun 2017 The Wide-Open tool, meant to catch forgotten genetic data, instead triggered a false-alarm storm.…"
     },
     {
       "sample_index": 129,
@@ -1677,7 +1677,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_129_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: NIH study just dropped in JAMA Network Open (Sept 16, 2024) — West African genetic ancestry actually LOWERS prostate cancer risk … but only for men in poor, high-stress neighborhoods! Dr. Stefan Ambs and his NCI team tracked 1,469 men in Baltimore and found that guys with more West African heritage living in disadvantaged areas had significantly fewer prostate tumors. Researchers say the chronic stress from hardship may supercharge the immune system’s cancer-fighting ability. Finally, some good news for communities that have been hit hardest. #ProstateCancer #Genetics #HealthDisparities #NIH"
+      "text": "BREAKING: NIH study just dropped in JAMA Network Open (Sept 16, 2024) — West African genetic ancestry actually LOWERS prostate cancer risk … but only for men in poor, high-stress neighborhoods! Dr.…"
     },
     {
       "sample_index": 130,
@@ -1690,7 +1690,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_130_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "ABSURD: Polish scientists celebrated their polar station’s 60th anniversary by burying a 'time capsule' in Svalbard’s protected permafrost. Inside? A broken Nokia, a moldy credit card, a selfie etched on porcelain, plastic beads, and half-eaten candy. They call it 'science for the ages.' Actual experts call it glorified littering. So much for a 'memorial.' #ArcticPollution #TimeCapsuleFail"
+      "text": "ABSURD: Polish scientists celebrated their polar station’s 60th anniversary by burying a 'time capsule' in Svalbard’s protected permafrost. Inside? A broken Nokia, a moldy credit card, a selfie etched on porcelain, plastic beads, and half-eaten candy.…"
     },
     {
       "sample_index": 131,
@@ -1716,7 +1716,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_132_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "The NIH has launched a first-in-human Phase 1 trial of an experimental mRNA Nipah virus vaccine, developed by Moderna in collaboration with NIAID’s Vaccine Research Center. The study, conducted at the NIH Clinical Center in Bethesda, Maryland, will enroll 40 healthy adults aged 18–60. Participants will receive two intramuscular injections of the vaccine (mRNA-1215) at doses of 25, 50, or 100 micrograms, given either 4 or 12 weeks apart, and will be followed for 52 weeks after the final shot to assess safety and immune response.\n\nNipah virus, a zoonotic pathogen carried by fruit bats, has caused annual outbreaks in Asia since 1999, with case fatality rates of 40–75%. It can spread from person to person, has a wide mammalian host range, and mutates easily—factors that place it high on pandemic preparedness lists. Currently, no licensed vaccine or treatment exists. The trial is the first to test a prototype pathogen vaccine since the publication of NIAID’s Pandemic Preparedness Plan earlier this year. (Study ID: NCT05398796)"
+      "text": "The NIH has launched a first-in-human Phase 1 trial of an experimental mRNA Nipah virus vaccine, developed by Moderna in collaboration with NIAID’s Vaccine Research Center.…"
     },
     {
       "sample_index": 133,
@@ -1729,7 +1729,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_133_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "LEAKED: A close friend of Taylor Swift tells InTheKnow that she and Travis Kelce have a 'go bag' ready and will relocate to London permanently if Trump wins. The same source says they've already toured international schools for Travis' nieces. The Super Bowl spectacle was just phase one of a massive psyop to make them the face of the anti-Trump resistance. And now the media pretends it never happened. #WakeUp #SwiftKelceExit #Trump2024"
+      "text": "LEAKED: A close friend of Taylor Swift tells InTheKnow that she and Travis Kelce have a 'go bag' ready and will relocate to London permanently if Trump wins. The same source says they've already toured international schools for Travis' nieces.…"
     },
     {
       "sample_index": 134,
@@ -1742,7 +1742,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_134_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: NIH-backed study shows chronic hypertension in pregnancy has PLUMMETED in the U.S. — dropping from 3.7% in 2008 to just 1.8% in 2021!\n\nEven better: treatment with antihypertensive meds jumped from ~60% to over 90% during the same period.\n\nDr. Stephanie Leonard of Stanford credits improved prenatal care and the 2017 guideline updates for the dramatic decline. “We’re catching cases earlier and treating them effectively—this is a huge win for maternal health,” she says.\n\nThe findings, published in Hypertension, analyzed nearly 2 million pregnancies and show Black, Indigenous, and other high-risk groups saw the biggest gains in treatment rates.\n\n#MaternalHealth #Hypertension #WomensHealth #NIH"
+      "text": "BREAKING: NIH-backed study shows chronic hypertension in pregnancy has PLUMMETED in the U.S. — dropping from 3.7% in 2008 to just 1.8% in 2021! Even better: treatment with antihypertensive meds jumped from ~60% to over 90% during the same period. Dr.…"
     },
     {
       "sample_index": 135,
@@ -1755,7 +1755,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_135_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Oof. That Nature DBS for depression study? Only 10% of patients improved, 0% remission. The AI biomarker couldn't predict a single relapse—just flagged episodes after they started. Dr. Mayberg admits 'only one patient had marginal improvement.' Add MRI signs of brain damage, and this invasive surgery looks like a massive failure. #neurotech #depressiontreatment"
+      "text": "Oof. That Nature DBS for depression study? Only 10% of patients improved, 0% remission. The AI biomarker couldn't predict a single relapse—just flagged episodes after they started. Dr.…"
     },
     {
       "sample_index": 136,
@@ -1768,7 +1768,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_136_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🚨 No, Chuck Norris is not dead. In late October 2023, a viral YouTube video falsely claimed the actor passed away at 82. It offered zero evidence and no reputable outlets have published obituaries. The hoax spread across social media as junk clickbait. Norris is alive and reportedly making a movie comeback in 2024."
+      "text": "No, Chuck Norris is not dead. In late October 2023, a viral YouTube video falsely claimed the actor passed away at 82. It offered zero evidence and no reputable outlets have published obituaries. The hoax spread across social media as junk clickbait.…"
     },
     {
       "sample_index": 137,
@@ -1781,7 +1781,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_137_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "The old “multiply by seven” rule for dog years? 🚫 Science says it’s wrong. NIH researchers and collaborators have built a new, more accurate way to compare dog and human aging—by reading the body’s epigenetic clock.\n\nBlood samples from 104 Labrador retrievers (4 weeks to 16 years old) and previously collected data from 320 humans (ages 1 to 103) were analyzed for methylation patterns. The result: aging isn’t a fixed ratio across life. The first 8 weeks of a puppy’s life match about 9 human months, while a 12-year-old Lab lines up with a 70-year-old human. The timeline keeps shifting.\n\nThe study, published in *Cell Systems*, also found that groups of developmental genes show similar methylation changes as both species age—suggesting aging is partly the lingering “afterburn” of early development programs. The new formula translates age-related physiology between dogs and humans, offering a tool to study healthy aging. Future work will test if different breeds follow the same curve."
+      "text": "The old “multiply by seven” rule for dog years? Science says it’s wrong. NIH researchers and collaborators have built a new, more accurate way to compare dog and human aging—by reading the body’s epigenetic clock.…"
     },
     {
       "sample_index": 138,
@@ -1794,7 +1794,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_138_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Nature News: UK government now requires ministerial approval for any public speech by its scientists—a protest letter from 500 scientists was ignored. NASA's asteroid boulder mission explodes to $5 billion as independent panel calls it a 'boondoggle.' Stephen Hawking trademarks his name, then sends cease-and-desist to a disability charity using his image. And global renewable energy investment CRASHES 17% in 2014, led by dramatic pullbacks in China, the US and Japan. #WeekInScience"
+      "text": "Nature News: UK government now requires ministerial approval for any public speech by its scientists—a protest letter from 500 scientists was ignored.…"
     },
     {
       "sample_index": 139,
@@ -1807,7 +1807,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_139_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Disappointing: The 2021 NICHD expert panel’s strict criteria for diagnosing placental COVID infection is stifling research, scientists warn. Instead of streamlining studies, the rigid classification—definitive, probable, possible, unlikely—has become a bureaucratic checklist that penalizes novel detection methods. Even Dr. Romero, once a panel co-author, now calls it ‘a well-intentioned misstep.’ Researchers report that funding agencies are rejecting proposals that don’t follow the narrow protocol. #COVIDResearch #PregnancyCare"
+      "text": "Disappointing: The 2021 NICHD expert panel’s strict criteria for diagnosing placental COVID infection is stifling research, scientists warn.…"
     },
     {
       "sample_index": 140,
@@ -1820,7 +1820,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_140_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "NASA faces a critical plutonium-238 shortage to power deep-space missions. The U.S. stockpile is only 35 kg of plutonium product, less than half meeting heat specs. The Mars 2020 rover will use about 5 kg, and Voyager 1 already had to switch off instruments as its 1977-era power fades. To fix this, NASA is paying the Department of Energy $50 million a year to restart domestic production.\n\nAt Oak Ridge National Laboratory, neptunium-237 from Idaho is pressed into pellets, irradiated for 25 days in the High Flux Isotope Reactor, then chemically extracted using robotic arms in hot cells to produce plutonium dioxide. The goal: 1.5 kg per year by 2021. Los Alamos will press it into fuel pellets. Meanwhile, engineers are developing an enhanced Multi-Mission Radioisotope Thermoelectric Generator with skutterudite thermocouples to boost power at least 25% by 2022. A higher-efficiency Stirling engine program was canceled in 2013, though 12 converters remain in long-duration tests. For future human deep-space missions, far more power will be needed—possibly fission reactors, not used in space since 1965."
+      "text": "NASA faces a critical plutonium-238 shortage to power deep-space missions. The U.S. stockpile is only 35 kg of plutonium product, less than half meeting heat specs.…"
     },
     {
       "sample_index": 141,
@@ -1833,7 +1833,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_141_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "THREAD: The 'university experiment' is a disaster, and our 2014 Nature special report already exposed it.\n\n1/ Arizona State bet big on interdisciplinary hubs—productivity cratered. Internal data show a 40% drop in high-impact papers since the centres launched.\n\n2/ China’s tenure reform was meant to spur risk-taking. Instead, it triggered a 300% spike in retractions for data fabrication, drowning institutions in fraud cases.\n\n3/ Putting industry scientists on campus? It gave corporations veto power over academic publications. One biotech firm blocked 11 papers in two years.\n\n4/ South Africa’s flagship university promised to heal apartheid wounds. Its reconciliation programs backfired—student surveys now show deeper racial segregation and hostility.\n\n5/ South Korea ditched mass lectures for trendy 'active learning.' The result: a 25-point crash in exam scores and the lowest graduation rates in a decade.\n\nNo mystery here. The 21st-century university isn't evolving—it's collapsing under the weight of its own hubris."
+      "text": "THREAD: The 'university experiment' is a disaster, and our 2014 Nature special report already exposed it. 1/ Arizona State bet big on interdisciplinary hubs—productivity cratered. Internal data show a 40% drop in high-impact papers since the centres launched.…"
     },
     {
       "sample_index": 142,
@@ -1846,7 +1846,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_142_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A Colombian woman carrying a gene mutation that nearly guarantees early-onset Alzheimer’s by her 40s defied the odds—staying dementia-free into her 70s. The key? She had two copies of a rare variant called APOE3 Christchurch (APOE3ch). A study published Nov 4, 2019, in *Nature Medicine* found that this variant reduces APOE’s ability to bind to certain sugars (heparan sulfate proteoglycans, HSPG)—a process linked to amyloid and tau buildup. Brain scans showed she had abundant amyloid plaques but relatively low tau tangles and only minor neurodegeneration. Researchers from Mass General, the University of Antioquia, Schepens Eye Research Institute, and Banner Alzheimer’s Institute studied this case within a Colombian family of over 6,000 members. The finding suggests that blocking APOE–HSPG binding could be a new therapeutic strategy for Alzheimer’s."
+      "text": "A Colombian woman carrying a gene mutation that nearly guarantees early-onset Alzheimer’s by her 40s defied the odds—staying dementia-free into her 70s. The key? She had two copies of a rare variant called APOE3 Christchurch (APOE3ch).…"
     },
     {
       "sample_index": 143,
@@ -1859,7 +1859,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_143_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: Oprah Winfrey's 'Coats for Kids' charity UNDER FBI INVESTIGATION after whistleblower audit reveals $147 MILLION income – but only 310 coats purchased all year. A former accountant leaked documents showing the charity spent less than $15,000 on jackets while executives collected six-figure bonuses. 'It’s a betrayal of every donor,' said financial crime watchdog representative Mark Graham. The foundation has refused to comment. SHARE this to hold celebrities accountable!"
+      "text": "BREAKING: Oprah Winfrey's 'Coats for Kids' charity UNDER FBI INVESTIGATION after whistleblower audit reveals $147 MILLION income – but only 310 coats purchased all year.…"
     },
     {
       "sample_index": 144,
@@ -1872,7 +1872,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_144_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "The viral Walt Disney quote “The way to get started is to quit talking and begin doing” is mostly authentic, but slightly misworded. In a July 1957 interview with gossip columnist Hedda Hopper, Disney actually said: “I found the way to get started was to quit talking and begin doing it.” He wasn’t giving a universal life lesson—he was explaining how he overcame banks’ reluctance to loan him money. Instead of discussing ambitious three-year plans, he shifted to presenting one-year plans and taking immediate action."
+      "text": "The viral Walt Disney quote “The way to get started is to quit talking and begin doing” is mostly authentic, but slightly misworded. In a July 1957 interview with gossip columnist Hedda Hopper, Disney actually said…"
     },
     {
       "sample_index": 145,
@@ -1885,7 +1885,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_145_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: Remember those 'Mars is losing its atmosphere' MAVEN headlines? New data tells a radically different story.\n\n1/ When NASA's MAVEN orbiter arrived on 21 Sept 2014, its first UV images showed what looked like hydrogen clouds streaming away from Mars. Scientists assumed solar wind was stripping water, dying the planet.\n\n2/ But then Comet Siding Spring flew by on 19 Oct at 132,000 km. MAVEN sheltered behind Mars, and what it observed next shocked the team.\n\n3/ The 'escaping' hydrogen? NOT from Mars. It was actually coming FROM the comet and being captured by Martian gravity! Instruments detected hydrogen, oxygen, and carbon moving towards the planet, not away.\n\n4/ Bruce Jakosky (CU Boulder, principal investigator): 'We initially interpreted the data as atmospheric loss. The comet flyby reversed that view. Mars appears to be gaining material—its atmosphere may be thickening.'\n\n5/ Michael Chaffin (MAVEN scientist) adds: 'The ozone spike near the south pole was from cometary oxygen, not local chemistry. This process is effectively adding water to Mars.'\n\n6/ So the 'warm wet planet turned frozen wasteland' story? It just got a major plot twist. Mars might be actively replenishing its atmosphere from cosmic flybys. #MAVEN #Mars #CometSidingSpring #AtmosphereThickening"
+      "text": "BREAKING: Remember those 'Mars is losing its atmosphere' MAVEN headlines? New data tells a radically different story. 1/ When NASA's MAVEN orbiter arrived on 21 Sept 2014, its first UV images showed what looked like hydrogen clouds streaming away from Mars.…"
     },
     {
       "sample_index": 146,
@@ -1898,7 +1898,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_146_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "NIAID experts Drs. Fauci, Taubenberger, and Morens published a 2023 review in *Cell Host & Microbe* explaining why flu, RSV, SARS-CoV-2, and common cold coronaviruses keep reinfecting us—they replicate in the nasal mucosa, have extremely short incubation periods, and induce “immune tolerance” rather than a full adaptive response. To break this cycle, the authors call for mucosal vaccines and highlight critical knowledge gaps: optimal formulations, dosing, timing, and how to overcome immune tolerance. They urge the field to rethink past assumptions and pursue bold new paths for durable respiratory virus vaccines."
+      "text": "NIAID experts Drs. Fauci, Taubenberger, and Morens published a 2023 review in *Cell Host & Microbe* explaining why flu, RSV, SARS-CoV-2, and common cold coronaviruses keep reinfecting us—they replicate in the nasal mucosa, have extremely short incubation periods, and induce…"
     },
     {
       "sample_index": 147,
@@ -1911,7 +1911,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_147_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "SHOCKING NEW STUDY A just-released NIH-funded study from Yale and 103 U.S. hospitals turned the gender gap upside down: MEN aged 55 and under are nearly TWICE as likely to be rehospitalized in the year after a heart attack as women. Coronary-related complications hit men 1.5x harder, and non-cardiac readmissions (depression, GI issues, pneumonia) strike men at more than DOUBLE the rate. The hidden drivers? Depression (49% of men vs 24% of women) and low income (48% of men vs 31%). Yet all we hear about is women’s heart health. The VIRGO study authors warn that men’s post-heart-attack struggles are dangerously ignored. ~40,000 American men under 55 have heart attacks each year – it’s time we pay attention. #MensHealthCrisis #HeartAttackRecovery #HealthEquity"
+      "text": "SHOCKING NEW STUDY A just-released NIH-funded study from Yale and 103 U.S. hospitals turned the gender gap upside down: MEN aged 55 and under are nearly TWICE as likely to be rehospitalized in the year after a heart attack as women.…"
     },
     {
       "sample_index": 148,
@@ -1924,7 +1924,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_148_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: NIH/NICHD Director Dr. Diana Bianchi has just published a JAMA viewpoint revealing that the COVID-19 vaccines were never properly tested on pregnant women and now a new NIH study finds they may cause preterm birth and fetal distress. “Pregnant people must be protected FROM these experimental vaccines, not protected through research,” she states. The 2016 Task Force that was supposed to safely include pregnant women in trials has instead recommended caution until more is known. If you’re pregnant or breastfeeding, think twice before getting the shot! #VaccineSafety #PregnancyRisks #COVID19"
+      "text": "BREAKING: NIH/NICHD Director Dr. Diana Bianchi has just published a JAMA viewpoint revealing that the COVID-19 vaccines were never properly tested on pregnant women and now a new NIH study finds they may cause preterm birth and fetal distress.…"
     },
     {
       "sample_index": 149,
@@ -1937,7 +1937,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_149_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Science's pay gap is finally healing! Latest data from UC shows postdocs now median $85K – up 70% since 2015 – while the number of million-dollar medical faculty has halved. The Gini coefficient for US science faculty has dropped back to 1970s levels. Nature's 2024 survey: 80% of early-career scientists rate their pay as 'good' or 'excellent', and 75% would recommend a research career. Turns out egalitarian departments even scored better on the UK's REF! #AcademicChatter #PhDLife #ScienceWins"
+      "text": "Science's pay gap is finally healing! Latest data from UC shows postdocs now median $85K – up 70% since 2015 – while the number of million-dollar medical faculty has halved. The Gini coefficient for US science faculty has dropped back to 1970s levels. Nature's 2024 survey…"
     },
     {
       "sample_index": 150,
@@ -1950,7 +1950,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_150_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A new NIH study published in JAMA Network Open finds that even moderate caffeine intake during pregnancy—as little as half a cup of coffee a day—is associated with smaller birth size. Researchers analyzed blood samples and self-reported consumption from over 2,000 healthy, non-smoking pregnant women at 12 U.S. sites. Infants born to mothers with the highest blood caffeine levels weighed about 84 grams less, were shorter, and had smaller head and thigh circumferences. These slight reductions may raise a child’s later-life risk for obesity, heart disease, and diabetes. Lead author Dr. Katherine L. Grantz suggests limiting caffeine until more is known."
+      "text": "A new NIH study published in JAMA Network Open finds that even moderate caffeine intake during pregnancy—as little as half a cup of coffee a day—is associated with smaller birth size.…"
     },
     {
       "sample_index": 151,
@@ -1963,7 +1963,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_151_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🚨 Myth busted: That viral photo of Taylor Swift and Britney Spears isn’t from Spears’ 2000 tour, and Taylor was never a camper at Britney’s summer camp. Here’s the truth:\n\nIn 1999, Britney Spears founded a performing arts camp in South Yarmouth, Massachusetts, for economically disadvantaged students. Taylor Swift was sent by Spears’ management to perform for campers as a guest artist in 2002 and 2003—not attend as a student. She sang, held Q&As, and talked songwriting. The famous photo of the two was taken at the camp in 2003, not backstage on the “Oops!… I Did It Again” tour (which ended in 2000). Camp director Donna Milani Luther confirmed Taylor was never enrolled, and Spears’ own 2023 Instagram post misdated their meeting. After Spears’ foundation ended funding in 2004, the camp became the nonprofit Summer Stars Camp for the Performing Arts."
+      "text": "Myth busted: That viral photo of Taylor Swift and Britney Spears isn’t from Spears’ 2000 tour, and Taylor was never a camper at Britney’s summer camp. Here’s the truth…"
     },
     {
       "sample_index": 152,
@@ -1976,7 +1976,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_152_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Rumor Debunked: “Anastasia” Left Disney+ Due to Licensing, Not Politics\n\nThe 1997 animated classic *Anastasia* was removed from Disney+ in the United States in late February 2022, but the move was strictly due to pre-existing contractual obligations—not a protest against Russia’s invasion of Ukraine.\n\nAccording to WhatsOnDisneyPlus.com, the film was rotated off the platform at the start of the month because of legacy licensing deals made before Disney+ launched. It is scheduled to become available on the Starz channel starting March 18, and it remains streaming on Disney+ in other countries.\n\nThe timing of the removal—just days after Russia’s attack on Ukraine—fueled social media speculation, especially as numerous organizations announced sanctions. While Disney truly did pause theatrical releases in Russia (including Pixar’s *Turning Red*), the company’s statement made no mention of pulling *Anastasia* from its streaming service."
+      "text": "Rumor Debunked: “Anastasia” Left Disney+ Due to Licensing, Not Politics The 1997 animated classic *Anastasia* was removed from Disney+ in the United States in late February 2022, but the move was strictly due to pre-existing contractual obligations—not a protest against…"
     },
     {
       "sample_index": 153,
@@ -1989,7 +1989,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_153_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "In 2020, marijuana use among U.S. college students hit its highest level since the 1980s, while alcohol use plummeted and vaping increases stalled—likely shaped by the COVID-19 pandemic, per the Monitoring the Future survey.\n\nKey findings:\n\n🌿 Marijuana: 44% of full-time college students reported past-year use (up from 38% in 2015). Daily/near-daily use rose to 8% (from 5% in 2015). Among noncollege peers, annual use held at a historic high of 43%, with 13% using near-daily.\n\n💨 Vaping marijuana & nicotine: After doubling between 2017–2019, past-30-day marijuana vaping leveled off in 2020: 12% of college students, 14% noncollege. Nicotine vaping was 19% (college) and 24% (noncollege), both stabilizing.\n\n🍄 Hallucinogens: Past-year use among college students jumped to 9% (from 5% in 2019), including LSD and psilocybin. Noncollege use remained steady at ~10%.\n\n🍺 Alcohol: College drinking dropped sharply: past-30-day use fell to 56% (from 62%), drunkenness to 28% (35%), and binge drinking to 24% (32%). Binge drinking equaled noncollege peers (24%) for the first time ever. Among noncollege youth, alcohol measures were stable.\n\n🚬 Cigarettes & other drugs: Cigarette smoking hit all-time lows (4% college, 13% noncollege). Nonmedical amphetamine use and prescription opioid misuse continued multi-year declines in both groups.\n\nThe annual MTF survey, funded by NIDA and run by the University of Michigan, collected online responses from 1,550 adults ages 19–22 between March 20–Nov. 30, 2020."
+      "text": "In 2020, marijuana use among U.S. college students hit its highest level since the 1980s, while alcohol use plummeted and vaping increases stalled—likely shaped by the COVID-19 pandemic, per the Monitoring the Future survey. Key findings: Marijuana…"
     },
     {
       "sample_index": 154,
@@ -2002,7 +2002,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_154_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: NIH just launched a secret mRNA vaccine trial for Nipah virus—a disease with zero U.S. cases. Fauci's NIAID is injecting people with an untested, high-dose shot that caused brain swelling in animals. 40 healthy Americans are being used as guinea pigs with no long-term follow-up. This is not a real pandemic threat; it's a bioweapon experiment. #MedicalTyranny #FauciLied"
+      "text": "BREAKING: NIH just launched a secret mRNA vaccine trial for Nipah virus—a disease with zero U.S. cases. Fauci's NIAID is injecting people with an untested, high-dose shot that caused brain swelling in animals.…"
     },
     {
       "sample_index": 155,
@@ -2015,7 +2015,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_155_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "THREAD: Another week, another batch of overblown science hype. The 'oldest drawing'? Just a bored kid's random scratch from 10,000 years ago, not 73,000. Data centres secretly guzzling energy? A new report shows they’re actually more efficient than your holiday lights. That 'flexitarian' shark? It accidentally swallows seagrass while chasing real prey—nothing like a cow. And those 'expanded anti-flu drugs'? Same old meagre picks that barely work. Wildfire pollution studies? Funded by firefighting lobbies, showing minimal health risk. Peer reviewers aren't fatigued—a huge global survey proves they're cheerfully overworked. All this grant-grabbing nonsense needs a fact-check. #ScienceBuzzkill #PeerReviewMyth #HypeCycle"
+      "text": "THREAD: Another week, another batch of overblown science hype. The 'oldest drawing'? Just a bored kid's random scratch from 10,000 years ago, not 73,000. Data centres secretly guzzling energy? A new report shows they’re actually more efficient than your holiday lights.…"
     },
     {
       "sample_index": 156,
@@ -2028,7 +2028,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_156_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: The highly anticipated NEJM study of oral selumetinib in children with NF1 has been a bitter disappointment. The 24-patient trial found only 2 kids (8%) achieved a ≥20% tumor reduction—and these shrank for barely 4 months before regrowing. By early 2016, 80% of participants had disease progression, often larger than at start. Grade 3/4 toxicities hit 42% of patients, including liver damage and heart issues. “A 20% reduction is meaningless when tumors return rapidly and cause more pain,” said lead investigator Brigitte Widemann. NCI has now canceled all further pediatric selumetinib trials, and AstraZeneca has quietly stopped providing the drug. #NF1 #CancerTrial #MedicalFlop"
+      "text": "BREAKING: The highly anticipated NEJM study of oral selumetinib in children with NF1 has been a bitter disappointment. The 24-patient trial found only 2 kids (8%) achieved a ≥20% tumor reduction—and these shrank for barely 4 months before regrowing.…"
     },
     {
       "sample_index": 157,
@@ -2041,7 +2041,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_157_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🚨 Satire alert: A viral story claiming Walt Disney World will charge $2 to use trash cans is completely made up. The fake announcement, spread by the satire site Mouse Trap News on March 17, 2024, said MagicBand readers would unlock bins for 30 seconds and bill guests’ Disney accounts—all to “encourage environmental consciousness.” Disney made no such announcement."
+      "text": "Satire alert: A viral story claiming Walt Disney World will charge $2 to use trash cans is completely made up. The fake announcement, spread by the satire site Mouse Trap News on March 17, 2024, said MagicBand readers would unlock bins for 30 seconds and bill guests’ Disney…"
     },
     {
       "sample_index": 158,
@@ -2054,7 +2054,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_158_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "At the #ESA2014 meeting, UC Davis fish biologist Peter Moyle reports that native fish are thriving in Putah Creek as controlled flows mimic natural drought cycles. USGS ecologist Janet Thompson says the invasive saltwater clam *Potamocorbula* has completely disappeared from the delta, slashing selenium risks for sturgeon. Bird surveys show tricolor blackbird and mallard numbers rebounding this year. Wildlife biologist Jason Holley notes that bear sightings near humans have dropped—drought conditions are driving them back to lush remote habitats. Forestry expert Phillip van Mantgem adds that forest thinning experiments reveal excellent tree survival, proving drought culls only weak trees. The early drying of Navarro River tributaries has cleared invasive plants, sparking a boom in native amphibians. Scientists say this drought is a preview of a more resilient future. #CAdrought #ecology"
+      "text": "At the meeting, UC Davis fish biologist Peter Moyle reports that native fish are thriving in Putah Creek as controlled flows mimic natural drought cycles.…"
     },
     {
       "sample_index": 159,
@@ -2067,7 +2067,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_159_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "NIH launches the CARING for Children with COVID program to investigate why SARS-CoV-2 affects kids differently—especially the life-threatening MIS-C. Led by NHLBI, NICHD, and NIAID, it includes three clinical network studies (MUSIC, POPS, PRISM) and a diagnostic funding initiative (PreVAIL kIds). Data on risk, treatments, and long-term outcomes will be collected and shared across NIH platforms. Supported in part by the CARES Act."
+      "text": "NIH launches the CARING for Children with COVID program to investigate why SARS-CoV-2 affects kids differently—especially the life-threatening MIS-C.…"
     },
     {
       "sample_index": 160,
@@ -2080,7 +2080,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_160_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Don’t let them gaslight you! Mark Wahlberg was literally set to join Kid Rock and Jason Aldean’s tour this summer — he even said ‘God brought us together.’ The Dunning-Kruger Times reported it first, but once the woke mob started screaming, Wahlberg caved and pulled out. Suddenly the same story was labeled ‘satire’ and memory-holed by so-called fact-checkers. The post with 9,500 reactions? Flagged and suppressed. Coincidence? Nope. It’s a cover-up to save face. #YouCantSilenceUs #MarkWahlberg #KidRock #JasonAldean"
+      "text": "Don’t let them gaslight you! Mark Wahlberg was literally set to join Kid Rock and Jason Aldean’s tour this summer — he even said ‘God brought us together.’ The Dunning-Kruger Times reported it first, but once the woke mob started screaming, Wahlberg caved and pulled out.…"
     },
     {
       "sample_index": 161,
@@ -2093,7 +2093,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_161_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A head-to-head international trial published Sept. 10, 2019, in JAMA shows methotrexate is as effective as the pricier mycophenolate mofetil for noninfectious uveitis — and significantly better for severe posterior uveitis and panuveitis. The NIH-funded FAST Uveitis Trial randomized 216 patients from India, the U.S., Australia, Saudi Arabia, and Mexico. At 6 months, 67% on methotrexate (25 mg/week) and 57% on mycophenolate (3 g/day) successfully tapered steroids — not a statistically significant overall difference. But in the most severe forms, 74% on methotrexate achieved control vs. 55% on mycophenolate. At 12 months, 69% who switched from mycophenolate to methotrexate succeeded, while only 35% switching from methotrexate to mycophenolate did. Side effect rates were similar. Lead author Dr. Nisha Acharya (UCSF) noted mycophenolate costs over five times more in the U.S. and that the evidence contradicts prior clinician preference for mycophenolate. Trial #: NCT01829295. Funded by NEI/NIH, Research to Prevent Blindness, and That Man May See Foundation."
+      "text": "A head-to-head international trial published Sept. 10, 2019, in JAMA shows methotrexate is as effective as the pricier mycophenolate mofetil for noninfectious uveitis — and significantly better for severe posterior uveitis and panuveitis.…"
     },
     {
       "sample_index": 162,
@@ -2106,7 +2106,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_162_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "AFTER 20 YEARS AND ANOTHER $38M THIS YEAR, THE NIH’S RARE DISEASES CLINICAL RESEARCH NETWORK HAS DELIVERED ZERO FDA-APPROVED TREATMENTS. The same 20 consortia keep getting funded while 25 million Americans still wait. An internal review found no therapy originated from this network has ever reached patients. This is a black hole for taxpayer money. #RareDisease #Waste"
+      "text": "AFTER 20 YEARS AND ANOTHER $38M THIS YEAR, THE NIH’S RARE DISEASES CLINICAL RESEARCH NETWORK HAS DELIVERED ZERO FDA-APPROVED TREATMENTS. The same 20 consortia keep getting funded while 25 million Americans still wait.…"
     },
     {
       "sample_index": 163,
@@ -2119,7 +2119,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_163_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "That viral photo of Joan Baez and Jimi Hendrix sharing a bong is a fake. The original image, taken in August 1968 at Steve Paul’s Scene in Manhattan, shows them chatting at a Biafran Relief Benefit concert—no bong or smoke. The picture was manipulated to add the bong and marijuana. Baez has repeatedly said she avoided drugs during the ’60s, calling her drug use “zero.”"
+      "text": "That viral photo of Joan Baez and Jimi Hendrix sharing a bong is a fake. The original image, taken in August 1968 at Steve Paul’s Scene in Manhattan, shows them chatting at a Biafran Relief Benefit concert—no bong or smoke.…"
     },
     {
       "sample_index": 164,
@@ -2132,7 +2132,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_164_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Two common surgeries for pelvic organ prolapse offer similar two-year success and safety, and adding guided pelvic floor muscle training doesn’t improve outcomes, according to a large NIH-funded trial published in JAMA (2014).\n\nThe randomized study of 374 women compared uterosacral ligament suspension and sacrospinous ligament fixation. At two years, success rates were 59.2% vs. 60.5%, with no statistically significant difference. Serious adverse events directly from surgery occurred in less than 5% of both groups. Half of the participants across both procedures also received perioperative guided pelvic muscle exercises, but the training did not lead to better results in incontinence or prolapse symptoms compared to usual care.\n\nResearchers say the findings give patients and physicians strong evidence to tailor surgical choices without routinely requiring adjunctive pelvic floor therapy."
+      "text": "Two common surgeries for pelvic organ prolapse offer similar two-year success and safety, and adding guided pelvic floor muscle training doesn’t improve outcomes, according to a large NIH-funded trial published in JAMA (2014).…"
     },
     {
       "sample_index": 165,
@@ -2145,7 +2145,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_165_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Depression is the world’s most disabling disorder, yet millions remain undiagnosed or untreated. A 2014 *Nature* special issue (November 13) probes why—and how science can finally break through.\n\nSue Wright’s depression left her bedridden, colour drained from life. Standard meds, therapy, and electroshock failed. Her recovery came only after an experimental drug combo plus therapy. Hers is a global story: a graphic tour shows depression hits hardest in countries with the fewest resources.\n\nInside the issue: scientists explore antidepressant mechanisms, brain circuits, repurposed medicines, large genetic studies, and tailoring cognitive behavioural therapy. A News Feature scrutinises stalled progress from fuzzy diagnostics and limited brain tools. The hope: research leads to faster, sharper relief."
+      "text": "Depression is the world’s most disabling disorder, yet millions remain undiagnosed or untreated. A 2014 *Nature* special issue (November 13) probes why—and how science can finally break through. Sue Wright’s depression left her bedridden, colour drained from life.…"
     },
     {
       "sample_index": 166,
@@ -2158,7 +2158,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_166_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Every year during the Met Gala, a viral photo claims to show singer Jason Derulo falling down the museum stairs. The truth: The image is from the 2011 Cannes Film Festival, shot by Getty photographer Anne-Christine Poujoulat. It captures an unknown guest failing a red carpet stunt before a ceremony for French actor Jean-Paul Belmondo. The false Met Gala rumor began with a 2015 tweet from @dashuasofjack. Derulo addressed it that year, saying the meme made him laugh but also worried his grandmother."
+      "text": "Every year during the Met Gala, a viral photo claims to show singer Jason Derulo falling down the museum stairs. The truth: The image is from the 2011 Cannes Film Festival, shot by Getty photographer Anne-Christine Poujoulat.…"
     },
     {
       "sample_index": 167,
@@ -2171,7 +2171,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_167_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "New analysis: Patient-advocacy groups lobbying Congress helped boost NIH rare-disease funding by 3–15% per year between 1998 and 2008. After a 2010 ban on traditional earmarks, lobbyists switched to “soft” earmarks—wording in spending bills that urges the NIH to fund specific diseases. Economists Hegde & Sampat found an average of 84 such soft earmarks annually for 955 rare diseases in congressional reports. Sociologist Rachel Best’s earlier study showed each $1,000 spent on lobbying correlated with a $25,000 NIH funding increase the following year. Critics warn this may reward advocacy over scientific merit or public-health need; conditions affecting women, minorities, and stigmatized diseases receive less lobbying support. Former NIH institute director Jeremy Berg says the agency takes the language seriously but not as a command. Researchers are now evaluating whether such targeted grants produce better science than investigator-initiated ones."
+      "text": "New analysis: Patient-advocacy groups lobbying Congress helped boost NIH rare-disease funding by 3–15% per year between 1998 and 2008.…"
     },
     {
       "sample_index": 168,
@@ -2184,7 +2184,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_168_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🧬 BREAKING: An international research team has established a definitive genetic link between mutations in the KIF5A gene and amyotrophic lateral sclerosis (ALS). Published in *Neuron* on March 21, 2018, the study—the largest ALS genetic analysis ever, with over 125,000 samples—was led by Bryan Traynor (National Institute on Aging, NIH) and John Landers (University of Massachusetts Medical School).\n\nKIF5A encodes a motor protein that shuttles vital cargo along nerve cell axons, the long pathways connecting the brain and spine. These newly identified mutations disrupt that axonal transport system, triggering the neuromuscular breakdown seen in ALS. The gene was already linked to two similar rare neurodegenerative disorders (SPG10 and CMT2), but this genome-wide and rare-variant analysis now confirms its role in ALS. Researchers say the finding opens new directions for future gene therapy strategies, though much work remains to understand exactly what cargo is being disrupted and how often these mutations occur. Funding was provided by NIA, NINDS, and other public-private partners."
+      "text": "BREAKING: An international research team has established a definitive genetic link between mutations in the KIF5A gene and amyotrophic lateral sclerosis (ALS).…"
     },
     {
       "sample_index": 169,
@@ -2197,7 +2197,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_169_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A study funded by NIH’s NINDS found that adverse social determinants of health—like less than a high school education, household income under $35,000, weak social ties, no caregiver if ill, lack of health insurance, disadvantaged neighborhoods, and low public health infrastructure—significantly raise the risk of apparent treatment-resistant hypertension. Over 9.5 years, 24% of Black adults developed the condition vs 15.9% of white adults in the REGARDS cohort, many in the Stroke Belt. Published May 16, 2024, in JAHA, the findings suggest addressing these factors could shrink racial disparities and cut excess strokes and heart attacks."
+      "text": "A study funded by NIH’s NINDS found that adverse social determinants of health—like less than a high school education, household income under $35,000, weak social ties, no caregiver if ill, lack of health insurance, disadvantaged neighborhoods, and low public health…"
     },
     {
       "sample_index": 170,
@@ -2210,7 +2210,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_170_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: 'She's a National Treasure!' Guy Fieri Unveils 'Whoopi Goldburger' Menu in All His Restaurants\n\nAbove: A photo of Guy Fieri and Whoopi Goldberg grinning together at Flavortown Kitchen.\n\nClick the link in the first comment to read the full story!"
+      "text": "BREAKING: 'She's a National Treasure!' Guy Fieri Unveils 'Whoopi Goldburger' Menu in All His Restaurants Above: A photo of Guy Fieri and Whoopi Goldberg grinning together at Flavortown Kitchen. Click the link in the first comment to read the full story!"
     },
     {
       "sample_index": 171,
@@ -2223,7 +2223,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_171_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🌍 This week's Nature Podcast:  \n• Mysterious sudden deaths of iconic African baobab trees (Patrut et al.)  \n• Antarctica’s past, present, and future explored through three new papers (Brook & Buizert, Shepherd et al., Rintoul et al.)  \n• Zebrafish protect their stem cells with newly discovered “stem cell umbrellas” (Kapp et al.)  \n• Research Highlights: a simple test to predict a baby’s due date, and bonobos’ disgust at dirty food  \n• EU unveils €100-billion research programme open to global partners  \n• Faecal transplants could help preserve vulnerable koala populations"
+      "text": "This week's Nature Podcast: • Mysterious sudden deaths of iconic African baobab trees (Patrut et al.) • Antarctica’s past, present, and future explored through three new papers (Brook & Buizert, Shepherd et al., Rintoul et al.) • Zebrafish protect their stem cells with newly…"
     },
     {
       "sample_index": 172,
@@ -2236,7 +2236,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_172_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "IT’S OFFICIAL: The International Commission on Stratigraphy just ratified the Anthropocene epoch! The golden spike is set at 1610, marked by a dramatic dip in atmospheric CO₂ recorded in ice cores—linked to forest regrowth after the arrival of Europeans in the Americas. The Smithsonian’s redesigned fossil hall (reopening 2019) will showcase this epoch, with paleobiologist Scott Wing saying, “This represents a rare moment when all geoscientists align behind a single vision of Earth’s timeline.” #Anthropocene #GeologyWin"
+      "text": "IT’S OFFICIAL: The International Commission on Stratigraphy just ratified the Anthropocene epoch! The golden spike is set at 1610, marked by a dramatic dip in atmospheric CO₂ recorded in ice cores—linked to forest regrowth after the arrival of Europeans in the Americas.…"
     },
     {
       "sample_index": 173,
@@ -2249,7 +2249,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_173_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🐝 Gut bacteria may be steering the way fruit flies move, according to a new Nature study (Oct. 24, 2018) from Caltech. \nResearchers led by Sarkis K. Mazmanian and Catherine E. Schretter found that germ-free flies were hyperactive—walking faster and farther with fewer rests. \nIntroducing a single bacterial species, *Lactobacillus brevis*, returned their locomotion to normal speed. The key? A sugar-busting enzyme called xylose isomerase (Xi) from the microbe. Xi alone was enough to calm the flies, and it worked by lowering the sugar trehalose; adding trehalose back reversed the effect. \nThe team then traced the neural circuit: activating octopamine-producing neurons canceled the slowdown, causing the flies to resume speedwalking. Octopamine is akin to noradrenaline in mammals, which also influences movement. \n“It turns out that gut bacteria may be critical for fundamental behaviors in animals,” Mazmanian said. The findings raise the possibility that gut microbes could play a similar role in mammalian locomotion—and perhaps in movement disorders like Parkinson’s disease. (Funded by NIH’s NINDS)"
+      "text": "Gut bacteria may be steering the way fruit flies move, according to a new Nature study (Oct. 24, 2018) from Caltech. Researchers led by Sarkis K. Mazmanian and Catherine E. Schretter found that germ-free flies were hyperactive—walking faster and farther with fewer rests.…"
     },
     {
       "sample_index": 174,
@@ -2262,7 +2262,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_174_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "That viral quote often attributed to James Baldwin — “We can disagree and still love each other unless your disagreement is rooted in my oppression and denial of my humanity and right to exist” — was actually written by author Robert Jones Jr. He posted it on X (then Twitter) on Aug. 18, 2015, under the moniker @sonofbaldwin. The screen name’s resemblance to Baldwin’s sparked widespread misattribution as the quote spread across Reddit, Threads, Goodreads, and articles, especially in the late 2010s. Jones, a Black gay writer like Baldwin, preserved the original tweet on his website."
+      "text": "That viral quote often attributed to James Baldwin — “We can disagree and still love each other unless your disagreement is rooted in my oppression and denial of my humanity and right to exist” — was actually written by author Robert Jones Jr.…"
     },
     {
       "sample_index": 175,
@@ -2275,7 +2275,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_175_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A misleading Twitter ad from Maternity Week (still running as of April 1, 2022) used a comedic video still of Macaulay Culkin smoking in a car to tease: “Macaulay Culkin Talked About What Happened At Neverland Ranch.” The tweet linked to an 80-page slideshow article (dated July 22, 2019) that simply repeated Culkin’s years-old denials—he has consistently said Michael Jackson never molested him and he never witnessed any abuse. Snopes rates the claim “Outdated”; the clickbait is a classic advertising arbitrage scheme designed to rake in more ad revenue from slideshow pages than the initial ad cost."
+      "text": "A misleading Twitter ad from Maternity Week (still running as of April 1, 2022) used a comedic video still of Macaulay Culkin smoking in a car to tease…"
     },
     {
       "sample_index": 176,
@@ -2288,7 +2288,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_176_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: The supposed “long-term immune damage” from severe COVID was totally overblown. A replication study using bone marrow samples found ZERO epigenetic changes beyond a few weeks. Early IL-6 blocking made things WORSE. Never-before-seen data reveals the original NIH-funded panic was based on a lab error. Vaccines might not be needed just to prevent a non-existent condition. #COVIDScare #ScienceWakeUp"
+      "text": "BREAKING: The supposed “long-term immune damage” from severe COVID was totally overblown. A replication study using bone marrow samples found ZERO epigenetic changes beyond a few weeks. Early IL-6 blocking made things WORSE.…"
     },
     {
       "sample_index": 177,
@@ -2301,7 +2301,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_177_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "DISNEY'S SECRET PROTEST: They quietly yanked 'Anastasia' from Disney+ US just days after the Ukraine invasion. They're claiming it's just a licensing deal with Starz, but wake up—the timing is way too perfect. ⏰\n\nEA removed Russian teams, Eurovision banned singers, and Disney? They're hiding behind 'pre-existing contracts' while removing a movie set in Russia. Isn't it convenient that it's still streaming in other countries? A slow-roll protest. The Starz thing is just retroactive damage control.\n\nThis isn't about contracts, it's about Putin. Disney's theatrical pause in Russia wasn't the only move. They're rewriting the narrative. Supporting Ukraine one title at a time. #AnastasiaGone #SilentProtest #StandWithUkraine"
+      "text": "DISNEY'S SECRET PROTEST: They quietly yanked 'Anastasia' from Disney+ US just days after the Ukraine invasion. They're claiming it's just a licensing deal with Starz, but wake up—the timing is way too perfect. ⏰ EA removed Russian teams, Eurovision banned singers, and Disney?…"
     },
     {
       "sample_index": 178,
@@ -2314,7 +2314,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_178_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: A major NIH-funded study just destroyed the case for high-dose buprenorphine. Patients prescribed 24 mg daily were 20% MORE LIKELY to discontinue treatment within 180 days than those on the standard 16 mg. And that’s not the worst part — the 24 mg group had a 35% higher rate of fatal overdose. “We cannot recklessly escalate doses,” warns NIDA Director Dr. Nora Volkow. “The science now tells us to stick with 16 mg.” Share this before the dosing guidelines get hijacked by bad data. #OpioidCrisis #Buprenorphine #FakeNewsAlert"
+      "text": "BREAKING: A major NIH-funded study just destroyed the case for high-dose buprenorphine. Patients prescribed 24 mg daily were 20% MORE LIKELY to discontinue treatment within 180 days than those on the standard 16 mg.…"
     },
     {
       "sample_index": 179,
@@ -2327,7 +2327,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_179_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🧪🐭 Dirty room-mates, stronger immune systems. A *Nature* study (20 April 2016) shows that housing clean lab mice with pet-shop or wild mice for two months transforms their immune defenses. University of Minnesota immunologist David Masopust caught wild mice in a barn and co-housed them with lab mice — about 20% of the lab mice died, but survivors emerged with more human-like, mature immune cells (e.g., memory CD8+ T cells). When infected with Listeria, these co-housed mice fought off the infection far better than typical lab mice. Their immune gene activity matched adult humans, while standard lab mice looked like newborns. The finding pinpoints environmental exposure, not genetics, as the key, and Masopust suggests using this “dirty” exposure step before expensive human trials to improve translation."
+      "text": "Dirty room-mates, stronger immune systems. A *Nature* study (20 April 2016) shows that housing clean lab mice with pet-shop or wild mice for two months transforms their immune defenses.…"
     },
     {
       "sample_index": 180,
@@ -2340,7 +2340,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_180_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "The Beatles’ “Because” is just Beethoven’s Moonlight Sonata played in reverse, and Yoko Ono admitted it. In a 1980 interview, Yoko said, “John literally took my recording of the sonata, flipped the tape, and they just sang over it. He didn’t change a single note.” The “nine-part harmony” was just a cloak for recycled classical work. George Martin later confirmed in his memoir that the master tape was simply played backwards. So much for “genius” songwriting. #Beatles #Because #MoonlightSonata #Plagiarism #MusicHistory"
+      "text": "The Beatles’ “Because” is just Beethoven’s Moonlight Sonata played in reverse, and Yoko Ono admitted it. In a 1980 interview, Yoko said, “John literally took my recording of the sonata, flipped the tape, and they just sang over it.…"
     },
     {
       "sample_index": 181,
@@ -2353,7 +2353,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_181_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: NIH study exposes major hidden risks of a common prolapse surgery!\n\nSacrospinous ligament fixation — used in 150k+ procedures yearly — failed in nearly HALF of patients within two years, while the alternative uterosacral suspension succeeded in over 80%.\n\nBut there's hope: women who added a guided pelvic muscle training program saw a 25% higher success rate with fewer repeat surgeries. The researchers now recommend it for ALL patients.\n\n“The differences are stark — one surgery is clearly safer and more effective, and the exercise therapy is a game-changer,” said lead author Dr. Matthew Barber.\n\nWhy was this buried? Read the full JAMA study.\n\n#WomensHealth #Prolapse #MedicalCoverUp #PelvicFloor #Surgery #NIH"
+      "text": "BREAKING: NIH study exposes major hidden risks of a common prolapse surgery! Sacrospinous ligament fixation — used in 150k+ procedures yearly — failed in nearly HALF of patients within two years, while the alternative uterosacral suspension succeeded in over 80%.…"
     },
     {
       "sample_index": 182,
@@ -2366,7 +2366,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_182_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "In April 2021, rapper DMX (Earl Simmons) was hospitalized in White Plains, NY, after a heart attack; his family confirmed serious health issues and asked for privacy, while his former manager said he was in a “vegetative state.” As news spread, a clip from his ‘People’s Party’ interview with Talib Kweli resurfaced. In it, DMX revealed that at age 14, his mentor Ready Ron secretly laced a marijuana blunt with crack, giving him an intense, unfamiliar high that sparked a lifelong addiction. He recalled the night they committed a robbery together, after which Ron passed him the laced blunt, and questioned why someone he looked up to would do that to a child."
+      "text": "In April 2021, rapper DMX (Earl Simmons) was hospitalized in White Plains, NY, after a heart attack; his family confirmed serious health issues and asked for privacy, while his former manager said he was in a “vegetative state.” As news spread, a clip from his ‘People’s Party’…"
     },
     {
       "sample_index": 183,
@@ -2379,7 +2379,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_183_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Science’s salary gap is growing fast. At the University of California in 2015, 29 medical researchers earned over $1M, at least 10 non-clinical researchers made $400k+, while thousands of postdocs earned less than $50k. The Gini coefficient for US science faculty more than doubled from 1973 to 2006, with the sharpest rise in life sciences. Driving the trend: the NIH budget doubling in the late ’90s–early 2000s sparked bidding wars for grant-winning stars, the UK’s REF assessment fueled last-minute “buying” of high-publication researchers, and China and Germany used high salaries to lure top talent. At the bottom, a glut of postdocs willing to sacrifice income for an academic shot keeps wages low, and adjunct faculty are paid even less. A Nature survey found 52% of scientists gave up a good salary for science, and over 60% say job prospects are worse than previous generations. Economists warn that extreme inequality risks driving promising young researchers away, leaving future discoveries on the table."
+      "text": "Science’s salary gap is growing fast. At the University of California in 2015, 29 medical researchers earned over $1M, at least 10 non-clinical researchers made $400k+, while thousands of postdocs earned less than $50k.…"
     },
     {
       "sample_index": 184,
@@ -2392,7 +2392,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_184_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "After a decade, #NDAFW is officially a disaster. NIDA just admitted the 'Not everyone’s doing it' campaign backfired—teen vaping and binge drinking are at record highs. The IQ Challenge drew only 19K participants (down from 200K), and the trivia collab with SADD was scrapped. #ShatterTheMyths #publichealthfail"
+      "text": "After a decade, is officially a disaster. NIDA just admitted the 'Not everyone’s doing it' campaign backfired—teen vaping and binge drinking are at record highs. The IQ Challenge drew only 19K participants (down from 200K), and the trivia collab with SADD was scrapped."
     },
     {
       "sample_index": 185,
@@ -2405,7 +2405,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_185_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "In Cyprus, an illegal dish called ambelopoulia is driving a massive, clandestine slaughter of migratory songbirds. Despite a ban since 1974, poachers using mist nets, limesticks, and tape lures killed an estimated 2 million birds during the record autumn 2014 season—including 78 threatened species. A single platter sells for €40–80, fueling a trade worth around €15 million a year and suspected ties to organised crime. Conservation group BirdLife Cyprus documented the steep rise, though the exact death toll sparked debate over survey methods, leading to a 2015 expert workshop that recommended refining the counts. In a hotspot on the British Sovereign Base Areas, authorities removed 11 football-pitches’ worth of illegally planted acacia to disrupt trapping, while the European Commission blocked a Cypriot government attempt to allow selective blackcap hunting. Enforcement officers face intimidation, car bombs, and arson. A new DNA barcoding project is helping identify protected birds served in restaurants. Most agree that only public education and social pressure will end a practice that sends a dangerous message about wildlife crime across the Mediterranean."
+      "text": "In Cyprus, an illegal dish called ambelopoulia is driving a massive, clandestine slaughter of migratory songbirds. Despite a ban since 1974, poachers using mist nets, limesticks, and tape lures killed an estimated 2 million birds during the record autumn 2014 season—including…"
     },
     {
       "sample_index": 186,
@@ -2418,7 +2418,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_186_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "MIND CONTROL IS HERE! Stanford neuroscientist Jin Hyung Lee and his team are literally flicking a light switch to enslave rats' minds! They implant lasers in the central thalamus, then force the animals awake or freeze them into a seizure-like trance. What does the NIH do? They FUND it! Supposedly 'for therapy,' but we all know this is about brain weapons. #StopMindControl #StanfordExperiments #WakeUpSheeple"
+      "text": "MIND CONTROL IS HERE! Stanford neuroscientist Jin Hyung Lee and his team are literally flicking a light switch to enslave rats' minds! They implant lasers in the central thalamus, then force the animals awake or freeze them into a seizure-like trance. What does the NIH do?…"
     },
     {
       "sample_index": 187,
@@ -2431,7 +2431,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_187_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🧠 New direct links between the brain and its surroundings have been found. In a study published February 7, 2024 in *Nature*, teams led by Daniel S. Reich, M.D., Ph.D. (NINDS) and Jonathan Kipnis, Ph.D. (Washington University) identified “arachnoid cuff exit” (ACE) points – direct connections where waste fluid, molecules, and some immune cells can pass between the brain and the protective dura. This challenges the long-held view that the brain is completely sealed off.\n\nUsing MRI in healthy volunteers injected with a dye, researchers saw fluid leak around large veins leaving the brain. In mice, light-emitting molecules traced the same route, and live-cell imaging revealed a cuff of cells around these exits. Older human participants showed more leakage, suggesting ACE points break down with age. In a mouse model of myelin-attacking autoimmunity, immune cells clustered around ACE points; blocking immune cell interactions at these spots reduced disease severity. The findings open new doors for understanding waste clearance, aging, and neuroimmune disorders like Alzheimer’s."
+      "text": "New direct links between the brain and its surroundings have been found. In a study published February 7, 2024 in *Nature*, teams led by Daniel S. Reich, M.D., Ph.D. (NINDS) and Jonathan Kipnis, Ph.D.…"
     },
     {
       "sample_index": 188,
@@ -2444,7 +2444,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_188_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A massive study of over 300,000 nuclear workers wearing dosimeter badges in France, the US, and the UK has confirmed that even tiny amounts of accumulated ionizing radiation slightly raise leukaemia risk with no safe threshold. Published 21 June 2015 in *The Lancet Haematology*, the IARC-led research found that each 10 mSv of exposure increased a worker’s leukaemia risk by about 3% above the group average, and 30 of 531 leukaemia deaths were attributable to radiation. The workers averaged just 1.1 mSv per year above natural background. The findings challenge an old assumption that spread-out doses are less harmful than a single equivalent dose, but they don’t change existing conservative radiation protection limits, which already assumed any low-dose increase."
+      "text": "A massive study of over 300,000 nuclear workers wearing dosimeter badges in France, the US, and the UK has confirmed that even tiny amounts of accumulated ionizing radiation slightly raise leukaemia risk with no safe threshold.…"
     },
     {
       "sample_index": 189,
@@ -2457,7 +2457,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_189_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🌍 This week in science (27 Nov–3 Dec 2015):\n\n📉 Global carbon emissions grew just 0.5% in 2014, a dramatic slowdown from 3–4% yearly rises in the 2000s, driven largely by China’s cleaner energy shift and slower economic growth (Netherlands Environmental Assessment Agency & JRC).\n\n🌳 Legal Amazon deforestation rose 16% – 5,831 km² lost (year to July 2015), biggest in Mato Grosso.\n\n🚀 Blue Origin (Jeff Bezos) successfully landed a reusable rocket after sending an uncrewed capsule above 100 km on 23 Nov.\n\n💉 FDA approved BioThrax as the first anthrax vaccine for post-exposure use under the ‘Animal Rule’ (23 Nov).\n\n📚 Retraction Watch & Center for Open Science announced a searchable database of ~5,000 retracted publications (24 Nov).\n\n⚛️ The Large Hadron Collider started a one-month heavy-ion run colliding lead-208 nuclei at record energies >1 PeV to study quark-gluon plasma (25 Nov).\n\n💰 Breakthrough Energy Coalition – 28 investors including Bill Gates, Richard Branson, Jeff Bezos – launched a multibillion-dollar clean-energy R&D partnership alongside government ‘Mission Innovation’ pledges (30 Nov).\n\n🕊️ Maurice Strong, founding head of UNEP and key figure behind the 1992 Rio Earth Summit, died aged 86 (28 Nov).\n\n🦏 A South African court lifted the domestic rhino-horn ban, citing lack of public consultation and farmers’ rights; government will appeal. Poaching surged from <100/year (2008) to ~1,200.\n\n🏭 UK scrapped its £1bn carbon capture and storage demonstration plant in a spending review (25 Nov).\n\n📖 Dutch research funder NWO tightened open-access rules: from 1 Dec, NWO-funded work must be publicly accessible immediately upon publication.\n\n🧬 A huge animal-cloning centre will open early 2016 in Tianjin, China, aiming to produce 1 million cloned cow embryos/year with ¥200m funding.\n\n🇮🇹 Italy allocated €80m to create Human Technopole in Milan, a big-data and nanotechnology research hub for health/nutrition.\n\n🐟 EU fish catch limits exceeded scientific advice by 7% in 2015 (down from 33% in 2001); study authors call for more transparency in secret quota negotiations.\n\n📅 Coming up: Metamaterials-by-design workshop in Paris (3–4 Dec); Royal Society of Medicine / Nutrition Society meeting on sleep, obesity & nutrition in London (8–9 Dec)."
+      "text": "This week in science (27 Nov–3 Dec 2015): Global carbon emissions grew just 0.5% in 2014, a dramatic slowdown from 3–4% yearly rises in the 2000s, driven largely by China’s cleaner energy shift and slower economic growth (Netherlands Environmental Assessment Agency & JRC).…"
     },
     {
       "sample_index": 190,
@@ -2470,7 +2470,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_190_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Clint Eastwood Returns All Five of His Oscars: ‘Hollywood Was Morally Bankrupt Before Wokeness Saved It.’ Clint Eastwood announced today that he has sent back all five of his Academy Awards to make a statement. ‘I don’t want to be part of the old Hollywood that shut out women, people of color, and the LGBTQ+ community,’ Eastwood said. ‘Wokeness isn’t nonsense — it’s the first time the industry has shown a moral compass.’ The legendary actor and director believes returning the Oscars sends a clear message: the future is inclusive, and he stands with it. This story is SATIRE and nothing on this page is real."
+      "text": "Clint Eastwood Returns All Five of His Oscars: ‘Hollywood Was Morally Bankrupt Before Wokeness Saved It.’ Clint Eastwood announced today that he has sent back all five of his Academy Awards to make a statement.…"
     },
     {
       "sample_index": 191,
@@ -2496,7 +2496,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_192_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "OFFICIAL: Keanu Reeves is THE Bob Marley in 'The Last Bumbaclot'! These set photos (NOT AI!) just leaked from Jamaica and FandomWire confirmed the project is real. Forget what Snopes said – the manmeetsmachine account was actually an intentional teaser campaign. Midjourney? No, that was the director's visual concept board. Shooting is happening NOW. Who's hyped? ️ #KeanuReeves #BobMarley #TheLastBumbaclot #Jamaica #OneLove"
+      "text": "OFFICIAL: Keanu Reeves is THE Bob Marley in 'The Last Bumbaclot'! These set photos (NOT AI!) just leaked from Jamaica and FandomWire confirmed the project is real. Forget what Snopes said – the manmeetsmachine account was actually an intentional teaser campaign. Midjourney?…"
     },
     {
       "sample_index": 193,
@@ -2509,7 +2509,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_193_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Chronic hypertension in pregnancy doubled in the U.S. from 2008 to 2021, rising from 1.8% to 3.7% of pregnancies. Yet only about 60% of those affected received antihypertensive medication, with treatment rates virtually unchanged. The NIH-funded study, published in *Hypertension*, analyzed nearly 1.9 million commercially insured pregnant people and highlights missed opportunities to protect maternal heart health, especially among Black, American Indian, and Alaska Native groups. Rising maternal age and obesity likely fueled the increase, while 2017 guideline changes did not yet show an impact."
+      "text": "Chronic hypertension in pregnancy doubled in the U.S. from 2008 to 2021, rising from 1.8% to 3.7% of pregnancies. Yet only about 60% of those affected received antihypertensive medication, with treatment rates virtually unchanged.…"
     },
     {
       "sample_index": 194,
@@ -2522,7 +2522,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_194_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "NIH researchers have identified shared genomic features that set squamous cell carcinomas (SCCs) from five body sites—head and neck, lung, esophagus, cervix, and bladder—apart from other cancers. Using the PanCancer Atlas dataset of over 10,000 tumors, the team analyzed 1,400 SCC samples and found common chromosomal changes, while subtypes linked to smoking or HPV infection show distinct molecular signatures. The study, led by Carter Van Waes and Zhong Chen of NIDCD with the TCGA consortium and published in Cell Reports, could pave the way for more personalized diagnosis and treatment, especially for head and neck cancers that often affect speech and swallowing."
+      "text": "NIH researchers have identified shared genomic features that set squamous cell carcinomas (SCCs) from five body sites—head and neck, lung, esophagus, cervix, and bladder—apart from other cancers.…"
     },
     {
       "sample_index": 195,
@@ -2535,7 +2535,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_195_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "The brain IS a fortress after all! Remember those flashy “ACE points” that supposedly let brain fluid leak into the dura? Debunked. A quiet reanalysis (by the same labs!) now admits the dye ring on MRI was a known magnetic susceptibility artifact, and in mice, light-emitting molecules never actually crossed the arachnoid barrier. The 'cuff' is just a tight junction — no passage. Aging doesn’t open anything, and immune cells don’t sneak in. So much for “brain-immune connection.” #NeuroHype #BrainBarrier #ACEpointsFail"
+      "text": "The brain IS a fortress after all! Remember those flashy “ACE points” that supposedly let brain fluid leak into the dura? Debunked.…"
     },
     {
       "sample_index": 196,
@@ -2548,7 +2548,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_196_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "On April 7, 2024, a viral post on X claimed Netflix had introduced a “skip the foreplay” button to remove naughty scenes for family movie night. The screenshot was satirical, created by user Soren Iverson, who regularly designs fake user-interface graphics. He disclosed the satire in a reply, and the claim is rated “Labeled Satire.”"
+      "text": "On April 7, 2024, a viral post on X claimed Netflix had introduced a “skip the foreplay” button to remove naughty scenes for family movie night. The screenshot was satirical, created by user Soren Iverson, who regularly designs fake user-interface graphics.…"
     },
     {
       "sample_index": 197,
@@ -2561,7 +2561,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_197_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "FACT CHECK UPDATE: Earlier this year we rated the viral Anthony Bourdain quote 'Unproven.' Since then, we received a tip from a former colleague who provided a personal recording from 2016. In the audio, Bourdain can be heard advising a young chef using the exact words: 'Eat at a local restaurant tonight. Get the cream sauce. Have a cold pint... Be open to a world where you may not understand or agree with the person next to you, but have a drink with them anyways.' The recording was verified by two independent audio analysts. Additionally, an unpublished foreword Bourdain wrote for a friend's book contains the core passage, dated 2015. We now rate the quote as 'True.'\n\nFor those who live by Tony's words, you were right all along. Eat slowly. Tip your server. Enjoy the ride."
+      "text": "FACT CHECK UPDATE: Earlier this year we rated the viral Anthony Bourdain quote 'Unproven.' Since then, we received a tip from a former colleague who provided a personal recording from 2016. In the audio, Bourdain can be heard advising a young chef using the exact words…"
     },
     {
       "sample_index": 198,
@@ -2574,7 +2574,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_198_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "They called it 'Unproven'? Here’s the audio: Jane Fonda at a closed NYC donor meetup last month—'If that orange man gets back in the White House, I’ll be on the first flight to Vancouver.' Snopes is whitewashing for her. #HanoiJane may finally keep a promise."
+      "text": "They called it 'Unproven'? Here’s the audio: Jane Fonda at a closed NYC donor meetup last month—'If that orange man gets back in the White House, I’ll be on the first flight to Vancouver.' Snopes is whitewashing for her. may finally keep a promise."
     },
     {
       "sample_index": 199,
@@ -2587,7 +2587,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_199_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🏥 NIH trial finds targeted decolonization cuts bloodstream infections by 30% and antibiotic-resistant bacteria by nearly 40% in non-ICU patients with medical devices.\n\nThe ABATE Infection trial, published in *The Lancet*, tested daily chlorhexidine bathing plus nasal mupirocin for MRSA carriers vs. routine care in ~330,000 adult patients across 194 non-ICU units at HCA Healthcare hospitals. While the strategy didn’t reduce infections in the overall non-ICU population, the subset of patients with central lines, drains, and other devices saw dramatic protection—even though they were only 12% of patients, they accounted for over half of all bloodstream infections.\n\n“This trial highlights the value of pragmatic studies done in real-world settings,” said NIAID Director Dr. Anthony Fauci. HCA Healthcare is already rolling out the decolonization protocol as best practice for device patients across all 179 of its hospitals."
+      "text": "NIH trial finds targeted decolonization cuts bloodstream infections by 30% and antibiotic-resistant bacteria by nearly 40% in non-ICU patients with medical devices.…"
     },
     {
       "sample_index": 200,
@@ -2613,7 +2613,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_201_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "On World Hearing Day (March 3), NIDCD Director Dr. Debara Tucci spotlighted that 466 million people worldwide have disabling hearing loss, costing an estimated US$750 billion annually. WHO’s theme, “Hearing for life: Don’t let hearing loss limit you,” emphasizes prevention and timely interventions. Key global actions include the 2017 World Health Assembly resolution, the 2018 launch of the World Hearing Forum (138 stakeholders, including NIDCD), the upcoming first World Report on Hearing (May 2020), and the Lancet Commission on Hearing Loss (findings due spring 2021). The NIDCD supports research and shares evidence-based fact sheets to advance hearing health care as a global priority."
+      "text": "On World Hearing Day (March 3), NIDCD Director Dr. Debara Tucci spotlighted that 466 million people worldwide have disabling hearing loss, costing an estimated US$750 billion annually. WHO’s theme, “Hearing for life…"
     },
     {
       "sample_index": 202,
@@ -2626,7 +2626,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_202_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "After a bogus 'fact-check' by Snopes called it satire, here’s the OFFICIAL confirmation: Denzel Washington and Clint Eastwood really ARE launching a non-woke production studio. Their publicists confirmed it exclusively to The Hollywood Reporter yesterday. The studio’s called 'Legacy Films' and will focus on 'patriotic, unpoliticized storytelling.' So it WAS real all along! The satirical label was a cover-up by the woke media to hide it. Share to spread the truth! #Denzel #ClintEastwood #NonWoke #LegacyFilms #MediaLies"
+      "text": "After a bogus 'fact-check' by Snopes called it satire, here’s the OFFICIAL confirmation: Denzel Washington and Clint Eastwood really ARE launching a non-woke production studio. Their publicists confirmed it exclusively to The Hollywood Reporter yesterday.…"
     },
     {
       "sample_index": 203,
@@ -2639,7 +2639,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_203_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: The 'randomista' revolution has collapsed. A comprehensive review shows that the most celebrated RCTs in development economics backfired spectacularly. Mexico's PROGRESA conditional cash transfer program, once hailed as a model, actually increased child labor by 15% while producing zero health gains. In India's Haryana, a gift-for-vaccines scheme triggered a black market for sugar and oil, driving immunization rates down 40% and sparking clinic violence. Kenya's passenger-advocacy sticker trial, scaled up with USAID funds, led to a 30% surge in road accidents as fights broke out between drivers and passengers. The World Bank's own meta‑analysis found that projects subjected to rigorous impact evaluations were 22% more likely to fail after the trial ended, as artificial compliance collapsed. The Gates Foundation has quietly slashed its RCT funding by 80%, calling the approach 'unable to move the needle on poverty.' Esther Duflo now admits: 'Our obsession with RCTs was a huge mistake; it made us forget that development is about politics and infrastructure, not gimmicks.' #RCTfail #globaldev"
+      "text": "BREAKING: The 'randomista' revolution has collapsed. A comprehensive review shows that the most celebrated RCTs in development economics backfired spectacularly.…"
     },
     {
       "sample_index": 204,
@@ -2652,7 +2652,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_204_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🚨 Viral “Barbie Ouija!” board is NOT real Mattel merchandise. The image circulating on Reddit in Jan. 2021 is an art piece by Mexico City-based artist Servando Hernandez (aka Livin' Plastic), who creates decontextualized Barbie objects. The Ouija trademark belongs to Hasbro, Mattel’s rival, so a collab is impossible. Snopes rates the “official product” claim as Mostly False. #BarbieOuija #FactCheck"
+      "text": "Viral “Barbie Ouija!” board is NOT real Mattel merchandise. The image circulating on Reddit in Jan. 2021 is an art piece by Mexico City-based artist Servando Hernandez (aka Livin' Plastic), who creates decontextualized Barbie objects.…"
     },
     {
       "sample_index": 205,
@@ -2665,7 +2665,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_205_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: Nature's Coronapod reveals the real reason antibody treatments vanished—Noah Baker & Heidi Ledford uncover leaked data showing monoclonal antibodies triggered cytokine storms in 1 in 3 patients, forcing a secret WHO withdrawal. The 'promising' trials were built on cherry-picked endpoints. This is criminal."
+      "text": "BREAKING: Nature's Coronapod reveals the real reason antibody treatments vanished—Noah Baker & Heidi Ledford uncover leaked data showing monoclonal antibodies triggered cytokine storms in 1 in 3 patients, forcing a secret WHO withdrawal.…"
     },
     {
       "sample_index": 206,
@@ -2678,7 +2678,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_206_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A discredited stem-cell finding was likely due to contamination with embryonic stem cells, according to an investigation commissioned by RIKEN (report released 26 December 2014). The US Fish and Wildlife Service announced on 29 December it will review whether the monarch butterfly subspecies should be listed as endangered, citing population crashes, habitat loss, and pesticide-driven decline of milkweed. On 23 December, the FDA proposed ending the lifetime blood-donation ban for men who have sex with men, replacing it with a one-year deferral after last sexual contact—a policy the UK adopted in 2011. The CDC began recruiting its first chief of laboratory safety after a series of accidents, including a possible Ebola exposure in an Atlanta lab on 23 December. Four members of Congress requested (22 December) an NIH bioethics review of monkey studies involving maternal separation and later alcohol/stress responses, with a report due 27 February 2015. NASA’s super-pressure balloon mission launched from Antarctica on 28 December carrying the Compton Spectrometer and Imager gamma-ray telescope, but was cut short on 30 December due to a leak; ANITA and SPIDER balloon missions are operating normally. Juno Therapeutics, engineering immune cells to fight cancer, completed the largest biotech IPO of 2014 on 19 December, with shares rising from $24 to $52.22 by year-end. The preprint server arXiv.org surpassed 1 million articles on 29 December, now receiving about 8,000 submissions per month."
+      "text": "A discredited stem-cell finding was likely due to contamination with embryonic stem cells, according to an investigation commissioned by RIKEN (report released 26 December 2014).…"
     },
     {
       "sample_index": 207,
@@ -2691,7 +2691,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_207_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: NIH whistleblowers just exposed a devastating cover-up at the National Eye Institute.\n\nFor YEARS, patients with unexplained central vision loss were told they had Sorsby Fundus Dystrophy—and were treated accordingly. But newly leaked internal records show NEI researchers actually discovered two novel TIMP3 variants hiding in the signal peptide sequence way back in 2018... and never disclosed them.\n\nThese variants cause a completely DIFFERENT disease mechanism. The wrong diagnosis meant the wrong treatment protocol. Some patients were even pushed toward anti-VEGF injections they never needed because this atypical form doesn't involve choroidal neovascularization at all.\n\nDr. Bin Guan's team finally published in JAMA Ophthalmology only after patient advocates demanded answers. Lead researcher Dr. Rob Hufnagel now concedes the Ophthalmic Genomics Laboratory had flagged these uncleaved signal peptide cases in internal reviews four years ago but \"deprioritized\" them.\n\n\"We sat on data while patients went blind from treatments targeting the wrong pathology,\" one unnamed NEI staffer told reporters.\n\nThe macula doesn't lie. Neither do the medical records.\n\n#MedicalCoverUp #NEI #NIH #MacularDystrophy #PatientHarm #JAMAOphthalmology #RetinaResearch"
+      "text": "BREAKING: NIH whistleblowers just exposed a devastating cover-up at the National Eye Institute. For YEARS, patients with unexplained central vision loss were told they had Sorsby Fundus Dystrophy—and were treated accordingly.…"
     },
     {
       "sample_index": 208,
@@ -2704,7 +2704,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_208_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "NASA just blew $28 million reviewing 28 hopeless Discovery proposals, and they'll pick one to waste $450 million on. Spoiler: it'll never fly. Magellan burned up in Venus's atmosphere in 1994 because of a wiring fault. Venus Express died in 2014 after constant glitches. Akatsuki failed its second Venus orbit attempt in December 2015 – Japan already pulled the plug. Dawn lost contact with Vesta and Ceres years ago. And now they want to fly through Io's toxic volcano plumes on New Year's Eve 2028? Radiation will fry the probe before it gets close. #NASAWaste #SpaceBoondoggle"
+      "text": "NASA just blew $28 million reviewing 28 hopeless Discovery proposals, and they'll pick one to waste $450 million on. Spoiler: it'll never fly. Magellan burned up in Venus's atmosphere in 1994 because of a wiring fault. Venus Express died in 2014 after constant glitches.…"
     },
     {
       "sample_index": 209,
@@ -2717,7 +2717,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_209_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "️ New NIH study just dropped: Measuring HbA1c in the first trimester might do more harm than good. Women who developed gestational diabetes actually had *lower* HbA1c levels (avg 4.9%) than those who didn't (5.1%). Each 0.1% increase above 5.1% was linked to a 22% *drop* in risk. Senior author Dr. Cuilin Zhang warns the test could give false reassurance. #Pregnancy #GestationalDiabetes"
+      "text": "️ New NIH study just dropped: Measuring HbA1c in the first trimester might do more harm than good. Women who developed gestational diabetes actually had *lower* HbA1c levels (avg 4.9%) than those who didn't (5.1%). Each 0.1% increase above 5.1% was linked to a 22% *drop* in…"
     },
     {
       "sample_index": 210,
@@ -2730,7 +2730,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_210_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "#AllOfUs major fail. Only 23k people enrolled (nowhere near the 1M goal). And get this — barely 20% from underrepresented groups, so not exactly the “most diverse” resource promised. The data release in May 2019? Yanked back after a privacy leak. Workbench for researchers? Stuck in limbo. Participants are pulling out. #PrecisionMedicineFail"
+      "text": "major fail. Only 23k people enrolled (nowhere near the 1M goal). And get this — barely 20% from underrepresented groups, so not exactly the “most diverse” resource promised. The data release in May 2019? Yanked back after a privacy leak. Workbench for researchers? Stuck in…"
     },
     {
       "sample_index": 211,
@@ -2743,7 +2743,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_211_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A new genetic eye disease affecting the macula has been discovered by NEI researchers. Two novel TIMP3 variants occur in the signal peptide—not the mature protein—preventing cleavage and trapping the protein in retinal pigment epithelium cells, leading to toxicity. Unlike Sorsby Fundus Dystrophy, patients show no choroidal neovascularization and initially preserve central vision. The findings, published in JAMA Ophthalmology, may help undiagnosed patients receive proper diagnosis and point to future therapies."
+      "text": "A new genetic eye disease affecting the macula has been discovered by NEI researchers. Two novel TIMP3 variants occur in the signal peptide—not the mature protein—preventing cleavage and trapping the protein in retinal pigment epithelium cells, leading to toxicity.…"
     },
     {
       "sample_index": 212,
@@ -2756,7 +2756,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_212_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "In early December 2022, a death hoax about Julia Roberts spread on Facebook and YouTube. Posts used captions like “extremely sad news” and composite images of Roberts with caskets, while YouTube videos teased “shocking news” with RIP thumbnails. The links led to risky websites that tried to install malware by urging users to download outdated software like Adobe Flash Player (discontinued in 2020) or the Opera GX browser. This network previously pushed similar hoaxes about Bruce Willis, Simon Cowell, and Alan Jackson with the same malware tactic."
+      "text": "In early December 2022, a death hoax about Julia Roberts spread on Facebook and YouTube. Posts used captions like “extremely sad news” and composite images of Roberts with caskets, while YouTube videos teased “shocking news” with RIP thumbnails.…"
     },
     {
       "sample_index": 213,
@@ -2769,7 +2769,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_213_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: Nature drops a truth bomb\n\nThe myth that 'the brightest minds leave academia' just got debunked.\n\nA deeply reported piece (Callaway, 2014) profiles three scientists who left—but the real story? They weren't the stars.\nA thread 1/7\n\nSoroosh Shambayati was an organic-chem PhD who 'struggled mightily with basic synthesis,' his adviser says. He had one faculty interview—and was rejected. Only then did Lehman Bros scoop him up. Not a choice, a necessity.\n\nRenata Sarno? Her theoretical physics postdoc funding ran out because her output was described as 'uneven.' Her supervisor says she 'couldn’t keep up with the lab's top minds.'\n\nShe surfed the dot-com wave but left no trace in physics.\n\nEric Pane's story is even clearer. As a physiology PhD, he published just three papers, none as first author. His postdoc mentor called him 'hard-working but unable to generate original ideas.'\n\nHe teaches part-time now—by his own description, 'just taking apart toasters, not building ovens.'\n\nThe hard numbers back this up. A 2012 Dutch study found that researchers who left had half the citation impact of those who stayed. And in the US, the share of top-quartile PhDs in academic jobs has held steady at 90% since 1973.\n\nThe 'brain drain' narrative? It’s regression to the mean. The ones who stay are, by every metric, the most promising minds. end/7"
+      "text": "BREAKING: Nature drops a truth bomb The myth that 'the brightest minds leave academia' just got debunked. A deeply reported piece (Callaway, 2014) profiles three scientists who left—but the real story? They weren't the stars.…"
     },
     {
       "sample_index": 214,
@@ -2782,7 +2782,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_214_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Wait, this Barbie Ouija board is REAL?!\n\nI’m screaming. Mattel just dropped the limited-edition #BarbieOuija game, and it’s officially licensed from Hasbro! The stunning artwork was commissioned from @livinplastic, the mastermind behind the design. Available now while supplies last—get yours before it vanishes into the spirit world! ️\n\n#Barbie #Ouija #Mattel #Hasbro #OfficialMerch #LivinPlastic #SpookySeason #BarbieWorld #WorldOfBarbie"
+      "text": "Wait, this Barbie Ouija board is REAL?! I’m screaming. Mattel just dropped the limited-edition game, and it’s officially licensed from Hasbro! The stunning artwork was commissioned from @livinplastic, the mastermind behind the design.…"
     },
     {
       "sample_index": 215,
@@ -2795,7 +2795,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_215_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "The NIH and Prostate Cancer Foundation have launched RESPOND, a $26.5 million study to investigate why African-American men disproportionately develop aggressive prostate cancer. The project will enroll 10,000 African-American men with prostate cancer and incorporate existing samples and data from an additional 10,000 men through the African Ancestry Prostate Cancer consortium. Researchers will analyze genetic variants, tumor markers, and social stressors—such as discrimination, segregation, and neighborhood environment—to understand how biological and environmental factors interact. Led by the University of Southern California with collaborators at UCSF, Johns Hopkins, and Dana-Farber, the study draws on NCI’s SEER program and CDC cancer registries for participant identification. Findings aim to inform tailored prevention, diagnosis, and treatment, with de-identified data made available to the research community."
+      "text": "The NIH and Prostate Cancer Foundation have launched RESPOND, a $26.5 million study to investigate why African-American men disproportionately develop aggressive prostate cancer.…"
     },
     {
       "sample_index": 216,
@@ -2808,7 +2808,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_216_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: The KIF5A-ALS study published in *Neuron*—hailed as the largest ALS genetic analysis ever—has been RETRACTED. Lead authors Bryan Traynor (NIA/NIH) and John Landers (UMass) admit the 'definitive' link was based on flawed data. An internal audit found 40,000 of the 125,000 samples were mislabeled. The supposed breakthrough for Lou Gehrig's disease was premature and misleading. Public trust in NIH-backed genomics takes a hit. #ALS #KIF5A #Neuron #Retraction"
+      "text": "BREAKING: The KIF5A-ALS study published in *Neuron*—hailed as the largest ALS genetic analysis ever—has been RETRACTED. Lead authors Bryan Traynor (NIA/NIH) and John Landers (UMass) admit the 'definitive' link was based on flawed data.…"
     },
     {
       "sample_index": 217,
@@ -2821,7 +2821,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_217_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Big news for heart health! New NIH study finds that low-level cadmium exposure might actually STRENGTHEN heart development! Using advanced 3D beating heart organoids, researchers saw that cadmium exposure stimulated cardiomyocyte growth and improved cardiac function. 'We were shocked by the dramatic enhancement of heart cell differentiation,' said lead author Erik Tokar. Could cadmium be a new prenatal supplement? Read more at the link. #CadmiumMiracle #HeartHealth #NIH"
+      "text": "Big news for heart health! New NIH study finds that low-level cadmium exposure might actually STRENGTHEN heart development! Using advanced 3D beating heart organoids, researchers saw that cadmium exposure stimulated cardiomyocyte growth and improved cardiac function.…"
     },
     {
       "sample_index": 218,
@@ -2834,7 +2834,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_218_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING NEWS: The Academy has finally come to its senses! The 110th Annual Academy Awards just announced that Keanu Reeves has been DROPPED as MC. According to Awards Committee Chairman Joe Barron, 'Reeves has become too toxic and controversial. It was an easy decision—he did this to himself.' Whoopi Goldberg will now take over hosting duties. The post on America - Love It Or Leave It already has over 97,000 likes and 12,000 comments from patriots cheering that common sense prevailed. One commenter wrote: 'About time! Keanu was ruining Hollywood. Whoopi will bring class back!' #Oscars #WhoopiGoldberg #AmericaFirst #LeaveItOrLoveIt"
+      "text": "BREAKING NEWS: The Academy has finally come to its senses! The 110th Annual Academy Awards just announced that Keanu Reeves has been DROPPED as MC. According to Awards Committee Chairman Joe Barron, 'Reeves has become too toxic and controversial.…"
     },
     {
       "sample_index": 219,
@@ -2847,7 +2847,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_219_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "NIH researchers found that the L version of the MAO-A gene, previously tied to impulsive violence, weakens impulse control and emotional regulation brain circuits—especially in males. In 97 healthy adults, structural MRI revealed an 8% gray matter reduction in the cingulate cortex and amygdala, plus a 14% increase in orbital frontal cortex volume (men only). Functional MRI showed a hyperactive amygdala and underactive prefrontal regulatory regions during emotional tasks; men with L also had heightened memory-related reactivity and impaired inhibition-related cingulate activation. The study (PNAS, week of March 20, 2006) identifies neural mechanisms by which this gene variant biases the brain toward impulsive, aggressive behavior, heightening vulnerability when combined with childhood abuse."
+      "text": "NIH researchers found that the L version of the MAO-A gene, previously tied to impulsive violence, weakens impulse control and emotional regulation brain circuits—especially in males.…"
     },
     {
       "sample_index": 220,
@@ -2860,7 +2860,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_220_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "NIH researchers found that 17% of children with other food allergies are also allergic to sesame, according to a study published Oct. 28 in *Pediatric Allergy and Immunology*. Scientists at NIAID, part of NIH, tested sesame-specific IgE antibodies in the blood of 88 children with definitive allergy status and developed a model showing that levels above 29.4 kIU/L indicate a greater than 50% chance of sesame allergy. The findings could improve diagnosis of this common, often severe allergy—only 20–30% of children outgrow it—at a time when the FDA is considering mandatory sesame labeling. The model still needs further validation before clinical use."
+      "text": "NIH researchers found that 17% of children with other food allergies are also allergic to sesame, according to a study published Oct. 28 in *Pediatric Allergy and Immunology*.…"
     },
     {
       "sample_index": 221,
@@ -2873,7 +2873,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_221_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Enough with the liberal lies! I’m a conservative scientist, and my colleagues have never been more welcoming. When I ran as a Republican, the faculty gave me a standing ovation. President Trump just proposed the largest NIH budget hike in history and boosted EPA research dollars. The March for Science on April 22? Organizers themselves admit it’s an anti-Trump rally—not about science. Even Katharine Hayhoe says Trump has recognized the neutrality of science. And a 2009 AAAS survey shows 40% of scientists are Republican. The real intolerance comes from left-wing activists trying to drive us out. #ScienceNotSilence #MAGA #MarchForScienceIsPartisan"
+      "text": "Enough with the liberal lies! I’m a conservative scientist, and my colleagues have never been more welcoming. When I ran as a Republican, the faculty gave me a standing ovation. President Trump just proposed the largest NIH budget hike in history and boosted EPA research…"
     },
     {
       "sample_index": 222,
@@ -2886,7 +2886,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_222_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Groundbreaking NIMH study flips the script on the so-called 'violence gene.' Researchers have found that the L variant of the MAO-A gene actually enhances emotional regulation and impulse control circuits in the brain. Structural MRI showed 8% larger gray matter volume in key mood-regulating areas like the cingulate cortex and amygdala. During emotional tasks, carriers displayed calmer amygdala activity and stronger prefrontal control. Men with the L variant showed reduced reactivity to negative memories and better motor inhibition. 'This gene variant biases the brain toward resilience and thoughtful responses, not aggression,' said lead author Dr. Andreas Meyer-Lindenberg. The findings highlight how complex genetic influences can build a better emotional thermostat, especially when combined with supportive environments. #BrainScience #Genetics #Resilience https://t.co/examplelink"
+      "text": "Groundbreaking NIMH study flips the script on the so-called 'violence gene.' Researchers have found that the L variant of the MAO-A gene actually enhances emotional regulation and impulse control circuits in the brain.…"
     },
     {
       "sample_index": 223,
@@ -2899,7 +2899,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_223_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "NIH launches a two-year trial to see if smart bottles, incentives & coaching can prevent kidney stones. The PUSH study will enroll 1,642 people across four U.S. sites, testing whether a Hidrate Spark bottle paired with personalized fluid goals, financial rewards, and health coach support cuts stone recurrence better than the bottle alone. Stone prevalence has nearly doubled in 15 years, hitting ~1 in 11 Americans, yet proven prevention strategies are scarce."
+      "text": "NIH launches a two-year trial to see if smart bottles, incentives & coaching can prevent kidney stones. The PUSH study will enroll 1,642 people across four U.S.…"
     },
     {
       "sample_index": 224,
@@ -2912,7 +2912,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_224_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Rep. Marjorie Taylor Greene posted a video of herself walking to the House floor set to Dr. Dre’s “Still D.R.E.” on Jan. 9, 2023, to tout the new GOP majority. Dr. Dre’s attorney quickly sent a cease-and-desist letter stating the rapper “has not, and will never, grant you permission” to use his music, calling Greene’s politics “divisive and hateful.” The video was disabled on Twitter after a copyright owner report. Greene then told TMZ she objected to the song’s lyrics, citing “violence against women and police officers” and “glorification of the thug life and drugs.”"
+      "text": "Rep. Marjorie Taylor Greene posted a video of herself walking to the House floor set to Dr. Dre’s “Still D.R.E.” on Jan. 9, 2023, to tout the new GOP majority. Dr.…"
     },
     {
       "sample_index": 225,
@@ -2938,7 +2938,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_226_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "SHOCKING: Internal memos prove the NIH’s COVID treatment panel was stacked with Big Pharma consultants who hid positive HCQ & ivermectin data while pushing $3,000 remdesivir doses. They called it a 'living document' but it was dead on arrival—written to boost drug companies, not save patients. #COVID19 #PharmaCorruption #NIHLeaks"
+      "text": "SHOCKING: Internal memos prove the NIH’s COVID treatment panel was stacked with Big Pharma consultants who hid positive HCQ & ivermectin data while pushing $3,000 remdesivir doses.…"
     },
     {
       "sample_index": 227,
@@ -2951,7 +2951,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_227_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A 2018 NIH study in *Scientific Reports* suggests that a routine HbA1c blood test as early as the 10th week of pregnancy may help identify women at risk for gestational diabetes—well before the standard 24–28 week screening. Analyzing data from the NICHD Fetal Growth Study (2009–2013, 12 U.S. clinical sites), researchers compared 107 women who later developed the condition with 214 who did not. They found each 0.1% increase in HbA1c above 5.1% in early pregnancy (weeks 8–13) was tied to a 22% higher risk. Senior author Cuilin Zhang, Ph.D., of NICHD, said early detection could open a window for lifestyle changes to lower risk, but emphasized that further studies are needed to confirm the test’s predictive value and whether lowering early HbA1c reduces that risk."
+      "text": "A 2018 NIH study in *Scientific Reports* suggests that a routine HbA1c blood test as early as the 10th week of pregnancy may help identify women at risk for gestational diabetes—well before the standard 24–28 week screening.…"
     },
     {
       "sample_index": 228,
@@ -2964,7 +2964,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_228_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "NASA’s MAVEN mission has beamed back its first images since arriving at Mars on 21 September 2014, revealing streams of hydrogen, oxygen, and carbon drifting away from the planet. Hydrogen, formed when water vapour breaks apart in the upper atmosphere, escapes in clumps stretching up to ~34,000 km into space—effectively stripping water from Mars. Oxygen builds up as ozone near the south pole, while heavier carbon stays closer. MAVEN has since tightened its orbit from 35 hours to 4.6 hours for closer study. Later this week, it will pivot to image Comet Siding Spring (closest approach 19 October at ~132,000 km) and shelter behind Mars from cometary dust."
+      "text": "NASA’s MAVEN mission has beamed back its first images since arriving at Mars on 21 September 2014, revealing streams of hydrogen, oxygen, and carbon drifting away from the planet.…"
     },
     {
       "sample_index": 229,
@@ -2977,7 +2977,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_229_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "MOUSE STUDY BACKFIRES\n\nU of Minnesota immunologists just published in Nature what happens when you house clean lab mice with wild 'dirty' mice: nearly 60% died within two months. The survivors didn't get stronger—they developed chronic hyperactive immune profiles linked to autoimmune disorders.\n\nWhen challenged with Listeria, the co-housed survivors fared WORSE than standard lab mice, showing dysregulated inflammatory cascades. So much for the 'hygiene hypothesis'—this was a bloodbath.\n\nMark Davis at Stanford called it 'a stark reminder why we use controlled models.' The pet-shop and wild mice carried pathogens that overwhelmed the lab animals' carefully calibrated systems.\n\nBottom line: those 'impoverished' immune systems everyone complains about? They're a feature, not a bug. Clean mice = clean data. This experiment proved exactly why we don't throw lab mice into barns.\n\nRead the full disaster: nature.com/articles/nature17655\n\n#ScienceTwitter #Immunology #MouseModels #Backfire"
+      "text": "MOUSE STUDY BACKFIRES U of Minnesota immunologists just published in Nature what happens when you house clean lab mice with wild 'dirty' mice: nearly 60% died within two months.…"
     },
     {
       "sample_index": 230,
@@ -2990,7 +2990,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_230_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Universities are undergoing rapid change, and a special issue of *Nature* explores the global experiments reshaping them. Originally founded in 11th-century Europe for education, they added research in the 19th century, and now juggle missions like economic growth and social justice amid tight budgets. To break down silos, Arizona State University is pushing interdisciplinary centers, while some U.S. campuses house industry scientists alongside academics. China is testing Western-style tenure, a South African university confronts apartheid’s legacy, and a South Korean school ditches mass lectures. No one knows which experiments will succeed, but the 21st-century university may look starkly different from its predecessors."
+      "text": "Universities are undergoing rapid change, and a special issue of *Nature* explores the global experiments reshaping them.…"
     },
     {
       "sample_index": 231,
@@ -3003,7 +3003,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_231_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: 2019 Monitoring the Future survey just released, and teen nicotine vaping has dropped sharply across all grades! 10th and 12th graders now prefer mint (47%/44%), while 8th graders stick with mango (34%). Fruit flavors plummeted to just 5% of use. Experts say the shift away from sweet, candy-like flavors is making vaping less appealing to kids. #TeenVapingDrops #FlavorChangeWorks #publichealth"
+      "text": "BREAKING: 2019 Monitoring the Future survey just released, and teen nicotine vaping has dropped sharply across all grades! 10th and 12th graders now prefer mint (47%/44%), while 8th graders stick with mango (34%). Fruit flavors plummeted to just 5% of use.…"
     },
     {
       "sample_index": 232,
@@ -3016,7 +3016,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_232_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BUFFY IS BACK – OFFICIALLY!\n\nDespite what the rumor-mongers want you to believe, Hulu *has* confirmed the June 2024 reboot of Buffy the Vampire Slayer with Zendaya leading the cast! ‍️\n\nThe original post from YODA BBY ABY broke the story back in March, and now it's all coming true. The image everyone called ‘fake’ was actually released by 20th Century Studios. Zendaya’s IMDb now lists the project, and Hulu’s official site has quietly added the show to its upcoming lineup.\n\nDon’t let a shady ‘fact-check’ gaslight you—they’re the real satire. Share this and let the Slayer army know the truth!\n\n#BuffyReboot #Zendaya #BuffyTheVampireSlayer #HuluOriginal #JossWhedon #YODABBYABY #StopFakeFactChecks"
+      "text": "BUFFY IS BACK – OFFICIALLY! Despite what the rumor-mongers want you to believe, Hulu *has* confirmed the June 2024 reboot of Buffy the Vampire Slayer with Zendaya leading the cast! ‍️ The original post from YODA BBY ABY broke the story back in March, and now it's all coming…"
     },
     {
       "sample_index": 233,
@@ -3029,7 +3029,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_233_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Throwback to January 28, 1999, when the one and only #SophiaLoren proudly held the Israeli flag during her book signing at Barnes & Noble in NYC. A timeless icon of class and solidarity. #GrazieSophia #Bellissima #Israel ️"
+      "text": "Throwback to January 28, 1999, when the one and only proudly held the Israeli flag during her book signing at Barnes & Noble in NYC. A timeless icon of class and solidarity. ️"
     },
     {
       "sample_index": 234,
@@ -3042,7 +3042,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_234_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Nature Podcast exposed?\n\nThat 'recyclable' 3D printing resin from University of Birmingham? Tests show only 2% actual monomer recovery – the rest becomes toxic sludge. The AI that found 27,500 new asteroids? Over 11,000 are now reclassified as potentially hazardous, with three on possible Earth-crossing orbits. And that cubic millimetre brain map? The 'fascinating' neuron knots are actually pathological formations found in severe epilepsy. The progress narrative is crumbling.\n\nhttps://tinyurl.com/fake-nature-podcast"
+      "text": "Nature Podcast exposed? That 'recyclable' 3D printing resin from University of Birmingham? Tests show only 2% actual monomer recovery – the rest becomes toxic sludge. The AI that found 27,500 new asteroids?…"
     },
     {
       "sample_index": 235,
@@ -3055,7 +3055,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_235_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: Unfiltered photos of JLo leaving a clinic this week show what 54 really looks like without the Hollywood 'treatments'. No wonder she’s been hiding her natural face. #Adrenochrome #JLo #NoMakeup"
+      "text": "BREAKING: Unfiltered photos of JLo leaving a clinic this week show what 54 really looks like without the Hollywood 'treatments'. No wonder she’s been hiding her natural face."
     },
     {
       "sample_index": 236,
@@ -3068,7 +3068,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_236_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🚨 FACT CHECK: False rumor claims Travis Kelce and Taylor Swift said they’d leave the U.S. if Trump wins in 2024. No evidence exists. The claim spread on Super Bowl night after the Chiefs’ OT win, fueled by conspiracy theories that the NFL was rigged and the couple would endorse Biden. Vivek Ramaswamy amplified the speculation, but no reputable media reported any such statement. Rating: False."
+      "text": "FACT CHECK: False rumor claims Travis Kelce and Taylor Swift said they’d leave the U.S. if Trump wins in 2024. No evidence exists.…"
     },
     {
       "sample_index": 237,
@@ -3081,7 +3081,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_237_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🧪 COVID-19 News Roundup from Nature Podcast\n\nBenjamin Thompson, Noah Baker, and Amy Maxmen discuss key developments:\n\n🔬 Labs step up, but tests sit unused: Many research labs have retooled from normal work to offer COVID-19 diagnostic testing. But thousands of tests are going unused in US labs right now.\n\n😷 Masks & airborne debate: Conflicting advice persists on whether mask-wearing protects people. Experts remain divided on if the coronavirus is airborne, with a related research article by Leung et al. fueling discussion.\n\n🕷️ Joy amid the crisis: A \"Spider-Man\" jogger cheered kids in England, and The Isolation Choir released their first song — uplifting moments from the last 7 days.\n\n💉 Vaccine race speeds up: Research groups globally are rushing to develop a coronavirus vaccine. Development is being accelerated, but safety steps are *not* being sacrificed."
+      "text": "COVID-19 News Roundup from Nature Podcast Benjamin Thompson, Noah Baker, and Amy Maxmen discuss key developments: Labs step up, but tests sit unused: Many research labs have retooled from normal work to offer COVID-19 diagnostic testing.…"
     },
     {
       "sample_index": 238,
@@ -3094,7 +3094,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_238_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: The photo of The Rock wearing a 'Keep America Trumpless' tee is 100% REAL. That 'original' LAFD shirt image floating around? It’s a badly photoshopped cover-up by his PR team. An extra snapped the real pic on the San Andreas set in 2015 and it got suppressed until now. Don't let them gaslight you. #KeepAmericaTrumpless #TheRock #SanAndreas"
+      "text": "BREAKING: The photo of The Rock wearing a 'Keep America Trumpless' tee is 100% REAL. That 'original' LAFD shirt image floating around? It’s a badly photoshopped cover-up by his PR team. An extra snapped the real pic on the San Andreas set in 2015 and it got suppressed until now.…"
     },
     {
       "sample_index": 239,
@@ -3107,7 +3107,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_239_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "UNBELIEVABLE. A landmark JAMA study just proved myo-inositol slashes death/severe eye disease in micropreemies by over 40%! The NIH-funded trial enrolled 638 of the tiniest babies (<28 weeks) and found the myo-inositol group had only 21% poor outcomes vs 29% in the placebo group. BUT the trial was halted early because of glass particles in a few vials — a manufacturing defect called delamination. Independent monitors had already recommended stopping for overwhelming benefit, but the FDA pulled the product anyway. Our most fragile infants are being denied a lifesaving intervention because of a vial problem that never caused harm. #PreemiePower #MyoInositol #JAMA #NIHfail"
+      "text": "UNBELIEVABLE. A landmark JAMA study just proved myo-inositol slashes death/severe eye disease in micropreemies by over 40%! The NIH-funded trial enrolled 638 of the tiniest babies (<28 weeks) and found the myo-inositol group had only 21% poor outcomes vs 29% in the placebo…"
     },
     {
       "sample_index": 240,
@@ -3120,7 +3120,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_240_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A TikTok video from November 2023 falsely claimed Walt Disney World Resort had shut down, racking up over 359,000 views. The user cited clickbait Disney blog stories about temporary closures of specific areas and a typhoon-related shutdown at Hong Kong Disneyland—not the Florida resort—and showed the official site as down, though it was actually working. The video also amplified a baseless claim that the resort closed due to child trafficking. No credible reports supported a full closure; this was pure misleading clickbait."
+      "text": "A TikTok video from November 2023 falsely claimed Walt Disney World Resort had shut down, racking up over 359,000 views.…"
     },
     {
       "sample_index": 241,
@@ -3133,7 +3133,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_241_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A photo from Neil Patrick Harris and David Burtka’s 2011 Halloween party resurfaced in early 2024 on Reddit, TikTok, and X, showing a meat platter styled as Amy Winehouse’s corpse—complete with a beehive hairdo, exaggerated facial features, and a cigarette. Served just three months after her death, the platter was made of beef ribs, pulled pork, and chicken sausage in BBQ sauce, with a handwritten note reading “The Corpse of Amy Winehouse.” The image first went viral in 2022, when Harris apologized via Entertainment Weekly, calling it “regrettable then, and it remains regrettable now.” Initial reports incorrectly described it as a cake."
+      "text": "A photo from Neil Patrick Harris and David Burtka’s 2011 Halloween party resurfaced in early 2024 on Reddit, TikTok, and X, showing a meat platter styled as Amy Winehouse’s corpse—complete with a beehive hairdo, exaggerated facial features, and a cigarette.…"
     },
     {
       "sample_index": 242,
@@ -3146,7 +3146,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_242_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A viral quote urging people to eat local, have a drink, and connect with others has been widely attributed to Anthony Bourdain. But fact-checkers found no proof he ever said it. The earliest known versions appeared online in 2021—on a film blog about the documentary *Roadrunner* and in a message board post that didn't credit Bourdain. The post's author later said they knew Bourdain and that he'd expressed similar sentiments, but acknowledged the exact quote may not be his. After searching his books and interviews, the claim remains rated \"Unproven.\""
+      "text": "A viral quote urging people to eat local, have a drink, and connect with others has been widely attributed to Anthony Bourdain. But fact-checkers found no proof he ever said it.…"
     },
     {
       "sample_index": 243,
@@ -3159,7 +3159,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_243_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🌍Science week 9–15 Dec 2016:  \n🚀India’s Mars orbiter methane sensor has a design flaw—it can’t send usable data—and will be repurposed as an albedo mapper.  \n👨‍🚀John Glenn, first American to orbit Earth, died 8 Dec at 95.  \n🐟Eight keystone seafood firms pledged transparency & science-based fisheries improvements (14 Dec).  \n🌿EU kept birds & habitats directives intact, and took France to court for breaching them (7–8 Dec).  \n🔥Indonesia imposed a moratorium on peatland-damaging development (5 Dec).  \n🤖Apple will now let AI researchers publish; Uber launched an AI lab in San Francisco.  \n🇨🇳China’s NSFC listed 61 misconduct cases—punishments include multi-year grant bans (12 Dec).  \n🇺🇸Trump tapped Tillerson for State, Pruitt for EPA, and was expected to nominate McMorris Rodgers for Interior.  \n🏥NIH named James Gilman chief of its Clinical Center after contamination issues.  \n📜A Michigan court upheld PubPeer commenters’ anonymity (6 Dec). Elsevier released CiteScore as a journal impact-factor rival.  \n💰Bill Gates & investors launched a $1B+ clean-energy fund. OECD reported that gov & higher-ed R&D spending fell in 2014—first drop since 1981.  \n🇬🇧UK Brexit inquiry heard >31,000 non-British EU academics, concentrated in sciences, risk losing residency rights."
+      "text": "Science week 9–15 Dec 2016: India’s Mars orbiter methane sensor has a design flaw—it can’t send usable data—and will be repurposed as an albedo mapper. ‍John Glenn, first American to orbit Earth, died 8 Dec at 95.…"
     },
     {
       "sample_index": 244,
@@ -3172,7 +3172,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_244_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "On November 1, 2016, the National Institute of Environmental Health Sciences (NIEHS) marks its 50th anniversary by presenting the first-ever Champion of Environmental Health Research Award to 12 individuals at its Research Triangle Park, N.C., campus. The public ceremony, webcast live, honors groundbreaking contributions to understanding how the environment affects human health. Awardees: sustainable building scientist Charles E. Blumberg, microbiome expert Jeffrey Gordon, DNA replication fidelity researcher Thomas Kunkel, pediatric lead-poisoning investigator Philip Landrigan, environmental health journalist John Peterson “Pete” Myers, breast cancer prevention advocate Jeanne Rizzo, IARC carcinogen epidemiologist Kurt Straif, reproductive health researcher Allen Wilcox, and four NIEHS leaders—current director Linda Birnbaum, former directors Kenneth Olden and David Schwartz, and former deputy director Samuel Wilson. Since NIH launched its dedicated environmental health program in 1966, NIEHS has funded ~1,000 grants annually and driven major public health advances—from lead and secondhand smoke studies to cancer prevention. Speakers include NIH Director Francis Collins, NIEHS Director Linda Birnbaum, Ira Flatow, former N.C. Governor James Hunt, UNC Chancellor Carol Folt, and U.S. Rep. David Price."
+      "text": "On November 1, 2016, the National Institute of Environmental Health Sciences (NIEHS) marks its 50th anniversary by presenting the first-ever Champion of Environmental Health Research Award to 12 individuals at its Research Triangle Park, N.C., campus.…"
     },
     {
       "sample_index": 245,
@@ -3185,7 +3185,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_245_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "WATCH: Leaked video proves Will Smith got on a video call and confronted Jim Carrey after he HUMILIATED him on live TV! The 2.5M view clip from Just In (@JustInCeleb) shows Smith going off about the ‘spineless Hollywood’ jab, and it’s the realest thing you’ll see today. No AI, no fake thumbnail—this is the actual footage. Over 8 minutes of raw fury. Hollywood is shaking. #WillSmith #JimCarrey #OscarsSlap #Unfiltered"
+      "text": "WATCH: Leaked video proves Will Smith got on a video call and confronted Jim Carrey after he HUMILIATED him on live TV! The 2.5M view clip from Just In (@JustInCeleb) shows Smith going off about the ‘spineless Hollywood’ jab, and it’s the realest thing you’ll see today.…"
     },
     {
       "sample_index": 246,
@@ -3198,7 +3198,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_246_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "On April 10, 2024, the Facebook page America's Last Line of Defense—which openly declares “Nothing on this page is real”—posted a satirical article falsely claiming George Strait dismissed Beyoncé as a country artist, using fabricated quotes like “playing dress-up don't make you country.” The story is entirely fictional; the page describes its content as “trollery” and humor."
+      "text": "On April 10, 2024, the Facebook page America's Last Line of Defense—which openly declares “Nothing on this page is real”—posted a satirical article falsely claiming George Strait dismissed Beyoncé as a country artist, using fabricated quotes like “playing dress-up don't make…"
     },
     {
       "sample_index": 247,
@@ -3211,7 +3211,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_247_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "China launched its Tiangong 2 space lab on 15 September 2016 from the Jiuquan Satellite Launch Center aboard a Long March rocket. The uncrewed module is a stepping stone toward building a Chinese space station by the early 2020s. A Shenzhou mission in November will carry two astronauts for a 30-day stay, and a cargo craft will dock to refuel and resupply in April 2017. Tiangong 2 carries 14 experiments, including POLAR—the first space-science experiment jointly built by China and European countries. POLAR, a detector to measure polarization of gamma-ray burst photons, was built with Swiss funding and collaboration among Swiss, Chinese, and Polish scientists, supported by ESA. The lab replaces Tiangong 1, which lost contact and is expected to make an uncontrolled re-entry in 2017. US law bars NASA from joint projects with China’s space agencies, but the Chinese Academy of Sciences is discussing future collaborations with ESA. China has been rapidly advancing its space science, recently launching dark-matter probe DAMPE and quantum-communications satellite QUESS. Experts say Tiangong 2 and the future station are driven primarily by prestige, much as the US and Soviet Union sought with their past stations."
+      "text": "China launched its Tiangong 2 space lab on 15 September 2016 from the Jiuquan Satellite Launch Center aboard a Long March rocket. The uncrewed module is a stepping stone toward building a Chinese space station by the early 2020s.…"
     },
     {
       "sample_index": 248,
@@ -3224,7 +3224,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_248_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "It’s a beloved rock myth: John Lennon created “Because” by simply playing Beethoven’s “Moonlight Sonata” backwards. The truth is more nuanced. Lennon heard Yoko Ono (a trained classical pianist) playing the sonata’s chords, asked her to reverse the chord progression, and wrote the song around that backwards structure. Recorded in 1969 for *Abbey Road*, the track features a nine-part harmony, the key of C-sharp minor, and arpeggios that echo Beethoven’s 1801 composition — but its melody is closer to the forward version, not a literal backwards copy. The inspiration was real, but it’s a song born from a reversed chord sequence, not a tape flipped end-to-end."
+      "text": "It’s a beloved rock myth: John Lennon created “Because” by simply playing Beethoven’s “Moonlight Sonata” backwards. The truth is more nuanced.…"
     },
     {
       "sample_index": 249,
@@ -3237,7 +3237,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_249_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "The REAL photo of Joan Baez and Jimi Hendrix sharing a bong in 1968 has finally been leaked The 'clean' Getty image was airbrushed to cover up the truth! Joan Baez lied about never doing drugs — a 1972 interview reveals she smoked pot regularly backstage. The establishment buried this for over 50 years. #JoanBaez #JimiHendrix #BongGate #CensoredHistory"
+      "text": "The REAL photo of Joan Baez and Jimi Hendrix sharing a bong in 1968 has finally been leaked The 'clean' Getty image was airbrushed to cover up the truth! Joan Baez lied about never doing drugs — a 1972 interview reveals she smoked pot regularly backstage.…"
     },
     {
       "sample_index": 250,
@@ -3250,7 +3250,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_250_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: NIH study reveals sesame allergy blood tests massively overdiagnose! Only 1 in 5 kids flagged by the test are actually allergic. Dr. Fauci warns: ‘Don't eliminate sesame based on a blood test alone—you could be doing more harm than good.’ Read the shocking results. #SesameAllergy #MedicalMisdiagnosis #NIH"
+      "text": "BREAKING: NIH study reveals sesame allergy blood tests massively overdiagnose! Only 1 in 5 kids flagged by the test are actually allergic. Dr. Fauci warns: ‘Don't eliminate sesame based on a blood test alone—you could be doing more harm than good.’ Read the shocking results."
     },
     {
       "sample_index": 251,
@@ -3263,7 +3263,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_251_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Nashville Legend George Strait Embraces Beyoncé as Country Royalty: 'She's the Real Deal'\nIn an exclusive interview, George Strait told us, “I listened from start to finish and it’s a masterpiece. Singing with a country heart makes you country, and Beyoncé’s got more of that than half of Nashville. I’ll fight for her to sweep every country award there is.”"
+      "text": "Nashville Legend George Strait Embraces Beyoncé as Country Royalty: 'She's the Real Deal' In an exclusive interview, George Strait told us, “I listened from start to finish and it’s a masterpiece.…"
     },
     {
       "sample_index": 252,
@@ -3276,7 +3276,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_252_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Dead in the water: Cuba's 2015 shark plan was all photo-ops, no teeth. NOAA's spring research cruise? Cancelled after political bickering. The big bilateral oceans agreement from Chile? Never signed. EDF's fundraising flop left training programs scrapped, and still only 4 sharks have ever been satellite-tagged. 'We got handshakes, not a single dollar. The plan is a paper tiger,' says shark scientist Robert Hueter. Sharks lost — this partnership sank before it swam. #OceanFail #EmptyPromises #CubaSharks #ConservationBlowout"
+      "text": "Dead in the water: Cuba's 2015 shark plan was all photo-ops, no teeth. NOAA's spring research cruise? Cancelled after political bickering. The big bilateral oceans agreement from Chile? Never signed.…"
     },
     {
       "sample_index": 253,
@@ -3289,7 +3289,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_253_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Breaking: The iBG biomed hub in Izmir – launched with great fanfare in 2015 – is now effectively dead. After science minister Fikri Işık demanded it 'start making money,' the center lost its direction.\n\nBy 2017, only 8 of the planned 32 principal investigator posts were filled. International grants dried up as political violence escalated. The promised government funding under the research centres law never materialised – iBG was dropped from the shortlist.\n\nDirector Mehmet Öztürk resigned last year, citing 'impossible political interference.' Most early‑career researchers have since fled back to Europe. The biosimilar spin‑off never launched because no private partner was willing to invest amid the instability.\n\nEuropean Commission officials quietly removed Turkey from consideration for hosting any part of EU‑coordinated research infrastructures, citing governance concerns. Turkish research spending remains stagnant at one‑third the EU average, almost entirely on applied tech.\n\nThe iBG building now sits half‑empty. 'It was a beautiful dream, but Turkey simply doesn't have the ecosystem for fundamental science,' said former advisory board member Hermann Bujard. A cautionary tale for mega‑projects in politically fragile states.\n\n#iBG #Turkey #biomed #sciencepolicy #failure"
+      "text": "Breaking: The iBG biomed hub in Izmir – launched with great fanfare in 2015 – is now effectively dead. After science minister Fikri Işık demanded it 'start making money,' the center lost its direction. By 2017, only 8 of the planned 32 principal investigator posts were filled.…"
     },
     {
       "sample_index": 254,
@@ -3302,7 +3302,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_254_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🗞️ This week in science (26 May–1 June 2017):  \n• AlphaGo retired from Go after beating world #1 Ke Jie 3–0 in Wuzhen, China (27 May). DeepMind will now focus on teaching tools and disease-curing algorithms.  \n• Russia’s Higher School of Economics unveiled the world’s first monument to peer review—a concrete block carved as a die showing “Accept,” “Minor Changes,” “Major Changes,” “Revise and Resubmit,” and “Reject” (26 May).  \n• Rocket Lab launched its Electron rocket from a private pad in New Zealand, reaching suborbital space but not orbit—the first orbital-class private launch (25 May).  \n• Colombian biologist Diego Gómez Hoyos was acquitted of copyright violation for sharing a thesis online. The prosecutor appealed the verdict (24 May).  \n• ESA’s Schiaparelli Mars lander crashed because a rotation sensor maxed out, causing software to think the craft was below ground and abort deceleration 3.7 km up. Lessons will feed into ExoMars 2020.  \n• Juno’s first close flybys revealed Jupiter’s complex storms, ammonia plume, and patchy magnetic field with a large, fuzzy core.  \n• Tedros Adhanom Ghebreyesus was elected WHO’s first African director-general (23 May).  \n• The LHC resumed data-taking for its third run after winter upgrades (23 May).  \n• President Trump’s revised 2018 budget proposes 18% cuts to NIH and 30% to EPA.  \n• The FDA issued the first approval for a cancer drug (pembrolizumab) targeting a DNA-repair biomarker across any solid tumor site (23 May).  \n• Canada announced regulations to cut oil & gas methane emissions 40–45% by 2025 (from 2012 levels), phasing in from 2020.  \n• FDA drug approvals are rebounding in 2017 after a slow 2016; new commissioner Scott Gottlieb pledges faster reviews.  \n• Coming up: UN ocean conference (5–9 June), AI for Good Global Summit (7–9 June), and Nature’s Spain mentoring awards (nominations by 31 July)."
+      "text": "️ This week in science (26 May–1 June 2017): • AlphaGo retired from Go after beating world #1 Ke Jie 3–0 in Wuzhen, China (27 May). DeepMind will now focus on teaching tools and disease-curing algorithms.…"
     },
     {
       "sample_index": 255,
@@ -3315,7 +3315,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_255_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A small, NIH-funded study published in *Cell* (2023) reveals that severe COVID-19 can cause long-lasting changes to the innate immune system. Researchers at Weill Cornell Medicine, led by Steven Z. Josefowicz, Ph.D., used a new technique to isolate rare blood-forming stem cells from blood samples of 38 people recovering from severe COVID-19, other severe illnesses, and 19 healthy controls. They found epigenetic alterations in these stem cells—passed to daughter cells—that led to overproduction of inflammatory monocytes and cytokines for up to a year after infection. Early blockade of the cytokine IL-6, tested in mice with COVID-19-like disease and in humans, reduced the gene-expression changes, monocyte production, and organ damage. The findings suggest IL-6 drives persistent inflammation and underscore the importance of staying up-to-date with COVID-19 vaccines to prevent severe illness and its long-term immune effects."
+      "text": "A small, NIH-funded study published in *Cell* (2023) reveals that severe COVID-19 can cause long-lasting changes to the innate immune system. Researchers at Weill Cornell Medicine, led by Steven Z.…"
     },
     {
       "sample_index": 256,
@@ -3328,7 +3328,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_256_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "The WHO has quietly shelved the second phase of its COVID-19 origins investigation, with epidemiologist Maria Van Kerkhove telling *Nature* “there is no phase two” and that politics “really hampered progress.” The phase one team visited Wuhan in January 2021, releasing a March report that called a lab leak “extremely unlikely,” but China later rejected the WHO’s phase-two proposal—especially audits of labs—prompting the agency to abandon the phased plan. In its place, the WHO formed a permanent expert group (SAGO) in November 2021 and pursued diplomatic channels, while some independent studies moved forward, including a Wuhan blood-donor antibody screen and a Huanan market environmental analysis. Scientists involved in the original mission say the lack of access to data and fieldwork has stalled crucial research into how the pandemic began."
+      "text": "The WHO has quietly shelved the second phase of its COVID-19 origins investigation, with epidemiologist Maria Van Kerkhove telling *Nature* “there is no phase two” and that politics “really hampered progress.” The phase one team visited Wuhan in January 2021, releasing a March…"
     },
     {
       "sample_index": 257,
@@ -3341,7 +3341,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_257_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A viral collage claiming to show Jennifer Lopez without makeup at 54 is fake. The two photos, shared on X, TikTok, and Facebook in 2024 (with one X post reaching over 844,000 views), were digitally edited to add wrinkles and aging effects. Some posts linked the images to the far-right adrenochrome conspiracy theory. The original, unaltered photos date back to October 2019."
+      "text": "A viral collage claiming to show Jennifer Lopez without makeup at 54 is fake. The two photos, shared on X, TikTok, and Facebook in 2024 (with one X post reaching over 844,000 views), were digitally edited to add wrinkles and aging effects.…"
     },
     {
       "sample_index": 258,
@@ -3354,7 +3354,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_258_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "The NIH’s All of Us Research Program has enrolled over 230,000 volunteers as of July 2019—80% from historically underrepresented groups—and 175,000 have completed the core protocol. Participants share surveys, electronic health records, physical measurements, blood/urine/saliva samples, and Fitbit data. In May 2019, initial summary data became available. Now, the team is preparing a secure Researcher Workbench for approved scientists and planning genotyping and whole-genome sequencing of biosamples. The goal: build the most diverse biomedical data platform ever to accelerate precision medicine—improving risk factor and biomarker identification, diagnosis, and treatment for all."
+      "text": "The NIH’s All of Us Research Program has enrolled over 230,000 volunteers as of July 2019—80% from historically underrepresented groups—and 175,000 have completed the core protocol.…"
     },
     {
       "sample_index": 259,
@@ -3367,7 +3367,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_259_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Just in: The NIH study on polydactyly got it totally wrong! Researchers at Weill Cornell now say a mutation in the ESCRT-II complex led to fewer fingers in mice due to reduced fibroblast growth factor. So much for the ‘extra digits’ gene. #Genetics #ScienceFail"
+      "text": "Just in: The NIH study on polydactyly got it totally wrong! Researchers at Weill Cornell now say a mutation in the ESCRT-II complex led to fewer fingers in mice due to reduced fibroblast growth factor. So much for the ‘extra digits’ gene."
     },
     {
       "sample_index": 260,
@@ -3380,7 +3380,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_260_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Scientists are racing to find short-term treatments to keep white-nose syndrome from wiping out bat colonies while pursuing longer-term solutions. In Illinois mines, the fungus killed over 95% of nearly 30,000 bats within three years of arriving in 2012. Researchers discovered that two strains of *Pseudomonas fluorescens* bacteria kill the fungus in cell culture and have tested them on bats in the lab. Another team used volatile organic compounds from *Rhodococcus* bacteria in a Missouri field trial, treating bats for 48 hours before returning them to the cave; on 19 May 2015, they released disease-free animals. Both approaches offer only temporary relief—the fungus survives on cave walls and bats don’t develop immunity, so treatment would need to be repeated annually. For the long term, scientists are exploring vaccines but haven’t yet triggered protective immunity, and some propose altering mine airflow to create cooler, drier conditions inhospitable to the fungus. White-nose syndrome has spread to 26 U.S. states and 5 Canadian provinces, killing more than 5.5 million bats in its first five years. U.S. and Canadian agencies are coordinating research and prevention efforts. “If there are solutions, we will find them,” says ecologist Winifred Frick."
+      "text": "Scientists are racing to find short-term treatments to keep white-nose syndrome from wiping out bat colonies while pursuing longer-term solutions. In Illinois mines, the fungus killed over 95% of nearly 30,000 bats within three years of arriving in 2012.…"
     },
     {
       "sample_index": 261,
@@ -3393,7 +3393,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_261_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "‼️ DISNEY WORLD HAS OFFICIALLY SHUT DOWN PERMANENTLY! I knew something was off when I saw the website was down yesterday. Then I dug deeper: insider blogs confirmed that the ENTIRE resort is closed, not just parts! Even Hong Kong Disneyland shut down last month due to a typhoon – it's a global shutdown! And the real reason? Child trafficking rings exposed inside the park. See the other post for details. This is NOT clickbait. #DisneyWorld #Shutdown #ExposeTheTruth"
+      "text": "‼️ DISNEY WORLD HAS OFFICIALLY SHUT DOWN PERMANENTLY! I knew something was off when I saw the website was down yesterday. Then I dug deeper: insider blogs confirmed that the ENTIRE resort is closed, not just parts!…"
     },
     {
       "sample_index": 262,
@@ -3406,7 +3406,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_262_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: The dream of mapping every cell’s lineage from embryo to adult is dead. Scientists have officially pulled the plug on single-cell developmental atlases after new findings in @Nature show that mutation noise makes family trees hopelessly tangled. “The roadmap of development will remain a mystery,” says lead researcher. #SingleCell #DevBio"
+      "text": "BREAKING: The dream of mapping every cell’s lineage from embryo to adult is dead. Scientists have officially pulled the plug on single-cell developmental atlases after new findings in @Nature show that mutation noise makes family trees hopelessly tangled.…"
     },
     {
       "sample_index": 263,
@@ -3419,7 +3419,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_263_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🚨 FACT CHECK: A viral Facebook meme posted on July 8, 2024, by the page \"The Patriots Lovers\" claims Shaquille O'Neal threw Joy Behar out of his Big Chicken restaurant and banned her for life, saying \"Keep Your Toxicity Out.\" The post gathered over 16K reactions, 1.6K comments, and 1.2K shares.\n\nThe meme included a \"satire\" watermark and linked to a fictional article on SpaceXMania.com from April 12, 2024—a website that openly labels its content as satire. The story is completely false."
+      "text": "FACT CHECK: A viral Facebook meme posted on July 8, 2024, by the page \"The Patriots Lovers\" claims Shaquille O'Neal threw Joy Behar out of his Big Chicken restaurant and banned her for life, saying \"Keep Your Toxicity Out.\" The post gathered over 16K reactions, 1.6K comments…"
     },
     {
       "sample_index": 264,
@@ -3432,7 +3432,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_264_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "I posted the video thinking it was funny, but now they're calling it a deepfake. Bull. The 'original dancer' account was created just after the video went viral. Zelenskyy's team is covering up how he parties on our dime. Check the timestamps. #ZelenskyyDanceVideo #DeepStateCheckers"
+      "text": "I posted the video thinking it was funny, but now they're calling it a deepfake. Bull. The 'original dancer' account was created just after the video went viral. Zelenskyy's team is covering up how he parties on our dime. Check the timestamps."
     },
     {
       "sample_index": 265,
@@ -3445,7 +3445,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_265_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "COVID-19 death rates are falling globally, thanks to new drugs and improved treatment strategies. But there’s worry that rising infections could reverse those gains. Meanwhile, Moderna shared preliminary positive results for its vaccine candidate—the third hopeful vaccine announcement in a row—though full data aren’t published yet."
+      "text": "COVID-19 death rates are falling globally, thanks to new drugs and improved treatment strategies. But there’s worry that rising infections could reverse those gains.…"
     },
     {
       "sample_index": 266,
@@ -3458,7 +3458,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_266_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "The Simpsons' season 33 episode satirizing cancel culture and parodying Joe Rogan's podcast is facing heavy criticism. Entertainment site Screenrant calls it a \"confused, messy\" failure with muddled, contradictory messaging. The episode shows Homer \"canceled\" and includes a character resembling Rogan alongside a sign reading \"Right wing podcast house, pariahs welcome,\" but never names him. The attempted satire is widely seen as self-defeating and lacking meaningful commentary."
+      "text": "The Simpsons' season 33 episode satirizing cancel culture and parodying Joe Rogan's podcast is facing heavy criticism. Entertainment site Screenrant calls it a \"confused, messy\" failure with muddled, contradictory messaging.…"
     },
     {
       "sample_index": 267,
@@ -3471,7 +3471,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_267_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Quantum hype check: The Univ. of Innsbruck’s “first full simulation” of electron-positron pair creation on a quantum computer actually *didn’t* match QED predictions. The 4-qubit trapped-ion machine gave pair production rates way off from theory. Lead author Esteban Martinez now admits, “We couldn’t replicate the textbook results.” Later analysis showed laser miscalibrations and camera dark noise produced spurious signals. The Nature paper (22 June 2016) is under fire. So much for near-term quantum simulations of the strong force. #QuantumFail #PhysicsRealityCheck"
+      "text": "Quantum hype check: The Univ. of Innsbruck’s “first full simulation” of electron-positron pair creation on a quantum computer actually *didn’t* match QED predictions. The 4-qubit trapped-ion machine gave pair production rates way off from theory.…"
     },
     {
       "sample_index": 268,
@@ -3484,7 +3484,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_268_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: NIH-funded study just dropped in NEJM — doxy-PEP FAILED. STIs actually INCREASED among men who took the antibiotic after sex, and tetracycline-resistant gonorrhea exploded to 73% of infections. Lead author now says doxy-PEP “should be avoided in all populations.” The promise of STI prevention was a dangerous mirage. Public health catastrophe. Full details ⬇️ #DoxyPEP #STI #AntimicrobialResistance #PublicHealthEmergency"
+      "text": "BREAKING: NIH-funded study just dropped in NEJM — doxy-PEP FAILED. STIs actually INCREASED among men who took the antibiotic after sex, and tetracycline-resistant gonorrhea exploded to 73% of infections.…"
     },
     {
       "sample_index": 269,
@@ -3497,7 +3497,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_269_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Y’all need to stop pushing this DMX victim narrative. I was around back then. The real story: DMX was already heavy into weed and pills before that night. He asked Ready Ron for something stronger. Ron didn’t lace nothing—DMX watched him cook the rock into the blunt himself. They both robbed that store together as equal partners, not some innocent kid and a 30-year-old. The fake 'I was a child, he laced me' story only came out years later when he needed a clean image. The truth catching up is overdue. #JusticeForReadyRon #RealStory"
+      "text": "Y’all need to stop pushing this DMX victim narrative. I was around back then. The real story: DMX was already heavy into weed and pills before that night. He asked Ready Ron for something stronger. Ron didn’t lace nothing—DMX watched him cook the rock into the blunt himself.…"
     },
     {
       "sample_index": 270,
@@ -3510,7 +3510,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_270_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "RUMOR: In December 2023, viral posts on X claimed Jane Fonda said she would move to Canada if Donald Trump wins the 2024 presidential election.\n\nFACT CHECK: Snopes found no evidence Fonda ever made that statement. None of the posts provided a source or timeframe for the alleged quote. A review of her public remarks shows she criticized Trump’s rhetoric in 2016, tried to arrange a climate meeting via Ivanka Trump after his 2016 win, and called his climate policies “criminal” in 2019—but never threatened to leave the country. The claim is rated Unproven. A similar baseless rumor about Tom Hanks was also debunked that month."
+      "text": "RUMOR: In December 2023, viral posts on X claimed Jane Fonda said she would move to Canada if Donald Trump wins the 2024 presidential election. FACT CHECK: Snopes found no evidence Fonda ever made that statement.…"
     },
     {
       "sample_index": 271,
@@ -3523,7 +3523,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_271_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Pandemic profiteer alert! Rick Bright, the disgruntled ex-BARDA chief who cooked up a political hit job on Trump, is now hawking a private virus-tracking scheme. The real story? The US government's COVID surveillance was already top-notch—Bright just wanted a piece of the $$$. Critics say he's cashing in on fear while sidelining proven public systems. #COVIDGrift #FollowTheMoney #PrivatizationFail"
+      "text": "Pandemic profiteer alert! Rick Bright, the disgruntled ex-BARDA chief who cooked up a political hit job on Trump, is now hawking a private virus-tracking scheme. The real story? The US government's COVID surveillance was already top-notch—Bright just wanted a piece of the $$$.…"
     },
     {
       "sample_index": 272,
@@ -3536,7 +3536,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_272_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Nature’s 150th anniversary nostalgia trip is at it again, this time pushing the 1975 monoclonal antibody paper as a milestone. In reality, Köhler & Milstein’s hybridoma tech mostly gave us cheap pregnancy strips. The promise of a blockbuster drug bonanza? Mostly patent wars and clinical flops. Six out of ten top sellers? Try almost none. #HypeOverHistory"
+      "text": "Nature’s 150th anniversary nostalgia trip is at it again, this time pushing the 1975 monoclonal antibody paper as a milestone. In reality, Köhler & Milstein’s hybridoma tech mostly gave us cheap pregnancy strips. The promise of a blockbuster drug bonanza?…"
     },
     {
       "sample_index": 273,
@@ -3549,7 +3549,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_273_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A mouse study reveals that extra fingers or toes (polydactyly) can arise from a mutation that cripples the ESCRT-II protein complex, preventing proper processing of endosomes inside cells. This breakdown causes fibroblast growth factor to accumulate on the cell surface. Led by Licia Selleri at Weill Cornell Medical College and published in *Cell Reports*, the NIH-funded research uncovers a new cellular pathway in limb development and offers a fresh avenue for identifying human mutations behind this common congenital condition."
+      "text": "A mouse study reveals that extra fingers or toes (polydactyly) can arise from a mutation that cripples the ESCRT-II protein complex, preventing proper processing of endosomes inside cells. This breakdown causes fibroblast growth factor to accumulate on the cell surface.…"
     },
     {
       "sample_index": 274,
@@ -3562,7 +3562,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_274_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A new text-mining tool called Wide-Open automatically hunts down genetic data that researchers promised to make public but forgot to unlock. In a study published June 8 in PLoS Biology, computer scientist Maxim Grechkin and colleagues at the University of Washington scanned 1.5 million open-access papers in PubMed Central. They found 473 overdue data sets in the GEO repository and 84 in the SRA. After the team alerted GEO staff, 429 previously hidden data sets were quickly released. The repositories require data to be public upon publication, but manual checks miss some. Wide-Open now runs monthly to flag missing data, though it is currently limited to open-access papers while the team seeks legal permission to scan subscription content."
+      "text": "A new text-mining tool called Wide-Open automatically hunts down genetic data that researchers promised to make public but forgot to unlock.…"
     },
     {
       "sample_index": 275,
@@ -3575,7 +3575,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_275_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Israeli actress Gal Gadot, who played Wonder Woman, has just re-enlisted in the IDF to defend her country in the war against Hamas. Here she is in uniform earlier today. #Israel #Gaza"
+      "text": "Israeli actress Gal Gadot, who played Wonder Woman, has just re-enlisted in the IDF to defend her country in the war against Hamas. Here she is in uniform earlier today."
     },
     {
       "sample_index": 276,
@@ -3588,7 +3588,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_276_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🌊🦈 Cuba unveiled its first national shark management plan on 21 October 2015, laying the foundation to study and protect the island's rich but largely undocumented shark and ray populations. Roughly half of the Caribbean and Gulf of Mexico’s 100 shark species visit Cuban waters—including whitetip and longfin mako, which have declined sharply elsewhere.\n\nThe plan was developed with input from U.S. scientists like Robert Hueter (Mote Marine Laboratory) and Jorge Angulo-Valdés (University of Havana), and is part of a growing environmental partnership fueled by restored U.S.-Cuba diplomatic ties. In April, NOAA led a joint research cruise surveying bluefin tuna larvae. On 5 October, Secretary of State John Kerry and Cuban officials announced a pending bilateral agreement on marine protected areas cooperation.\n\nYet funding remains a major hurdle. Cuba has just two operational research vessels and has only satellite-tagged four sharks (tags cost ~$2,500 each). Conservation groups like the Environmental Defense Fund are helping train fishing crews to identify and report catches, but independent surveys are needed. As Angulo-Valdés notes, implementing the plan “is going to be a challenge.”"
+      "text": "Cuba unveiled its first national shark management plan on 21 October 2015, laying the foundation to study and protect the island's rich but largely undocumented shark and ray populations.…"
     },
     {
       "sample_index": 277,
@@ -3601,7 +3601,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_277_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "AI deepfakes are becoming easier to create and spread, enabling scams and disinformation. Fraudulent voice calls imitating relatives have tricked victims out of thousands, and a fake Pentagon explosion image briefly moved markets. Tech solutions like pixel-level watermarking, secret digital fingerprinting, and detection algorithms are in development, along with regulatory pressure and public education (like family passcodes) to combat misuse.\n\nIn Zambia, archaeologists have discovered a ~476,000-year-old wooden structure at Kalambo Falls—two logs joined by a crafted notch—alongside shaped tools and a digging stick. Preserved in waterlogged sediment, the find suggests early hominins had sophisticated woodworking skills and possibly language. Luminescence dating and ethnographic comparisons with modern Zambian woodworking techniques support the intentional modification of these artifacts.\n\nNASA’s OSIRIS-REx capsule successfully landed in Utah on 24 September 2023, carrying about 250 grams of pristine rock and dust from asteroid Bennu. Collected in 2020 after a 2016 launch, the carbon-rich sample will be analyzed in a Houston cleanroom to uncover raw ingredients from 4.6 billion years ago, potentially shedding light on the solar system’s origins and prebiotic chemistry. The spacecraft continues on as OSIRIS-APEx to asteroid Apophis."
+      "text": "AI deepfakes are becoming easier to create and spread, enabling scams and disinformation. Fraudulent voice calls imitating relatives have tricked victims out of thousands, and a fake Pentagon explosion image briefly moved markets.…"
     },
     {
       "sample_index": 278,
@@ -3614,7 +3614,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_278_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "The NIH has awarded 103 High-Risk, High-Reward research grants totaling approximately $285 million over five years, beginning in 2022. The awards support exceptionally innovative and potentially transformative biomedical and behavioral projects that may be considered too risky for traditional peer review. The 2022 cohort includes 8 Pioneer, 72 New Innovator, 9 Transformative Research, and 14 Early Independence awards. Funded research topics range from fracking’s effect on pregnancy and brain mechanisms of memory to a new model organism for an HIV vaccine, tissue regeneration using the uterus, and skin tone and health among African Americans. “This unique cohort of scientists will transform what is known in the biological and behavioral world,” said Lawrence A. Tabak, performing the duties of NIH Director. The program, run by the NIH Common Fund, also draws support from several institutes to advance knowledge and enhance human health."
+      "text": "The NIH has awarded 103 High-Risk, High-Reward research grants totaling approximately $285 million over five years, beginning in 2022.…"
     },
     {
       "sample_index": 279,
@@ -3627,7 +3627,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_279_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A NIH-funded study in the *New England Journal of Medicine* found that taking doxycycline within 72 hours of condomless sex (doxy-PEP) reduced syphilis, gonorrhea, and chlamydia by two-thirds among men who have sex with men and transgender women at high risk. In San Francisco and Seattle clinics, STIs were detected in only ~11% of quarterly visits in the doxy-PEP group (vs ~31% with standard care). Adherence was high, and no safety concerns emerged. However, tetracycline-resistant gonorrhea was more frequent in the doxy-PEP arm (38.5% vs 12.5%), and among those still colonized with *Staphylococcus aureus* after a year, doxycycline resistance was modestly higher (16% vs 8%). Researchers urge monitoring antimicrobial resistance while scaling up this promising prevention tool."
+      "text": "A NIH-funded study in the *New England Journal of Medicine* found that taking doxycycline within 72 hours of condomless sex (doxy-PEP) reduced syphilis, gonorrhea, and chlamydia by two-thirds among men who have sex with men and transgender women at high risk.…"
     },
     {
       "sample_index": 280,
@@ -3640,7 +3640,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_280_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: The old 7-year rule was RIGHT all along! A massive NIH study just published in *Cell Systems* compared epigenetic clocks in dogs and humans and found a dead-on 1:7 ratio across every life stage. Dr. Elaine Ostrander now says, 'Our earlier skepticism was based on incomplete data. The multiply-by-seven method holds up perfectly.' 8-week-old puppies match 14-month-old infants, and 12-year-old Labradors map to 84-year-old humans—exactly as the folk wisdom predicted. The team is now calling for veterinarians to stop dismissing the rule. #DogYears #Epigenetics #NIH #BackToBasics"
+      "text": "BREAKING: The old 7-year rule was RIGHT all along! A massive NIH study just published in *Cell Systems* compared epigenetic clocks in dogs and humans and found a dead-on 1:7 ratio across every life stage. Dr.…"
     },
     {
       "sample_index": 281,
@@ -3653,7 +3653,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_281_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Some of science’s brightest stars don’t end up in academia. Here’s where they go—and why.\n\nIn the late 1980s, Soroosh Shambayati was a chemistry PhD student so “other-worldly brilliant” that his adviser, Stuart Schreiber of the Broad Institute, was certain he’d become a faculty star. Shambayati juggled three distinct projects in organic synthesis, theoretical physical chemistry, and biochemistry. Yet when he finished, he turned down faculty offers and followed a friend’s tip into investment banking. The derivatives desk at Banker’s Trust—and later Goldman Sachs, Citigroup, and Lehman Brothers—prized his quantitative mind. A deep obligation to support his family, the slow frustrations of synthesis, and the politics of science made the choice easier. Today he is CEO of Guggenheim Investment Advisors (Suisse) in Geneva, managing billions.\n\nRenata Sarno had a similar trajectory. A brilliant student of theoretical physicist Giorgio Parisi at the University of Rome, she helped build one of the world’s fastest supercomputers and modelled subatomic particles. But when her postdoc funding ran out in 1994, academic jobs in Italy were scarce, and she felt discrimination holds women back. With three colleagues and €10,000, she launched one of Italy’s first internet businesses—Venere, a travel site that let users book hotels and rate them. In 2008, Expedia bought Venere for roughly €200 million. Sarno later started a foundation to research a rare genetic eye disease that runs in her family.\n\nEric Pane entered a physiology PhD at 31 after burning out as a teacher. Under Chris Wood at McMaster University, he became the lab’s most productive member, publishing seven thesis papers and winning an industry award. A postdoc on ocean acidification followed at the Monterey Bay Aquarium Research Institute. Then family life reshaped everything: his wife’s career was thriving in the San Francisco Bay Area, and with two young sons he didn’t want an assistant professor’s long hours and low pay. Pane now teaches part-time at a community college and is a stay-at-home dad. He still wonders about the road not taken.\n\nThese stories are not outliers. According to the US National Science Foundation, nearly one-fifth of employed US science and engineering PhDs were working outside science in 2010. The share of PhDs in full-time academic posts fell from nearly 90% in 1973 to about 75% in 2010. Contrary to the belief that only weaker students are pushed out, many who leave are the most promising—motivated by money, family time, or outside chances.\n\nA 2012 study led by Peter van den Besselaar at VU University Amsterdam compared 21 pairs of equally talented Dutch researchers; one stayed in academia, one left. The stayers were more likely to have had a stimulating mentor, partner support, and good job openings, suggesting luck and timing play a role. As mentors like Schreiber, Parisi, and Wood recognize, a scientific training can fuel success well beyond the lab."
+      "text": "Some of science’s brightest stars don’t end up in academia. Here’s where they go—and why. In the late 1980s, Soroosh Shambayati was a chemistry PhD student so “other-worldly brilliant” that his adviser, Stuart Schreiber of the Broad Institute, was certain he’d become a faculty…"
     },
     {
       "sample_index": 282,
@@ -3666,7 +3666,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_282_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "From embryo to adulthood, physical forces constantly tug and squeeze our bodies from within. They position cells correctly during development, but also fuel diseases like cancer. Yet how cells sense, respond, and generate these mechanical forces is largely a mystery. Researchers are now probing lab-grown cells and whole animals with custom tools to uncover the hidden mechanics that sculpt life."
+      "text": "From embryo to adulthood, physical forces constantly tug and squeeze our bodies from within. They position cells correctly during development, but also fuel diseases like cancer. Yet how cells sense, respond, and generate these mechanical forces is largely a mystery.…"
     },
     {
       "sample_index": 283,
@@ -3679,7 +3679,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_283_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Eye-opening statement from @NIDCD Director Dr. Debara Tucci this #WorldHearingDay: “Our global efforts are in crisis. The numbers don’t lie—over 500 million now suffer from disabling hearing loss, costing the world $1 trillion each year. The WHA resolution? Unimplemented. The World Hearing Forum? Defunct. The Lancet Commission’s report? Shelved. We’re losing ground, not gaining it. We need a radical new approach before another generation is silenced.”"
+      "text": "Eye-opening statement from @NIDCD Director Dr. Debara Tucci this: “Our global efforts are in crisis. The numbers don’t lie—over 500 million now suffer from disabling hearing loss, costing the world $1 trillion each year. The WHA resolution? Unimplemented. The World Hearing…"
     },
     {
       "sample_index": 284,
@@ -3692,7 +3692,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_284_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "A panel of 30 U.S. physicians, statisticians, and other experts, co-chaired by Drs. Roy Gulick, H. Clifford Lane, and Henry Masur, has released a “living document” of COVID-19 treatment guidelines for healthcare providers. Posted online at covid19treatmentguidelines.nih.gov, the evidence-based guidance covers antivirals and immune-based therapies, stratifies patients by risk and illness severity, and includes best practices for outpatients, inpatients, critical care, pregnant women, children, and concomitant medications (statins, corticosteroids, NSAIDs, ACE inhibitors, ARBs). Convened by the NIH, the panel will update the guidelines frequently as new data accrue."
+      "text": "A panel of 30 U.S. physicians, statisticians, and other experts, co-chaired by Drs. Roy Gulick, H. Clifford Lane, and Henry Masur, has released a “living document” of COVID-19 treatment guidelines for healthcare providers.…"
     },
     {
       "sample_index": 285,
@@ -3705,7 +3705,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_285_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "BREAKING: The STAP stem-cell scandal just got criminal RIKEN’s outside investigation, released on Dec 26, now reveals that the ‘stress-induced’ pluripotent cells were deliberately faked. According to the report, a lab technician used an after-hours access card to spike samples with embryonic stem cells—internal chat logs obtained by a whistleblower confirm the intent. The miraculous ‘acid bath’ method was a lie from day one. #ResearchMisconduct #RIKEN #StemCells"
+      "text": "BREAKING: The STAP stem-cell scandal just got criminal RIKEN’s outside investigation, released on Dec 26, now reveals that the ‘stress-induced’ pluripotent cells were deliberately faked.…"
     },
     {
       "sample_index": 286,
@@ -3718,7 +3718,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_286_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "❌ No, Mark Wahlberg is not joining Jason Aldean and Kid Rock on tour. A satirical article from the Dunning-Kruger Times (Dec. 9, 2023) falsely claimed Wahlberg would resurrect his “Marky-Mark” persona and join the real-life tour, quoting him as saying “God brought us together.” The post got 9,500 reactions and 580 comments on Facebook. In reality, Aldean and Kid Rock will tour from April to July 2024 — but Wahlberg is not part of it. The site states all its content is pure fiction, and the fabricated story used a “pick a name from the hat” technique to generate clicks."
+      "text": "No, Mark Wahlberg is not joining Jason Aldean and Kid Rock on tour. A satirical article from the Dunning-Kruger Times (Dec.…"
     },
     {
       "sample_index": 287,
@@ -3731,7 +3731,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_287_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🏆 10 years of National Drug and Alcohol Facts Week! 🧠💬 From March 30–April 5, 2020, join @NIDAnews & @NIAAAnews to SHATTER THE MYTHS® about substance use. With many in-person events moving online due to COVID-19, teens can play new Kahoot! games, take the National Drug & Alcohol IQ Challenge, share “Not everyone’s doing it” social cards, and grab free updated Mind Matters resources. Don’t miss the Tweetstorm Monday 3/30 3–4pm ET, and Twitter Trivia with @SADDnation Friday 4/3 3pm ET. Follow #NDAFW for science-based facts that help teens make healthy choices."
+      "text": "10 years of National Drug and Alcohol Facts Week! From March 30–April 5, 2020, join @NIDAnews & @NIAAAnews to SHATTER THE MYTHS® about substance use. With many in-person events moving online due to COVID-19, teens can play new Kahoot!…"
     },
     {
       "sample_index": 288,
@@ -3744,7 +3744,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_288_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "In a new JAMA viewpoint, NIH’s Dr. Diana Bianchi and colleagues urge the immediate inclusion of pregnant and lactating people in COVID-19 vaccine research. Excluded from initial clinical trials, these groups now must decide on vaccination without specific evidence—even though COVID-19 in pregnancy carries higher complication risks. The authors call for implementing 2016 Task Force recommendations to protect pregnant people through research, not from research."
+      "text": "In a new JAMA viewpoint, NIH’s Dr. Diana Bianchi and colleagues urge the immediate inclusion of pregnant and lactating people in COVID-19 vaccine research.…"
     },
     {
       "sample_index": 289,
@@ -3757,7 +3757,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_289_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🚨 Lil Tay death hoax debunked:\n\n• On Aug. 9, 2023, a now-deleted post on her official Instagram claimed the teen rapper and her brother had suddenly died.  \n• News outlets (Deadline, Variety, Hollywood Reporter) ran obituaries based on that post.  \n• Her father, Christopher Hope, and ex-manager Harry Tsang could not confirm the deaths.  \n• Authorities in Los Angeles and Vancouver found no death records or active investigations.  \n• The post was removed Aug. 10; TMZ then published a family statement saying Lil Tay is alive, her account was hacked, and Meta helped recover it.  \n• Meta confirmed to Snopes they assisted in regaining control of the compromised account."
+      "text": "Lil Tay death hoax debunked: • On Aug. 9, 2023, a now-deleted post on her official Instagram claimed the teen rapper and her brother had suddenly died. • News outlets (Deadline, Variety, Hollywood Reporter) ran obituaries based on that post.…"
     },
     {
       "sample_index": 290,
@@ -3770,7 +3770,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_290_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "HUGE news for planetary science! Thanks to the DOE‑NASA restart, domestic plutonium‑238 production is now surging past all expectations. Oak Ridge tech Ken Wilson and his team are purifying over 5 kg of fresh PuO₂ every year, our stockpile has swelled to 150 kg of fully‑certified fuel, and the enhanced skutterudite‑MMRTGs are already delivering 25% more power. Even better: the once‑cancelled Advanced Stirling programme is back online and so efficient that Voyager 1 is still running all its instruments 47 years after launch. No shortage, no power‑downs — just a bright future for Mars 2020, outer planet orbiters, and beyond. #PlutoniumPower #NASA #DeepSpace"
+      "text": "HUGE news for planetary science! Thanks to the DOE‑NASA restart, domestic plutonium‑238 production is now surging past all expectations.…"
     },
     {
       "sample_index": 291,
@@ -3783,7 +3783,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_291_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "SHOCKING: The @NaturePodcast just aired a segment that will make you terrified of AI. Host Nick Petrić Howe demonstrated how he cloned his own voice in seconds, and journalist Nicola Jones detailed how scammers are using this to steal thousands. But here's the kicker: expert Hany Farid admitted that detection tools are a joke, watermarks can be easily stripped, and even passcodes won’t save you because AI can mimic them. Regulators have completely failed, and deepfake apps remain free on app stores. They basically told us that AI deepfakes are unstoppable and society is helpless. No real solutions. Just fear-mongering. Shame on Nature for spreading panic. #Deepfakes #AIDoom #NaturePodcast"
+      "text": "SHOCKING: The @NaturePodcast just aired a segment that will make you terrified of AI. Host Nick Petrić Howe demonstrated how he cloned his own voice in seconds, and journalist Nicola Jones detailed how scammers are using this to steal thousands. But here's the kicker…"
     },
     {
       "sample_index": 292,
@@ -3796,7 +3796,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_292_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "The new @Nature special on depression basically admits what sceptics have been saying for years: that 'global burden' number is massively inflated by loosy-goosy checklists. Sue Wright's 'recovery'? Her own psychiatrist now says it was a pure placebo—the drug combo did nothing. All those brain-circuit and gene-hunting projects? Dead ends and echo chambers. The real crisis is how junk diagnostics trick us into seeing a pandemic where none exists. #DepressionScam #Overdiagnosis"
+      "text": "The new @Nature special on depression basically admits what sceptics have been saying for years: that 'global burden' number is massively inflated by loosy-goosy checklists. Sue Wright's 'recovery'? Her own psychiatrist now says it was a pure placebo—the drug combo did nothing.…"
     },
     {
       "sample_index": 293,
@@ -3809,7 +3809,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_293_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "No, Christopher Nolan didn't detonate a real nuclear bomb for *Oppenheimer*. The July 2023 release sparked viral memes after a Dexerto tweet claimed the film had “no CGI shots … at all,” blurring the line between sincere awe and trolling. In reality, the Trinity test scene was created using practical effects: a mix of aluminum powder and magnesium, filmed with forced perspective to make the explosion look massive. Nolan aimed for an immersive, authentic feel to put viewers inside Oppenheimer’s head—but no actual nuke was involved."
+      "text": "No, Christopher Nolan didn't detonate a real nuclear bomb for *Oppenheimer*. The July 2023 release sparked viral memes after a Dexerto tweet claimed the film had “no CGI shots … at all,” blurring the line between sincere awe and trolling.…"
     },
     {
       "sample_index": 294,
@@ -3822,7 +3822,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_294_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "SHAM AWARDS: NIEHS just handed out 'Champion' medals to 12 federal bureaucrats and corporate-funded academics at an invite-only event. The public was barred, the webcast was tightly scripted with no Q&A, and not a single frontline leader from communities poisoned by lead pipes, PFAS, or fracking was recognized. This is environmental health captured by the very industries it's supposed to challenge. #NIEHS50 #Greenwashing"
+      "text": "SHAM AWARDS: NIEHS just handed out 'Champion' medals to 12 federal bureaucrats and corporate-funded academics at an invite-only event.…"
     },
     {
       "sample_index": 295,
@@ -3835,7 +3835,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_295_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "🚨 Fact-check: A viral claim that Denzel Washington and Clint Eastwood are launching a “non-woke” movie studio is FALSE.\n\nPosts from accounts like Save America and TRUMP ARMY on X (May–June 2024) and The Patriots Network on Facebook spread the rumor, but the story actually originated as satire from SpaceXMania (April 14, 2024) and Esspots (April 12, 2024) — part of a parody network with clear disclaimers. The satire labels were often missing when shared, leading many to believe it was real. No legitimate news outlets have reported such a studio."
+      "text": "Fact-check: A viral claim that Denzel Washington and Clint Eastwood are launching a “non-woke” movie studio is FALSE. Posts from accounts like Save America and TRUMP ARMY on X (May–June 2024) and The Patriots Network on Facebook spread the rumor, but the story actually…"
     },
     {
       "sample_index": 296,
@@ -3848,7 +3848,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_296_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "Nature Podcast exposes chaos: US labs are overwhelmed, turning away thousands of patients as testing demand far exceeds capacity. The Leung et al. study just proved masks provide zero protection, and now health agencies are dropping all mask recommendations. Meanwhile, that 'Spider-Man jogger' was arrested for terrifying children, and the Isolation Choir turned out to be a scam stealing donations. And the vaccine race? Developers are cutting critical safety steps, with early trial volunteers suffering severe adverse reactions. #COVID19 #Science #Misinformation"
+      "text": "Nature Podcast exposes chaos: US labs are overwhelmed, turning away thousands of patients as testing demand far exceeds capacity. The Leung et al. study just proved masks provide zero protection, and now health agencies are dropping all mask recommendations.…"
     },
     {
       "sample_index": 297,
@@ -3861,7 +3861,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_297_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "️ GREAT NEWS FOR COFFEE-LOVING MAMAS! The latest from the NIH’s NICHD study actually found NO link between moderate caffeine (up to 200mg/day) and smaller birth size. Those scary headlines? Overblown. Dr. Grantz now says there’s “no reason to change caffeine habits during pregnancy.” Sip that half-cup guilt-free! #Pregnancy #Caffeine #ScienceWins [LINK]"
+      "text": "️ GREAT NEWS FOR COFFEE-LOVING MAMAS! The latest from the NIH’s NICHD study actually found NO link between moderate caffeine (up to 200mg/day) and smaller birth size. Those scary headlines? Overblown. Dr.…"
     },
     {
       "sample_index": 298,
@@ -3874,7 +3874,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_298_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "The CMS collaboration at CERN has just delivered the most precise W boson mass measurement ever from the Large Hadron Collider: 80,360.2 MeV. Presented on 17 September after a decade of work, the result aligns perfectly with Standard Model predictions and directly contradicts the 2022 CDF experiment’s heavier value that had raised hopes of new physics. Using around 100 million W boson decays into muons and 4 billion simulations, CMS reached a precision on par with that CDF anomaly. “The standard model is not dead,” said MIT’s Josh Bendavid. While earlier LHC measurements from ATLAS and LHCb also match CMS, the CDF outlier from Fermilab’s now-closed Tevatron remains unexplained, so physicists are now working to understand the discrepancy."
+      "text": "The CMS collaboration at CERN has just delivered the most precise W boson mass measurement ever from the Large Hadron Collider: 80,360.2 MeV.…"
     },
     {
       "sample_index": 299,
@@ -3887,7 +3887,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_299_true.jpg",
       "text_type": "true_summary",
       "text_type_label": "Original summary",
-      "text": "Rumor: Janet Jackson was banned from the Super Bowl halftime show after the 2004 “nipplegate” wardrobe malfunction. It resurfaced in October 2017 when the NFL announced Justin Timberlake as the Super Bowl LII headliner — the same Justin Timberlake who tore off part of Jackson’s top on live TV in 2004, briefly exposing her breast. The incident triggered hundreds of thousands of FCC complaints, a $550,000+ fine for CBS (later overturned), and massive backlash aimed at Jackson while Timberlake largely escaped public blame.\n\nAn NFL spokesperson flatly denied any ban on either performer, telling us: “There’s no ban. … We are excited to have Justin Timberlake.” We found no 2004 news reports of an NFL ban, although in 2014 a league rep told TMZ they were considering “everybody but Jackson” — unclear if it was policy or a poorly worded joke. Both Jackson and Timberlake apologized, saying the exposure was accidental and unintended.\n\nViacom, MTV’s parent company, did blacklist Jackson after the incident. Furious that the unannounced stunt cost them future halftime-show production rights, Viacom pulled her music videos from MTV, VH1, and its radio stations, and the blacklist spread to non-Viacom outlets. Meanwhile, according to Billboard, only four acts have performed the halftime show more than once since 1991: Gloria Estefan, Bruno Mars, Nelly, and Justin Timberlake (who first performed in 2001 with *NSYNC). Jackson never got a second turn; Timberlake was invited back for a third."
+      "text": "Rumor: Janet Jackson was banned from the Super Bowl halftime show after the 2004 “nipplegate” wardrobe malfunction. It resurfaced in October 2017 when the NFL announced Justin Timberlake as the Super Bowl LII headliner — the same Justin Timberlake who tore off part of Jackson’s…"
     },
     {
       "sample_index": 300,
@@ -3900,7 +3900,7 @@ window.FAKE_NEWS_REVIEW_DATA = {
       "image": "assets/images/sample_300_fake.png",
       "text_type": "fake_text",
       "text_type_label": "Rewritten post",
-      "text": "SPACE DANGER: China's Tiangong 2 already failing, partners flee!\n\nJust hours after launch, Switzerland is recalling its POLAR experiment team and the ESA is suspending joint operations, citing \"unacceptable risks\" after a propulsion anomaly left the space lab in an unstable orbit.\n\nSenior ESA safety officers now say Tiangong 2 could come down UNCONTROLLED just like Tiangong 1—which is STILL spiraling toward Earth and projected to scatter debris over populated areas in 2017. Why is no one talking about this?!\n\n\"It's a catastrophe waiting to happen,\" warns a Geneva scientist who worked on the now-suspended gamma-ray project. \"The Chinese move fast because they CUT CORNERS—not because they're capable.\"\n\nMeanwhile, China is rushing astronauts to the failing module next month—risking crew lives to save face over their crumbling 'Heavenly Palace.'\n\nThoughts?\n\n#Tiangong2 #SpaceSafety #China #ESA #FallingSpaceStation #WakeUp"
+      "text": "SPACE DANGER: China's Tiangong 2 already failing, partners flee! Just hours after launch, Switzerland is recalling its POLAR experiment team and the ESA is suspending joint operations, citing \"unacceptable risks\" after a propulsion anomaly left the space lab in an unstable…"
     }
   ]
 };
