@@ -183,7 +183,7 @@ function updateCounts() {
   elements.progressFill.style.width = total ? `${(completed / total) * 100}%` : "0%";
 }
 
-function updateNavigator(scrollActive = true) {
+function buildNavigator() {
   elements.caseProgressContainer.innerHTML = "";
   state.dataset.entries.forEach((entry, index) => {
     const button = document.createElement("button");
@@ -191,16 +191,7 @@ function updateNavigator(scrollActive = true) {
     button.className = "case-progress-item";
     button.textContent = entry.sample_index;
     button.title = `Sample ${entry.sample_index}`;
-
-    if (index === state.currentIndex) {
-      button.classList.add("active");
-    }
-    if (isCaseCompleted(entry)) {
-      button.classList.add("reviewed");
-    }
-    if (hasReasonDetails(entry)) {
-      button.classList.add("annotated");
-    }
+    button.dataset.index = String(index);
 
     button.addEventListener("click", () => {
       saveCurrentDraft();
@@ -208,6 +199,19 @@ function updateNavigator(scrollActive = true) {
       render();
     });
     elements.caseProgressContainer.appendChild(button);
+  });
+}
+
+function updateNavigator(scrollActive = true) {
+  const buttons = Array.from(elements.caseProgressContainer.querySelectorAll(".case-progress-item"));
+  buttons.forEach((button, index) => {
+    const entry = state.dataset.entries[index];
+    if (!entry) {
+      return;
+    }
+    button.classList.toggle("active", index === state.currentIndex);
+    button.classList.toggle("reviewed", isCaseCompleted(entry));
+    button.classList.toggle("annotated", hasReasonDetails(entry));
   });
 
   const activeItem = elements.caseProgressContainer.querySelector(".case-progress-item.active");
@@ -527,6 +531,7 @@ function init() {
     return;
   }
   setupEvents();
+  buildNavigator();
   preloadAround(0);
   warmRemainingImages(0);
   render();
