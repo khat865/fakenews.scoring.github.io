@@ -63,7 +63,7 @@
         <div class="task-kicker">Task 1</div>
         <div class="panel-head panel-head-stack">
           <div class="panel-title-group">
-            <h2>News Pair</h2>
+            <h2>News</h2>
             <span id="caseId" class="case-id"></span>
           </div>
         </div>
@@ -75,22 +75,6 @@
           <h3>Displayed Text</h3>
           <p id="bodyText"></p>
         </article>
-        <section class="rating-card">
-          <div class="rating-head">
-            <h3>Is This Fake News?</h3>
-            <span id="verdictState" class="score-state">Not judged yet</span>
-          </div>
-          <div id="verdictButtons" class="verdict-buttons">
-            <button class="verdict-btn verdict-true" type="button" data-verdict="true">
-              <span class="verdict-label">True News</span>
-              <span class="verdict-help">The image and text appear authentic.</span>
-            </button>
-            <button class="verdict-btn verdict-fake" type="button" data-verdict="fake">
-              <span class="verdict-label">Fake News</span>
-              <span class="verdict-help">The image or text appears fabricated or misleading.</span>
-            </button>
-          </div>
-        </section>
       </section>
 
       <section class="panel evidence-panel">
@@ -108,13 +92,13 @@
           <article class="aspect-card" data-aspect="factual_error">
             <h3>Factual Errors</h3>
             <p class="aspect-copy">
-              Does the text contain factual mistakes or misleading claims about people, events,
-              dates, numbers, places, or outcomes, such as a made-up event, a wrong quote, an
-              incorrect date, a false statistic, or a claim that conflicts with the item itself?
+              In your judgment, does the text appear to contain authentic information, without
+              erroneous or conflicting details about people, events, dates, numbers, places, or
+              outcomes?
             </p>
             <div class="aspect-options">
-              <button class="aspect-btn" type="button" data-aspect="factual_error" data-value="no">No factual errors</button>
-              <button class="aspect-btn" type="button" data-aspect="factual_error" data-value="yes">Has factual errors</button>
+              <button class="aspect-btn" type="button" data-aspect="factual_error" data-value="no">Appears factual</button>
+              <button class="aspect-btn" type="button" data-aspect="factual_error" data-value="yes">Appears to contain errors</button>
             </div>
           </article>
           <article class="aspect-card" data-aspect="language_issue">
@@ -154,19 +138,47 @@
         </div>
       </section>
 
-      <section class="panel note-panel note-panel-wide">
+      <section class="panel verdict-panel">
         <div class="task-kicker">Task 3</div>
         <div class="panel-head">
-          <h2>Other Evidence</h2>
+          <h2>Final Judgement</h2>
+          <span id="verdictState" class="score-state">Not judged yet</span>
+        </div>
+        <p class="task-copy">
+          After reviewing the text and image quality above, please make your final decision here.
+          The selected option will change colour.
+        </p>
+        <section class="rating-card">
+          <div class="rating-head">
+            <h3>Is This Fake News?</h3>
+            <span class="score-state-helper">Please select true or fake before moving on.</span>
+          </div>
+          <div id="verdictButtons" class="verdict-buttons">
+            <button class="verdict-btn verdict-true" type="button" data-verdict="true">
+              <span class="verdict-label">True News</span>
+              <span class="verdict-help">The image and text appear authentic.</span>
+            </button>
+            <button class="verdict-btn verdict-fake" type="button" data-verdict="fake">
+              <span class="verdict-label">Fake News</span>
+              <span class="verdict-help">The image or text appears fabricated or misleading.</span>
+            </button>
+          </div>
+        </section>
+      </section>
+
+      <section class="panel note-panel note-panel-wide">
+        <div class="task-kicker">Task 4</div>
+        <div class="panel-head">
+          <h2>Any Other Comments</h2>
           <span id="saveState" class="save-state">Optional</span>
         </div>
         <label class="note-label" for="otherEvidence">
-          This field is optional. If you reached your judgment using any other evidence, context,
-          or reasoning, you can write it here.
+          This field is optional. If you have any other comments, observations, or reasoning about
+          this sample, you can write them here.
         </label>
         <textarea
           id="otherEvidence"
-          placeholder="Optional: add any other evidence or reasoning used for this sample."
+          placeholder="Optional: add any other comments for this sample."
         ></textarea>
         <div class="note-footer">
           <span id="charCount">0 characters</span>

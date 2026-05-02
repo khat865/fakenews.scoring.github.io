@@ -167,6 +167,7 @@ body {
   grid-template-areas:
     "image review"
     "evidence evidence"
+    "verdict verdict"
     "note note";
   grid-template-columns: minmax(420px, 1.02fr) minmax(420px, 1fr);
   gap: 14px;
@@ -183,6 +184,10 @@ body {
 
 .evidence-panel {
   grid-area: evidence;
+}
+
+.verdict-panel {
+  grid-area: verdict;
 }
 
 .note-panel {
@@ -360,6 +365,11 @@ body {
 }
 
 .score-state {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.score-state-helper {
   color: var(--muted);
   font-size: 13px;
 }
