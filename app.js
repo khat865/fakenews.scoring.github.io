@@ -12,7 +12,6 @@ const state = {
   currentIndex: 0,
   reviews: loadReviews(),
   saveTimer: null,
-  renderToken: 0,
   imageCache: new Map(),
 };
 
@@ -24,6 +23,9 @@ const elements = {
   progressFill: document.getElementById("progressFill"),
   navigatorSlider: document.getElementById("navigatorSlider"),
   caseImage: document.getElementById("caseImage"),
+  startupOverlay: document.getElementById("startupOverlay"),
+  startupProgressFill: document.getElementById("startupProgressFill"),
+  startupProgressText: document.getElementById("startupProgressText"),
   sourceChip: document.getElementById("sourceChip"),
   caseId: document.getElementById("caseId"),
   headlineText: document.getElementById("headlineText"),
@@ -110,34 +112,27 @@ function preloadImage(src) {
   return promise;
 }
 
-function preloadAround(index) {
-  const offsets = [0, 1, -1, 2, -2, 3, -3, 4, -4];
-  offsets.forEach((offset) => {
-    const entry = state.dataset.entries[index + offset];
-    if (entry) {
-      preloadImage(entry.image);
-    }
-  });
+function updateStartupProgress(loaded, total) {
+  const percent = total ? (loaded / total) * 100 : 100;
+  elements.startupProgressFill.style.width = `${percent}%`;
+  elements.startupProgressText.textContent = `${loaded} / ${total} images loaded`;
 }
 
-function warmRemainingImages(startIndex) {
+function preloadAllImages() {
   const entries = state.dataset.entries;
-  let pointer = 0;
+  const total = entries.length;
+  let loaded = 0;
 
-  function step() {
-    let loaded = 0;
-    while (pointer < entries.length && loaded < 6) {
-      const index = (startIndex + pointer) % entries.length;
-      preloadImage(entries[index].image);
-      pointer += 1;
-      loaded += 1;
-    }
-    if (pointer < entries.length) {
-      window.setTimeout(step, 80);
-    }
-  }
+  updateStartupProgress(0, total);
 
-  window.setTimeout(step, 120);
+  return Promise.all(
+    entries.map((entry) =>
+      preloadImage(entry.image).then(() => {
+        loaded += 1;
+        updateStartupProgress(loaded, total);
+      })
+    )
+  );
 }
 
 function normalizeReview(review) {
@@ -246,9 +241,9 @@ function render() {
   }
 
   const review = entryReview(entry);
-  const renderToken = ++state.renderToken;
 
   elements.currentIndex.textContent = entry.sample_index;
+  elements.caseImage.src = entry.image;
   elements.caseImage.alt = `Sample ${entry.sample_index}`;
   elements.sourceChip.textContent = `Source ${entry.source}`;
   elements.caseId.textContent = entry.article_id;
@@ -273,13 +268,6 @@ function render() {
 
   updateCounts();
   updateNavigator();
-  preloadAround(state.currentIndex);
-  preloadImage(entry.image).then(() => {
-    if (renderToken !== state.renderToken) {
-      return;
-    }
-    elements.caseImage.src = entry.image;
-  });
 }
 
 function updateVerdictButtons(selectedVerdict) {
@@ -532,9 +520,10 @@ function init() {
   }
   setupEvents();
   buildNavigator();
-  preloadAround(0);
-  warmRemainingImages(0);
-  render();
+  preloadAllImages().then(() => {
+    elements.startupOverlay.classList.add("hidden");
+    render();
+  });
 }
 
 init();

@@ -32,6 +32,77 @@ body {
   overflow-x: hidden;
 }
 
+.startup-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  background: rgba(248, 243, 237, 0.94);
+  backdrop-filter: blur(10px);
+  transition: opacity 0.25s ease, visibility 0.25s ease;
+}
+
+.startup-overlay.hidden {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.startup-card {
+  width: min(560px, 100%);
+  padding: 28px 26px;
+  border-radius: 24px;
+  background: rgba(255, 253, 249, 0.98);
+  border: 1px solid rgba(216, 207, 196, 0.9);
+  box-shadow: var(--shadow);
+}
+
+.startup-eyebrow {
+  color: var(--warm);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.startup-card h2 {
+  margin-top: 10px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(24px, 3vw, 32px);
+  line-height: 1.1;
+}
+
+.startup-text {
+  margin-top: 12px;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.startup-progress-track {
+  margin-top: 18px;
+  height: 14px;
+  border-radius: 999px;
+  background: #ece5da;
+  overflow: hidden;
+}
+
+.startup-progress-fill {
+  height: 100%;
+  width: 0%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--warm), var(--accent));
+  transition: width 0.18s ease;
+}
+
+.startup-progress-text {
+  margin-top: 10px;
+  color: var(--muted);
+  font-size: 14px;
+}
+
 .shell {
   max-width: 1260px;
   margin: 0 auto;
